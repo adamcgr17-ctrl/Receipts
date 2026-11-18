@@ -8,6 +8,138 @@
  "favicon": "https://receiptswire.com/icon-32.png",
  "items": [
   {
+   "id": "https://receiptswire.com/e/2026-11-18/anthropic-ipo/",
+   "url": "https://receiptswire.com/e/2026-11-18/anthropic-ipo/",
+   "title": "Anthropic set to price its IPO tonight, guiding to $78 or more on near 7x demand",
+   "summary": "At $78 the public sale raises $64.4B, or $90.4B with a private placement, against SpaceX's record $85.7B.",
+   "content_html": "<p>At $78 the public sale raises $64.4B, or $90.4B with a private placement, against SpaceX&#x27;s record $85.7B.</p><ul><li><b>~7x</b> orders against the shares on offer, with Anthropic guiding to the $78 top of its range or above, Bloomberg reported</li><li><b>$80+</b> a price the WSJ says is possible, above the $70 to $78 range</li><li><b>$90.4B</b> raised at $78: $64.4B from 825M public shares plus a $26B placement bought by seven companies at the IPO price</li><li><b>$1.4T</b> fully diluted value at $78</li></ul><p>Sources:</p><ol><li><a href=\"https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/\">PYMNTS</a>: Bloomberg and WSJ on pricing (Press)</li><li><a href=\"https://www.tradingkey.com/analysis/stocks/us-stocks/262308817-anthropic-ipo-spacex-record-85-7-billion-pricing-wednesday-november-17-2026-tradingkey\">TradingKey</a>: Offer terms and the SpaceX record (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/anthropic-ipo.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/openai-california/",
+   "url": "https://receiptswire.com/e/2026-11-18/openai-california/",
+   "title": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
+   "summary": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
+   "content_html": "<p>The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.</p><ul><li><b>80+</b> times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27</li><li><b>2+ days</b> length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models</li><li><b>500+</b> RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says</li><li><b>$2,500</b> civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement</li></ul><p>Sources:</p><ol><li><a href=\"https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over\">California AG</a>: Announcement of the suit, with the complaint (Filing)</li><li><a href=\"https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html\">Computerworld</a>: Details from the complaint (Press)</li></ol><p>Confidence: Court filing</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/openai-california.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/nvidia/",
+   "url": "https://receiptswire.com/e/2026-11-18/nvidia/",
+   "title": "Nvidia stops H200 sales in China a day after a US rule on remote chip access",
+   "summary": "Jefferies says the rule could cut $44B to $62B from next year's data center sales. Nvidia says backlog covers it.",
+   "content_html": "<p>Jefferies says the rule could cut $44B to $62B from next year&#x27;s data center sales. Nvidia says backlog covers it.</p><ul><li><b>Nov 17</b> Acting CEO Colette Kress said Nvidia will no longer sell H200 chips in China, ending a deal that let the US collect a 25% tariff</li><li><b>Nov 16</b> Commerce issued a rule so chip export limits can&#x27;t be bypassed through remote access to data centers in third countries</li><li><b>$44–62B</b> Jefferies&#x27; estimate of the rule&#x27;s hit to next year&#x27;s data center revenue; Kress says backlog means no top-line impact</li><li><b>$115.8B</b> Q3 revenue, up 103% from a year ago; Nvidia&#x27;s outlook assumes no data center compute revenue from China</li></ul><p>Sources:</p><ol><li><a href=\"https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster\">TechCrunch</a>: Kress on H200, and Jefferies&#x27; estimate (Press)</li><li><a href=\"https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology\">BIS</a>: Rule on remote access to advanced chips (Filing)</li><li><a href=\"https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout\">NPR</a>: What the rule closes (Press)</li><li><a href=\"https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html\">Nvidia</a>: Q3 fiscal 2027 results and outlook (Company)</li></ol><p>Confidence: Company + filing</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/nvidia.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/gpt-6-2/",
+   "url": "https://receiptswire.com/e/2026-11-18/gpt-6-2/",
+   "title": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
+   "summary": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
+   "content_html": "<p>OpenAI says Astra is the first model it has released at its &quot;High&quot; risk level for AI self-improvement.</p><ul><li><b>$8 / $40</b> Astra&#x27;s API price per million input and output tokens, 20% below GPT-6 Astra; Sol costs $2 / $10</li><li><b>62</b> Astra&#x27;s Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65</li><li><b>$4.00</b> Astra&#x27;s cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40</li><li><b>High</b> OpenAI&#x27;s rating of Astra on AI self-improvement risk, a first for a model it has released</li></ul><p>Sources:</p><ol><li><a href=\"https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/\">The Decoder</a>: Release, prices and safety rating (Press)</li><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index scores and cost per task (Data)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2&#x27;s list price (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/gpt-6-2.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/outages/",
+   "url": "https://receiptswire.com/e/2026-11-18/outages/",
+   "title": "Spy chief ties an NSA outage to PHP patching; other outages had different stated causes",
+   "summary": "AI helped find last month's critical PHP flaws. Claims that AI-driven patching caused the week's outages lack public support.",
+   "content_html": "<p>AI helped find last month&#x27;s critical PHP flaws. Claims that AI-driven patching caused the week&#x27;s outages lack public support.</p><ul><li><b>Nov 17</b> DNI Jay Clayton said patching after a PHP vulnerability kept NSA systems from coming back up, and saw no sign of a coordinated attack</li><li><b>Oct 21</b> critical PHP flaws were disclosed after Wiz found them with AI help, including Google&#x27;s Gemini 4 Argon</li><li><b>70%</b> of websites run PHP, Wiz says; the NSA told operators to patch fast or take systems offline</li><li><b>Nov 13</b> FAA ground stop; its chief said there was zero evidence of AI involvement. Microsoft and JPMorgan Chase blamed software bugs</li></ul><p>Sources:</p><ol><li><a href=\"https://foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages\">Fox Business</a>: DNI Jay Clayton&#x27;s interview (Press)</li><li><a href=\"https://www.wiz.io/blog/php2shell-php-rce\">Wiz</a>: How AI helped find PHP2Shell (Company)</li><li><a href=\"https://www.nsa.gov/press-room/press-releases-statements/press-release-view/article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/\">NSA</a>: Patch advisory, Oct 21 (Filing)</li><li><a href=\"https://www.implicator.ai/us-tech-outages-ai-patch-rush/\">Implicator</a>: Stated cause of each outage (Press)</li><li><a href=\"https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages\">The Washington Sun</a>: Anonymous account of Congress briefings (Press)</li></ol><p>Confidence: Press + company</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/outages.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/microsoft-ignite/",
+   "url": "https://receiptswire.com/e/2026-11-18/microsoft-ignite/",
+   "title": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
+   "summary": "Autopilot, an always-on agent with its own ID and a human manager, starts rolling out. No prices yet.",
+   "content_html": "<p>Autopilot, an always-on agent with its own ID and a human manager, starts rolling out. No prices yet.</p><ul><li><b>50M+</b> agents in Agent 365, Microsoft&#x27;s control plane for governing them</li><li><b>Autopilot</b> an always-on agent with its own Entra ID and a named manager, now rolling out to early-access customers</li><li><b>~80%</b> of Fortune 500 companies use Copilot Cowork, Microsoft says</li><li><b>40%</b> more tokens per watt Microsoft claims for its new Maia 300 chip over leading GPU systems</li></ul><p>Sources:</p><ol><li><a href=\"https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/\">Microsoft</a>: Nadella&#x27;s Ignite keynote, edited (Company)</li><li><a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/\">Microsoft Copilot</a>: Autopilot, Office and Cowork details (Company)</li></ol><p>Confidence: Company</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/microsoft-ignite.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/chatgpt-wallet/",
+   "url": "https://receiptswire.com/e/2026-11-18/chatgpt-wallet/",
+   "title": "OpenAI's new wallet lets ChatGPT pay by card as JPMorgan blocks agents from its cards",
+   "summary": "Card networks are wiring agents in. Payments executives don't expect much volume before 2027.",
+   "content_html": "<p>Card networks are wiring agents in. Payments executives don&#x27;t expect much volume before 2027.</p><ul><li><b>3 networks</b> Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI. It is open to US Pro subscribers, and every purchase needs a biometric check</li><li><b>140+</b> participants in Visa&#x27;s Agentic Ready program for merchants and payment firms, including Stripe, Adyen and PayPal; 175+ card issuers joined earlier</li><li><b>JPMorgan</b> blocks agents that shop with a card number a customer hands them, the WSJ reported</li></ul><p>Sources:</p><ol><li><a href=\"https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/\">Payments Dive</a>: The launch and executives&#x27; outlook (Press)</li><li><a href=\"https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us\">The Paypers</a>: How a wallet purchase works (Press)</li><li><a href=\"https://investingnews.com/visa-expands-agentic-ready-to-help-scale-trusted-ai-commerce-globally/\">Visa</a>: Agentic Ready expansion, Nov 17 (Company)</li><li><a href=\"https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/\">PYMNTS</a>: WSJ report on JPMorgan (Press)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/chatgpt-wallet.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/isomorphic/",
+   "url": "https://receiptswire.com/e/2026-11-18/isomorphic/",
+   "title": "Isomorphic Labs raises $5B to move AI-designed drugs toward trials",
+   "summary": "The DeepMind spinout raised $2.1B six months ago. It hasn't disclosed a valuation.",
+   "content_html": "<p>The DeepMind spinout raised $2.1B six months ago. It hasn&#x27;t disclosed a valuation.</p><ul><li><b>$5B</b> Series C co-led by Greenoaks and Sequoia, with a16z and Alphabet among the investors</li><li><b>$2.1B</b> its Series B in May, led by Thrive Capital, after a $600M first round in March 2025</li><li><b>~$50B</b> valuation Bloomberg reported Nov 4 that it was seeking; the company hasn&#x27;t disclosed one</li></ul><p>Sources:</p><ol><li><a href=\"https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic\">Tech Funding News</a>: The round, investors and history (Press)</li></ol><p>Confidence: Company, via press</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/isomorphic.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/openai/",
+   "url": "https://receiptswire.com/e/2026-11-18/openai/",
+   "title": "OpenAI raised $15B at a $1.25T valuation, CNBC reports",
+   "summary": "Half the $30B it went out for. The round hasn't formally closed.",
+   "content_html": "<p>Half the $30B it went out for. The round hasn&#x27;t formally closed.</p><ul><li><b>$15B</b> raised, half the $30B OpenAI first sought</li><li><b>$1.25T</b> valuation, below the $1.4T it pitched and about 47% above March&#x27;s $852B</li><li><b>$11B</b> first close by Nov 6, according to Bloomberg</li></ul><p>Sources:</p><ol><li><a href=\"https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-raises-15-b-at-1-25-trillion-valuation/cNGC3OsR9OT\">Stocktwits</a>: CNBC&#x27;s David Faber on the raise (Press)</li><li><a href=\"https://letsdatascience.com/news/openai-reportedly-closes-11-billion-first-portion-of-round-a-43b7bec2\">LetsDataScience</a>: Bloomberg on the $11B first close (Press)</li><li><a href=\"https://valueaddvc.com/pulse/openai-15b-raise-1-25t-valuation-half-target-2026\">ValueAdd VC</a>: Pre- or post-money, unresolved (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/openai.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/layoffs/",
+   "url": "https://receiptswire.com/e/2026-11-18/layoffs/",
+   "title": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
+   "summary": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
+   "content_html": "<p>Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.</p><ul><li><b>121,401</b> announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)</li><li><b>1,265</b> cuts cited AI in October, under 3% of the month, against about 40% in May</li><li><b>Up to 9%</b> of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated</li><li><b>1%</b> of payrolls laid off in September, 1.6 million people, while hires ran at 5.4 million (JOLTS)</li></ul><p>Sources:</p><ol><li><a href=\"https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129\">HCA Magazine</a>: Challenger&#x27;s count through October (Press)</li><li><a href=\"https://techjacksolutions.com/?p=107167\">TechJack</a>: May and October shares (Press)</li><li><a href=\"https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/\">Fortune</a>: Goldman&#x27;s 2027 outlook and JOLTS data (Press)</li><li><a href=\"https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/\">People Managing People</a>: The 22% share, through August (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Jobs"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/layoffs.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-18/gemini-4/",
+   "url": "https://receiptswire.com/e/2026-11-18/gemini-4/",
+   "title": "Google's Gemini 4 Carbon ranks third on an independent index; its price doubles Nov 30",
+   "summary": "Hydrogen, a cheaper model for everyday agent work, shipped Nov 12 at $1.50 and $7.50 per million tokens.",
+   "content_html": "<p>Hydrogen, a cheaper model for everyday agent work, shipped Nov 12 at $1.50 and $7.50 per million tokens.</p><ul><li><b>60</b> Carbon&#x27;s Artificial Analysis Intelligence Index score, third behind Claude Fable 5.2 at 65 and GPT-6.2 Astra at 62</li><li><b>$2 / $10</b> Carbon&#x27;s price per million input and output tokens through Nov 30, then $4 / $20</li><li><b>$1.50 / $7.50</b> Hydrogen, generally available Nov 12 for everyday coding and agent work</li></ul><p>Sources:</p><ol><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index rankings (Data)</li><li><a href=\"https://letsdatascience.com/news/google-rolls-out-gemini-4-carbon-to-general-public-9b41bcb4\">LetsDataScience</a>: Carbon&#x27;s general release (Press)</li><li><a href=\"https://jetstream.blog/?p=228880\">Jetstream</a>: Pricing after Nov 30 (Press)</li><li><a href=\"https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon\">TeamoRouter</a>: Hydrogen&#x27;s price (Press)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2 took the top spot (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-18T06:01:00-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-18/gemini-4.png"
+  },
+  {
    "id": "https://receiptswire.com/e/2026-11-17/anthropic-ipo/",
    "url": "https://receiptswire.com/e/2026-11-17/anthropic-ipo/",
    "title": "Anthropic expected to price its IPO Wednesday at $70–78 a share",

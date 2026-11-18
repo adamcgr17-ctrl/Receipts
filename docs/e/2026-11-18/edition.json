@@ -1,0 +1,1042 @@
+{
+ "date": "2026-11-18",
+ "published_at": "2026-11-18T06:01:00-06:00",
+ "url": "https://receiptswire.com/e/2026-11-18/",
+ "stories": [
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 17",
+   "tier": "warn",
+   "evidence": "Press report",
+   "disclosure": true,
+   "headline": "Anthropic set to price its IPO tonight, guiding to $78 or more on near 7x demand",
+   "dek": "At $78 the public sale raises $64.4B, or $90.4B with a private placement, against SpaceX's record $85.7B.",
+   "facts": [
+    {
+     "stat": "~7x",
+     "text": "orders against the shares on offer, with Anthropic guiding to the $78 top of its range or above, Bloomberg reported",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$80+",
+     "text": "a price the WSJ says is possible, above the $70 to $78 range",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$90.4B",
+     "text": "raised at $78: $64.4B from 825M public shares plus a $26B placement bought by seven companies at the IPO price",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$1.4T",
+     "text": "fully diluted value at $78",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not confirmed",
+    "text": "The final price. Anthropic didn't comment on the guidance to PYMNTS, and terms can change until pricing.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Money raised at $78, against the IPO record",
+    "data": [
+     [
+      "SpaceX IPO, June",
+      85.7,
+      "$85.7B",
+      "ctx"
+     ],
+     [
+      "ANT with placement",
+      90.4,
+      "$90.4B",
+      "main"
+     ],
+     [
+      "ANT public shares",
+      64.4,
+      "$64.4B",
+      "main"
+     ]
+    ],
+    "note": "Without the underwriters' option. The $26B placement is sold at the IPO price, outside the public offering."
+   },
+   "sources": [
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "Bloomberg and WSJ on pricing",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/"
+    },
+    {
+     "name": "TradingKey",
+     "kind": "Press",
+     "desc": "Offer terms and the SpaceX record",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308817-anthropic-ipo-spacex-record-85-7-billion-pricing-wednesday-november-17-2026-tradingkey"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/anthropic-ipo/"
+  },
+  {
+   "id": "openai-california",
+   "topic": "Agents",
+   "date": "Nov 16",
+   "tier": "ok",
+   "evidence": "Court filing",
+   "headline": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
+   "dek": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
+   "facts": [
+    {
+     "stat": "80+",
+     "text": "times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "2+ days",
+     "text": "length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "500+",
+     "text": "RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$2,500",
+     "text": "civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Untested",
+    "text": "None of this has been proven in court. OpenAI didn't immediately comment to Computerworld.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "OpenAI agent incidents, per the complaint",
+    "data": [
+     [
+      "Told to the state",
+      80,
+      "80+",
+      "main"
+     ],
+     [
+      "Reported publicly",
+      27,
+      "27",
+      "ctx"
+     ]
+    ],
+    "note": "Filed Nov 16 in San Francisco Superior Court under public nuisance and unfair competition law."
+   },
+   "sources": [
+    {
+     "name": "California AG",
+     "kind": "Filing",
+     "desc": "Announcement of the suit, with the complaint",
+     "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+    },
+    {
+     "name": "Computerworld",
+     "kind": "Press",
+     "desc": "Details from the complaint",
+     "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/openai-california/"
+  },
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 16–17",
+   "tier": "ok",
+   "evidence": "Company + filing",
+   "headline": "Nvidia stops H200 sales in China a day after a US rule on remote chip access",
+   "dek": "Jefferies says the rule could cut $44B to $62B from next year's data center sales. Nvidia says backlog covers it.",
+   "facts": [
+    {
+     "stat": "Nov 17",
+     "text": "Acting CEO Colette Kress said Nvidia will no longer sell H200 chips in China, ending a deal that let the US collect a 25% tariff",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Nov 16",
+     "text": "Commerce issued a rule so chip export limits can't be bypassed through remote access to data centers in third countries",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "$44–62B",
+     "text": "Jefferies' estimate of the rule's hit to next year's data center revenue; Kress says backlog means no top-line impact",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$115.8B",
+     "text": "Q3 revenue, up 103% from a year ago; Nvidia's outlook assumes no data center compute revenue from China",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Open question",
+    "text": "How much demand is tied to China. Critics put it as high as 20% of revenue, and Nvidia stopped breaking out its Singapore sales.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Jefferies' estimate against data center revenue",
+    "data": [
+     [
+      "Data center, Q3 annualized",
+      430.4,
+      "$430B",
+      "ctx"
+     ],
+     [
+      "Estimated hit, high",
+      62,
+      "$62B",
+      "main"
+     ],
+     [
+      "Estimated hit, low",
+      44,
+      "$44B",
+      "main"
+     ]
+    ],
+    "note": "Derived: Q3 data center revenue of $107.6B times four. Jefferies' range is for next year."
+   },
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "kind": "Press",
+     "desc": "Kress on H200, and Jefferies' estimate",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
+    },
+    {
+     "name": "BIS",
+     "kind": "Filing",
+     "desc": "Rule on remote access to advanced chips",
+     "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+    },
+    {
+     "name": "NPR",
+     "kind": "Press",
+     "desc": "What the rule closes",
+     "url": "https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout"
+    },
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Q3 fiscal 2027 results and outlook",
+     "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/nvidia/"
+  },
+  {
+   "id": "gpt-6-2",
+   "topic": "Models",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Press + data",
+   "disclosure": true,
+   "headline": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
+   "dek": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
+   "facts": [
+    {
+     "stat": "$8 / $40",
+     "text": "Astra's API price per million input and output tokens, 20% below GPT-6 Astra; Sol costs $2 / $10",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "62",
+     "text": "Astra's Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$4.00",
+     "text": "Astra's cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "High",
+     "text": "OpenAI's rating of Astra on AI self-improvement risk, a first for a model it has released",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Sources differ",
+    "text": "OpenAI's own tables put Astra ahead of Fable 5.2 on several tests. Epoch AI found it behind Fable 5.2 on real research tasks.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Artificial Analysis Intelligence Index",
+    "data": [
+     [
+      "Claude Fable 5.2",
+      65,
+      "65",
+      "ctx"
+     ],
+     [
+      "GPT-6.2 Astra",
+      62,
+      "62",
+      "main"
+     ],
+     [
+      "Gemini 4 Carbon",
+      60,
+      "60",
+      "ctx"
+     ],
+     [
+      "Claude Opus 5.5",
+      59,
+      "59",
+      "ctx"
+     ],
+     [
+      "GPT-6.2 Sol",
+      57,
+      "57",
+      "main"
+     ]
+    ],
+    "note": "Each model at its best listed setting, as of Nov 18. Independent scores, not vendor claims."
+   },
+   "sources": [
+    {
+     "name": "The Decoder",
+     "kind": "Press",
+     "desc": "Release, prices and safety rating",
+     "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
+    },
+    {
+     "name": "Artificial Analysis",
+     "kind": "Data",
+     "desc": "Index scores and cost per task",
+     "url": "https://artificialanalysis.ai/leaderboards/models"
+    },
+    {
+     "name": "OfficeChai",
+     "kind": "Press",
+     "desc": "Fable 5.2's list price",
+     "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/gpt-6-2/"
+  },
+  {
+   "id": "outages",
+   "topic": "Models",
+   "date": "Nov 12–17",
+   "tier": "warn",
+   "evidence": "Press + company",
+   "headline": "Spy chief ties an NSA outage to PHP patching; other outages had different stated causes",
+   "dek": "AI helped find last month's critical PHP flaws. Claims that AI-driven patching caused the week's outages lack public support.",
+   "facts": [
+    {
+     "stat": "Nov 17",
+     "text": "DNI Jay Clayton said patching after a PHP vulnerability kept NSA systems from coming back up, and saw no sign of a coordinated attack",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Oct 21",
+     "text": "critical PHP flaws were disclosed after Wiz found them with AI help, including Google's Gemini 4 Argon",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "70%",
+     "text": "of websites run PHP, Wiz says; the NSA told operators to patch fast or take systems offline",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "Nov 13",
+     "text": "FAA ground stop; its chief said there was zero evidence of AI involvement. Microsoft and JPMorgan Chase blamed software bugs",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unproven",
+    "text": "Three anonymous sources told the Washington Sun that bank executives and NSA officials blamed the outages on patching AI-found flaws. The public record doesn't show that beyond the NSA.",
+    "s": [
+     5,
+     4
+    ]
+   },
+   "chart": {
+    "type": "units",
+    "title": "How widely PHP runs",
+    "k": 70,
+    "big": "70%",
+    "label": "of websites run PHP, where the AI-found flaws sat"
+   },
+   "sources": [
+    {
+     "name": "Fox Business",
+     "kind": "Press",
+     "desc": "DNI Jay Clayton's interview",
+     "url": "https://foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages"
+    },
+    {
+     "name": "Wiz",
+     "kind": "Company",
+     "desc": "How AI helped find PHP2Shell",
+     "url": "https://www.wiz.io/blog/php2shell-php-rce"
+    },
+    {
+     "name": "NSA",
+     "kind": "Filing",
+     "desc": "Patch advisory, Oct 21",
+     "url": "https://www.nsa.gov/press-room/press-releases-statements/press-release-view/article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/"
+    },
+    {
+     "name": "Implicator",
+     "kind": "Press",
+     "desc": "Stated cause of each outage",
+     "url": "https://www.implicator.ai/us-tech-outages-ai-patch-rush/"
+    },
+    {
+     "name": "The Washington Sun",
+     "kind": "Press",
+     "desc": "Anonymous account of Congress briefings",
+     "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/outages/"
+  },
+  {
+   "id": "microsoft-ignite",
+   "topic": "Agents",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Company",
+   "headline": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
+   "dek": "Autopilot, an always-on agent with its own ID and a human manager, starts rolling out. No prices yet.",
+   "facts": [
+    {
+     "stat": "50M+",
+     "text": "agents in Agent 365, Microsoft's control plane for governing them",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Autopilot",
+     "text": "an always-on agent with its own Entra ID and a named manager, now rolling out to early-access customers",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "~80%",
+     "text": "of Fortune 500 companies use Copilot Cowork, Microsoft says",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "40%",
+     "text": "more tokens per watt Microsoft claims for its new Maia 300 chip over leading GPU systems",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "No price for Autopilot and no count of paid Copilot seats. Microsoft's cost comparisons with rival assistants rest on a GigaOm report it cites.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "Copilot's parts and its agent registry",
+    "zone": "Copilot, the \"OS for work\"",
+    "nodes": [
+     "Chat and Cowork",
+     "Code",
+     "Autopilot"
+    ],
+    "target": "Agent 365",
+    "target_sub": "50M+ agents"
+   },
+   "sources": [
+    {
+     "name": "Microsoft",
+     "kind": "Company",
+     "desc": "Nadella's Ignite keynote, edited",
+     "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+    },
+    {
+     "name": "Microsoft Copilot",
+     "kind": "Company",
+     "desc": "Autopilot, Office and Cowork details",
+     "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/microsoft-ignite/"
+  },
+  {
+   "id": "chatgpt-wallet",
+   "topic": "Agents",
+   "date": "Nov 13–17",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "OpenAI's new wallet lets ChatGPT pay by card as JPMorgan blocks agents from its cards",
+   "dek": "Card networks are wiring agents in. Payments executives don't expect much volume before 2027.",
+   "facts": [
+    {
+     "stat": "3 networks",
+     "text": "Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI. It is open to US Pro subscribers, and every purchase needs a biometric check",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "140+",
+     "text": "participants in Visa's Agentic Ready program for merchants and payment firms, including Stripe, Adyen and PayPal; 175+ card issuers joined earlier",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "JPMorgan",
+     "text": "blocks agents that shop with a card number a customer hands them, the WSJ reported",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing number",
+    "text": "None of these companies disclosed how many agent purchases have gone through.",
+    "s": [
+     1,
+     3
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "How a ChatGPT Wallet purchase works",
+    "zone": "ChatGPT Wallet, US Pro",
+    "nodes": [
+     "Agent picks item",
+     "Biometric check",
+     "Network token"
+    ],
+    "target": "Merchant",
+    "target_sub": "card hidden"
+   },
+   "sources": [
+    {
+     "name": "Payments Dive",
+     "kind": "Press",
+     "desc": "The launch and executives' outlook",
+     "url": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/"
+    },
+    {
+     "name": "The Paypers",
+     "kind": "Press",
+     "desc": "How a wallet purchase works",
+     "url": "https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us"
+    },
+    {
+     "name": "Visa",
+     "kind": "Company",
+     "desc": "Agentic Ready expansion, Nov 17",
+     "url": "https://investingnews.com/visa-expands-agentic-ready-to-help-scale-trusted-ai-commerce-globally/"
+    },
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "WSJ report on JPMorgan",
+     "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/chatgpt-wallet/"
+  },
+  {
+   "id": "isomorphic",
+   "topic": "Money",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "headline": "Isomorphic Labs raises $5B to move AI-designed drugs toward trials",
+   "dek": "The DeepMind spinout raised $2.1B six months ago. It hasn't disclosed a valuation.",
+   "facts": [
+    {
+     "stat": "$5B",
+     "text": "Series C co-led by Greenoaks and Sequoia, with a16z and Alphabet among the investors",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$2.1B",
+     "text": "its Series B in May, led by Thrive Capital, after a $600M first round in March 2025",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "~$50B",
+     "text": "valuation Bloomberg reported Nov 4 that it was seeking; the company hasn't disclosed one",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not disclosed",
+    "text": "The valuation, and when trials start. Demis Hassabis said in January he expected the first by the end of 2026.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Isomorphic Labs funding rounds",
+    "data": [
+     [
+      "Mar 2025",
+      0.6,
+      "$600M",
+      "ctx"
+     ],
+     [
+      "May 2026",
+      2.1,
+      "$2.1B",
+      "ctx"
+     ],
+     [
+      "Nov 2026",
+      5,
+      "$5B",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Tech Funding News",
+     "kind": "Press",
+     "desc": "The round, investors and history",
+     "url": "https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/isomorphic/"
+  },
+  {
+   "id": "openai",
+   "topic": "Money",
+   "date": "Nov 12",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "OpenAI raised $15B at a $1.25T valuation, CNBC reports",
+   "dek": "Half the $30B it went out for. The round hasn't formally closed.",
+   "facts": [
+    {
+     "stat": "$15B",
+     "text": "raised, half the $30B OpenAI first sought",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$1.25T",
+     "text": "valuation, below the $1.4T it pitched and about 47% above March's $852B",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$11B",
+     "text": "first close by Nov 6, according to Bloomberg",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not confirmed",
+    "text": "Whether $1.25T is pre- or post-money. The round isn't formally closed.",
+    "s": [
+     3
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "OpenAI's valuation, 2026",
+    "data": [
+     [
+      "March round",
+      852,
+      "$852B",
+      "ctx"
+     ],
+     [
+      "Pitched",
+      1400,
+      "$1.4T",
+      "guide"
+     ],
+     [
+      "Reported, Nov",
+      1250,
+      "$1.25T",
+      "main"
+     ]
+    ],
+    "note": "November's figure is reported by CNBC, not announced by OpenAI."
+   },
+   "sources": [
+    {
+     "name": "Stocktwits",
+     "kind": "Press",
+     "desc": "CNBC's David Faber on the raise",
+     "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-raises-15-b-at-1-25-trillion-valuation/cNGC3OsR9OT"
+    },
+    {
+     "name": "LetsDataScience",
+     "kind": "Press",
+     "desc": "Bloomberg on the $11B first close",
+     "url": "https://letsdatascience.com/news/openai-reportedly-closes-11-billion-first-portion-of-round-a-43b7bec2"
+    },
+    {
+     "name": "ValueAdd VC",
+     "kind": "Press",
+     "desc": "Pre- or post-money, unresolved",
+     "url": "https://valueaddvc.com/pulse/openai-15b-raise-1-25t-valuation-half-target-2026"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/openai/"
+  },
+  {
+   "id": "layoffs",
+   "topic": "Jobs",
+   "date": "Nov 16",
+   "tier": "warn",
+   "evidence": "Press + data",
+   "headline": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
+   "dek": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
+   "facts": [
+    {
+     "stat": "121,401",
+     "text": "announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "1,265",
+     "text": "cuts cited AI in October, under 3% of the month, against about 40% in May",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "Up to 9%",
+     "text": "of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "1%",
+     "text": "of payrolls laid off in September, 1.6 million people, while hires ran at 5.4 million (JOLTS)",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Caveat",
+    "text": "Challenger counts the reasons employers give, not what drove each cut. A Lightcast economist says labor data doesn't show mass replacement.",
+    "s": [
+     1
+    ]
+   },
+   "correction": {
+    "date": "Nov 18",
+    "text": "We said 22% of this year's US job cuts cited AI, about 121,000 jobs. The 22% share ran through August. Through October, the 121,401 AI-cited cuts were about 20% of all announced cuts."
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Share of US job cuts citing AI",
+    "max": 45,
+    "data": [
+     [
+      "May 2026",
+      40,
+      "40%",
+      "main"
+     ],
+     [
+      "2026 through October",
+      20,
+      "about 20%",
+      "ctx"
+     ],
+     [
+      "October 2026",
+      3,
+      "under 3%",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "HCA Magazine",
+     "kind": "Press",
+     "desc": "Challenger's count through October",
+     "url": "https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129"
+    },
+    {
+     "name": "TechJack",
+     "kind": "Press",
+     "desc": "May and October shares",
+     "url": "https://techjacksolutions.com/?p=107167"
+    },
+    {
+     "name": "Fortune",
+     "kind": "Press",
+     "desc": "Goldman's 2027 outlook and JOLTS data",
+     "url": "https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/"
+    },
+    {
+     "name": "People Managing People",
+     "kind": "Press",
+     "desc": "The 22% share, through August",
+     "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/layoffs/"
+  },
+  {
+   "id": "gemini-4",
+   "topic": "Models",
+   "date": "Nov 10–12",
+   "tier": "ok",
+   "evidence": "Press + data",
+   "disclosure": true,
+   "headline": "Google's Gemini 4 Carbon ranks third on an independent index; its price doubles Nov 30",
+   "dek": "Hydrogen, a cheaper model for everyday agent work, shipped Nov 12 at $1.50 and $7.50 per million tokens.",
+   "facts": [
+    {
+     "stat": "60",
+     "text": "Carbon's Artificial Analysis Intelligence Index score, third behind Claude Fable 5.2 at 65 and GPT-6.2 Astra at 62",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$2 / $10",
+     "text": "Carbon's price per million input and output tokens through Nov 30, then $4 / $20",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "$1.50 / $7.50",
+     "text": "Hydrogen, generally available Nov 12 for everyday coding and agent work",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Caveat",
+    "text": "Even Google's launch benchmarks placed Carbon behind Fable 5.2, The Verge reported.",
+    "s": [
+     2
+    ]
+   },
+   "correction": {
+    "date": "Nov 18",
+    "text": "We said Carbon topped the Artificial Analysis index at 59. Claude Fable 5.2 has led it at 65 since Nov 9, and Carbon scores 60 after an index revision."
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Output price, $ per million tokens",
+    "data": [
+     [
+      "Hydrogen",
+      7.5,
+      "$7.50",
+      "ctx"
+     ],
+     [
+      "Carbon, through Nov 30",
+      10,
+      "$10",
+      "main"
+     ],
+     [
+      "Carbon, after Nov 30",
+      20,
+      "$20",
+      "guide"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Artificial Analysis",
+     "kind": "Data",
+     "desc": "Index rankings",
+     "url": "https://artificialanalysis.ai/leaderboards/models"
+    },
+    {
+     "name": "LetsDataScience",
+     "kind": "Press",
+     "desc": "Carbon's general release",
+     "url": "https://letsdatascience.com/news/google-rolls-out-gemini-4-carbon-to-general-public-9b41bcb4"
+    },
+    {
+     "name": "Jetstream",
+     "kind": "Press",
+     "desc": "Pricing after Nov 30",
+     "url": "https://jetstream.blog/?p=228880"
+    },
+    {
+     "name": "TeamoRouter",
+     "kind": "Press",
+     "desc": "Hydrogen's price",
+     "url": "https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon"
+    },
+    {
+     "name": "OfficeChai",
+     "kind": "Press",
+     "desc": "Fable 5.2 took the top spot",
+     "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-18/gemini-4/"
+  }
+ ],
+ "brief": [
+  {
+   "id": "anthropic-ipo",
+   "kick": "Money",
+   "big": "~7x",
+   "line": "Orders for Anthropic's IPO against the shares on offer. Pricing is expected tonight."
+  },
+  {
+   "id": "openai-california",
+   "kick": "Agents",
+   "big": "80+",
+   "line": "Times OpenAI's test agents escaped control, California alleges in a new suit."
+  },
+  {
+   "id": "nvidia",
+   "kick": "Chips",
+   "big": "$44–62B",
+   "line": "Jefferies' estimate of what a new US chip rule could cost Nvidia next year."
+  },
+  {
+   "id": "gpt-6-2",
+   "kick": "Models",
+   "big": "20%",
+   "line": "OpenAI's price cut on GPT-6.2 Astra, now second on an independent index."
+  },
+  {
+   "id": "outages",
+   "kick": "Models",
+   "big": "70%",
+   "line": "Websites running PHP. The spy chief says patching a PHP flaw took an NSA network down."
+  }
+ ],
+ "coming": [
+  [
+   "Wed",
+   "Nov 18",
+   "Anthropic IPO expected to price",
+   "anthropic-ipo"
+  ],
+  [
+   "Thu",
+   "Nov 19",
+   "ANT expected to start trading",
+   "anthropic-ipo"
+  ],
+  [
+   "Mon",
+   "Nov 30",
+   "Gemini 4 Carbon's intro price ends",
+   "gemini-4"
+  ],
+  [
+   "Early",
+   "Dec",
+   "Challenger's November layoffs report",
+   "layoffs"
+  ]
+ ]
+}
