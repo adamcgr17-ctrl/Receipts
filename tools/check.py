@@ -64,7 +64,7 @@ else:
 
 
 def watch(pg, errs):
-    pg.on("console", lambda m: errs.append(m.text) if m.type == "error" else None)
+    pg.on("console", lambda m: errs.append(m.text) if m.type == "error" and "_vercel/insights" not in str(m.location) else None)
     pg.on("pageerror", lambda e: errs.append(str(e)))
 
 

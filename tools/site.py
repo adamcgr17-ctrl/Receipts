@@ -73,7 +73,7 @@ def page_meta(date, d, story=None, root=False):
     base, perma = f"{SP}e/{date}/", f"{SITE}e/{date}/"
     m = dict(base=base, permalink=perma, site_path=SP, home=SP, archived=date != LATEST,
              about=f"{SP}about/", archive=f"{SP}archive/", feed=f"{SP}feed.xml", json=f"{SP}edition.json",
-             published=d["published_at"])
+             published=d["published_at"], analytics=CFG.get("analytics", ""))
     lead = d["stories"][0]
     if story:
         m.update(title=f'{story["headline"]} | Receipts', og_title=story["headline"], description=story["dek"],

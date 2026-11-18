@@ -1,8 +1,9 @@
 {
- "site_url": "https://adamcgr17-ctrl.github.io/Receipts/",
+ "site_url": "https://receiptswire.com/",
  "repo": "adamcgr17-ctrl/Receipts",
- "domain": "",
+ "domain": "receiptswire.com",
  "inbox": "receipts-news@agentmail.to",
  "x_url": "",
- "subscribe_url": ""
+ "subscribe_url": "",
+ "analytics": "vercel"
 }

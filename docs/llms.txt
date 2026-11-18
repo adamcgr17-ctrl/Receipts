@@ -4,11 +4,11 @@
 
 ## Read
 
-- [Today's edition](https://adamcgr17-ctrl.github.io/Receipts/): the front page
-- [Today's edition as JSON](https://adamcgr17-ctrl.github.io/Receipts/edition.json): stories, facts, sources and chart data
-- [RSS feed](https://adamcgr17-ctrl.github.io/Receipts/feed.xml) and [JSON Feed](https://adamcgr17-ctrl.github.io/Receipts/feed.json): the last seven days, one item per story
-- [Past editions](https://adamcgr17-ctrl.github.io/Receipts/archive/): one permanent page per day, at https://adamcgr17-ctrl.github.io/Receipts/e/YYYY-MM-DD/
-- [How it works](https://adamcgr17-ctrl.github.io/Receipts/about/): sourcing rules, confidence labels, corrections
+- [Today's edition](https://receiptswire.com/): the front page
+- [Today's edition as JSON](https://receiptswire.com/edition.json): stories, facts, sources and chart data
+- [RSS feed](https://receiptswire.com/feed.xml) and [JSON Feed](https://receiptswire.com/feed.json): the last seven days, one item per story
+- [Past editions](https://receiptswire.com/archive/): one permanent page per day, at https://receiptswire.com/e/YYYY-MM-DD/
+- [How it works](https://receiptswire.com/about/): sourcing rules, confidence labels, corrections
 
 ## Contact
 

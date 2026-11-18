@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adamcgr17-ctrl.github.io/Receipts/sitemap.xml
+Sitemap: https://receiptswire.com/sitemap.xml

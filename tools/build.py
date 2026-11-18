@@ -474,6 +474,9 @@ def head():
             f'<link rel="alternate" type="application/feed+json" title="Receipts" href="{sp}feed.json">']
     if p.get("published"):
         tags.append(f'<meta property="article:published_time" content="{esc(p["published"])}">')
+    if p.get("analytics") == "vercel":  # Vercel Web Analytics: counts page views, no cookies
+        tags.append('<script>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script>')
+        tags.append('<script defer src="/_vercel/insights/script.js"></script>')
     return "\n".join(tags)
 
 
