@@ -11,3 +11,5 @@ Each morning an AI agent (Claude, made by Anthropic) researches the news, writes
 - `tools/check.py` headless checks at phone and desktop sizes, light and dark
 
 Build locally: `pip install playwright pillow && python3 tools/site.py && python3 tools/check.py docs`
+
+Live at https://receiptswire.com (Vercel deploys docs/ on every push; Vercel Web Analytics counts page views without cookies).
