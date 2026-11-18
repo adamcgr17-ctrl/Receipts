@@ -1,0 +1,1046 @@
+{
+ "coming": [
+  [
+   "Wed",
+   "Nov 18",
+   "Anthropic IPO expected to price",
+   "anthropic-ipo"
+  ],
+  [
+   "Thu",
+   "Nov 19",
+   "ANT expected to start trading",
+   "anthropic-ipo"
+  ],
+  [
+   "Mon",
+   "Nov 30",
+   "Gemini 4 Carbon's intro price ends",
+   "gemini-4"
+  ],
+  [
+   "Early",
+   "Dec",
+   "Challenger's November layoffs report",
+   "layoffs"
+  ]
+ ],
+ "brief": [
+  {
+   "id": "anthropic-ipo",
+   "kick": "Money",
+   "big": "$70–78",
+   "line": "Anthropic's IPO price range. Pricing is expected Wednesday."
+  },
+  {
+   "id": "nvidia",
+   "kick": "Chips",
+   "big": "$115.8B",
+   "line": "Nvidia's quarter, $7.8B over its own guide, five days after its CEO quit."
+  },
+  {
+   "id": "openai",
+   "kick": "Money",
+   "big": "$1.25T",
+   "line": "OpenAI's reported valuation, on half the money it went out for."
+  },
+  {
+   "id": "agent-commerce",
+   "kick": "Agents",
+   "big": "$3.7M",
+   "line": "Every on-chain AI agent payment last quarter, combined."
+  },
+  {
+   "id": "layoffs",
+   "kick": "Jobs",
+   "big": "22%",
+   "line": "US job cuts this year that employers blamed on AI. It was 40% in May and under 3% in October."
+  }
+ ],
+ "stories": [
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 10",
+   "tier": "ok",
+   "evidence": "SEC filing",
+   "disclosure": true,
+   "headline": "Anthropic expected to price its IPO Wednesday at $70–78 a share",
+   "dek": "825M shares on Nasdaq as ANT. About $61B raised and $1.2T fully diluted at the midpoint.",
+   "facts": [
+    {
+     "stat": "$61B",
+     "text": "raised at the $74 midpoint, on 825 million shares",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$1.2T",
+     "text": "fully diluted value at the midpoint, excluding $111B of convertible debt",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$26B",
+     "text": "bought privately by seven companies, including Nvidia, Google and Microsoft",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$16.96B",
+     "text": "Q3 revenue, up 47% on Q2, with a $567M operating loss",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "$895B",
+     "text": "in purchase commitments, mostly compute",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not announced",
+    "text": "Wednesday pricing and Thursday trading are reported dates. Anthropic hasn't announced either.",
+    "s": [
+     5
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Quarterly revenue, 2026",
+    "data": [
+     [
+      "Q1*",
+      4.73,
+      "$4.73B",
+      "main"
+     ],
+     [
+      "Q2",
+      11.56,
+      "$11.56B",
+      "main"
+     ],
+     [
+      "Q3",
+      16.96,
+      "$16.96B",
+      "main"
+     ]
+    ],
+    "note": "*Q1 is derived: the filing's nine-month total of $33.24B minus Q2 and Q3."
+   },
+   "sources": [
+    {
+     "name": "Renaissance Capital",
+     "kind": "Press",
+     "desc": "IPO terms and midpoint value",
+     "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"
+    },
+    {
+     "name": "LetsDataScience",
+     "kind": "Press",
+     "desc": "Amended S-1 and the private placement",
+     "url": "https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619"
+    },
+    {
+     "name": "StockAnalysis",
+     "kind": "Press",
+     "desc": "Q3 figures from the filing",
+     "url": "https://stockanalysis.com/news/anthropic-third-quarter-revenue-17-billion-ipo-filing/"
+    },
+    {
+     "name": "Dealroom",
+     "kind": "Press",
+     "desc": "Nine-month revenue and commitments",
+     "url": "https://dealroom.co/news/168953-anthropic-s-amended-s-1-17b-in-q3-revenue-a-slide-back-to-an-operating-l/"
+    },
+    {
+     "name": "INDmoney",
+     "kind": "Press",
+     "desc": "No trading date in the announcement",
+     "url": "https://www.indmoney.com/blog/us-stocks/anthropic-ipo-price-band-valuation-listing-date"
+    }
+   ]
+  },
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Company + SEC",
+   "headline": "Nvidia posts a $115.8B quarter five days after Jensen Huang quit",
+   "dek": "$7.8B above its own guide. Next quarter's margin guide falls to 71–72%.",
+   "facts": [
+    {
+     "stat": "$115.8B",
+     "text": "revenue, up 103% from a year ago and $7.8B above its $108B guide",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$107.6B",
+     "text": "from data centers",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$130B",
+     "text": "next-quarter guide, ±3%, including an extra week; gross margin 71–72%, down from 74.9%",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Nov 12",
+     "text": "Huang resigned after a board investigation into reports he was targeted by a foreign intelligence effort. CFO Colette Kress is interim CEO.",
+     "s": [
+      3,
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Open question",
+    "text": "The FT reported Nov 15 that Huang is weighing a return. Management sidestepped questions about him on the call.",
+    "s": [
+     5
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Quarterly revenue",
+    "data": [
+     [
+      "Q3 FY26, a year ago",
+      57.0,
+      "$57.0B",
+      "ctx"
+     ],
+     [
+      "Q2 FY27",
+      96.2,
+      "$96.2B",
+      "ctx"
+     ],
+     [
+      "Q3 FY27",
+      115.8,
+      "$115.8B",
+      "main"
+     ],
+     [
+      "Q4 FY27 guide",
+      130,
+      "$130B ±3%",
+      "guide"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Q3 fiscal 2027 results and outlook",
+     "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+    },
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "The $108B guide and Q2 revenue",
+     "url": "https://fourweekmba.com/nvidia-stock/"
+    },
+    {
+     "name": "SEC",
+     "kind": "Filing",
+     "desc": "Form 8-K on the resignation",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvda-20261111.htm"
+    },
+    {
+     "name": "Mixed News",
+     "kind": "Press",
+     "desc": "The board investigation",
+     "url": "https://mixed-news.com/en/jensen-huang-resigns-nvidia-ceo-colette-kress-interim/"
+    },
+    {
+     "name": "TheStreet",
+     "kind": "Press",
+     "desc": "The FT report and the earnings call",
+     "url": "https://www.thestreet.com/latest-news/nvda-nvidia-corporation-q3-2027-earnings-stock-updates"
+    },
+    {
+     "name": "CIO Dive",
+     "kind": "Press",
+     "desc": "Year-ago quarter: $57.0B",
+     "url": "https://www.ciodive.com/news/nvidia-earnings-show-strong-ai-demand/806100/"
+    }
+   ]
+  },
+  {
+   "id": "openai",
+   "topic": "Money",
+   "date": "Nov 12",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "OpenAI raised $15B at a $1.25T valuation, CNBC reports",
+   "dek": "Half the $30B it went out for. OpenAI hasn't confirmed it.",
+   "facts": [
+    {
+     "stat": "$15B",
+     "text": "raised, half the $30B OpenAI first sought",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$1.25T",
+     "text": "valuation, below the $1.4T it pitched and about 47% above March's $852B",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$11B",
+     "text": "first close on Nov 6, according to Bloomberg",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not confirmed",
+    "text": "Whether $1.25T is pre- or post-money. The round isn't formally closed.",
+    "s": [
+     3
+    ]
+   },
+   "chart": {
+    "type": "slope",
+    "title": "Private valuation marks, 2026",
+    "series": [
+     {
+      "name": "OpenAI",
+      "cls": "s1",
+      "pts": [
+       [
+        "2026-03-31",
+        852,
+        "$852B"
+       ],
+       [
+        "2026-11-12",
+        1250,
+        "$1.25T"
+       ]
+      ]
+     },
+     {
+      "name": "Anthropic",
+      "cls": "s2",
+      "pts": [
+       [
+        "2026-05-15",
+        965,
+        "$965B"
+       ],
+       [
+        "2026-11-18",
+        1200,
+        "~$1.2T"
+       ]
+      ]
+     }
+    ],
+    "note": "OpenAI's November mark is reported. Anthropic's is the IPO midpoint, fully diluted."
+   },
+   "sources": [
+    {
+     "name": "Stocktwits",
+     "kind": "Press",
+     "desc": "CNBC's David Faber on the raise",
+     "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-raises-15-b-at-1-25-trillion-valuation/cNGC3OsR9OT"
+    },
+    {
+     "name": "LetsDataScience",
+     "kind": "Press",
+     "desc": "Bloomberg on the $11B first close",
+     "url": "https://letsdatascience.com/news/openai-reportedly-closes-11-billion-first-portion-of-round-a-43b7bec2"
+    },
+    {
+     "name": "ValueAdd VC",
+     "kind": "Press",
+     "desc": "Pre- or post-money, unresolved",
+     "url": "https://valueaddvc.com/pulse/openai-15b-raise-1-25t-valuation-half-target-2026"
+    },
+    {
+     "name": "Crypto Briefing",
+     "kind": "Press",
+     "desc": "Anthropic's $965B May round",
+     "url": "https://cryptobriefing.com/anthropic-ipo-1-4-trillion-valuation/"
+    }
+   ]
+  },
+  {
+   "id": "agent-commerce",
+   "topic": "Agents",
+   "date": "Nov 10",
+   "tier": "warn",
+   "evidence": "Press + data",
+   "headline": "AI agents still barely buy anything",
+   "dek": "Every on-chain agent payment last quarter added up to $3.7M. Shopify sold $119.1B.",
+   "facts": [
+    {
+     "stat": "$3.7M",
+     "text": "in on-chain agent payments in Q3, across 68.3M transactions, about 5¢ each (Allium)",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "Airbnb",
+     "text": "CEO says agent bookings are at \"very, very low numbers\"",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Mastercard",
+     "text": "working with OpenAI on agent payments, says volumes aren't significant yet but grow weekly",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "3.3x",
+     "text": "growth in Shopify orders from AI search in Q3",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing number",
+    "text": "None of these sources says how much consumers actually spend through agents.",
+    "s": []
+   },
+   "chart": {
+    "type": "scale",
+    "big": [
+     119100000000.0,
+     "Shopify GMV, Q3",
+     "$119.1B"
+    ],
+    "small": [
+     3700000.0,
+     "All on-chain agent payments, Q3",
+     "$3.7M"
+    ]
+   },
+   "sources": [
+    {
+     "name": "Semafor",
+     "kind": "Press",
+     "desc": "Airbnb on agent bookings (excerpt)",
+     "url": "https://www.semafor.com/article/11/10/2026/agentic-commerce-is-slow-to-catch-on"
+    },
+    {
+     "name": "The Paypers",
+     "kind": "Press",
+     "desc": "Mastercard's comments",
+     "url": "https://thepaypers.com/payments/news/mastercard-partners-with-openai-on-agent-pay-and-ai-transformation"
+    },
+    {
+     "name": "Fireblocks",
+     "kind": "Data",
+     "desc": "Allium's count of agent payments",
+     "url": "https://www.fireblocks.com/?p=32426"
+    },
+    {
+     "name": "Stellagent",
+     "kind": "Press",
+     "desc": "Shopify Q3 results",
+     "url": "https://stellagent.ai/insights/ec-ai-news-digest-2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "agent-infra",
+   "topic": "Agents",
+   "date": "Nov 11–17",
+   "tier": "ok",
+   "evidence": "Company",
+   "disclosure": true,
+   "headline": "Anthropic, Google and Nvidia move AI agents onto company hardware",
+   "dek": "Self-hosted agent services, private sandboxes and agent monitoring built into chips.",
+   "facts": [
+    {
+     "stat": "Anthropic",
+     "text": "lets companies self-host the full Claude Managed Agents service in a private beta, routing model calls through the Claude API, Bedrock, Google Cloud, Foundry or their own gateway",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "Google",
+     "text": "added self-hosted sandboxes to Gemini API agents on Nov 11",
+     "s": [
+      4
+     ]
+    },
+    {
+     "stat": "Nvidia",
+     "text": "announced Sentry, software on BlueField-4 chips that monitors agent behavior in hardware",
+     "s": [
+      5
+     ]
+    }
+   ],
+   "open": {
+    "label": "Fine print",
+    "text": "Anthropic's license still lets it set safety rules and track usage, and pricing is by quote. Nvidia gave no technical details or customers.",
+    "s": [
+     3,
+     4,
+     5
+    ]
+   },
+   "chart": {
+    "type": "diagram"
+   },
+   "sources": [
+    {
+     "name": "Anthropic",
+     "kind": "Company",
+     "desc": "Self-hosted Managed Agents",
+     "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+    },
+    {
+     "name": "AI TLDR",
+     "kind": "Press",
+     "desc": "Model routes and audit export",
+     "url": "https://ai-tldr.dev/releases/anthropic-self-hosted-claude-managed-agents/index.md"
+    },
+    {
+     "name": "The New Stack",
+     "kind": "Press",
+     "desc": "License terms",
+     "url": "https://thenewstack.io/?p=22843612"
+    },
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "Pricing, and Google's sandboxes",
+     "url": "https://fourweekmba.com/ai-claude-managed-agents-go-self-hosted-with-pricing-by-quote/"
+    },
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Sentry and OpenShell",
+     "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4",
+   "topic": "Models",
+   "date": "Nov 12",
+   "tier": "ok",
+   "evidence": "Company",
+   "headline": "Google ships Gemini 4 Carbon and a cheaper Hydrogen",
+   "dek": "Carbon tops the Artificial Analysis index at 59. Its price doubles after Nov 30.",
+   "facts": [
+    {
+     "stat": "59",
+     "text": "Carbon's score on the Artificial Analysis index, first of 52 models",
+     "s": [
+      4
+     ]
+    },
+    {
+     "stat": "$2 / $10",
+     "text": "Carbon's price per million input and output tokens through Nov 30, then $4 / $20",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$1.50 / $7.50",
+     "text": "Hydrogen, released Nov 12 for everyday coding and agent work",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Caveat",
+    "text": "Carbon doesn't win every comparison in Google's own benchmark tables.",
+    "s": [
+     4
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Output price, $ per million tokens",
+    "data": [
+     [
+      "Hydrogen",
+      7.5,
+      "$7.50",
+      "ctx"
+     ],
+     [
+      "Carbon, through Nov 30",
+      10,
+      "$10",
+      "main"
+     ],
+     [
+      "Carbon, after Nov 30",
+      20,
+      "$20",
+      "guide"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "LetsDataScience",
+     "kind": "Press",
+     "desc": "Carbon's general release",
+     "url": "https://letsdatascience.com/news/google-rolls-out-gemini-4-carbon-to-general-public-9b41bcb4"
+    },
+    {
+     "name": "Jetstream",
+     "kind": "Press",
+     "desc": "Pricing after Nov 30",
+     "url": "https://jetstream.blog/?p=228880"
+    },
+    {
+     "name": "TeamoRouter",
+     "kind": "Press",
+     "desc": "Hydrogen's price",
+     "url": "https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon"
+    },
+    {
+     "name": "SmartScope",
+     "kind": "Press",
+     "desc": "Benchmarks and rank",
+     "url": "https://smartscope.blog/en/blog/gemini-4-carbon-availability-release-date-differences-argon-2026/"
+    }
+   ]
+  },
+  {
+   "id": "open-weights",
+   "topic": "Models",
+   "date": "Nov 10–13",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Alibaba announces Qwen4 and Moonshot ships Kimi K3.1 Pro",
+   "dek": "Open models trail closed ones by a few index points. Reliability is the bigger gap.",
+   "facts": [
+    {
+     "stat": "Qwen4",
+     "text": "announced Nov 11 with a Qwen4-Max preview; MiniMax open-sourced a 4K image model",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "60 vs 63.1",
+     "text": "best open and best closed model on the Artificial Analysis index, late August",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "13.3%",
+     "text": "of Toloka's agent tasks Kimi K3 (2.8T parameters) completed reliably across five runs",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "chart": {
+    "type": "units",
+    "k": 13,
+    "big": "13.3%",
+    "label": "Agent tasks Kimi K3 completed reliably in all five runs"
+   },
+   "sources": [
+    {
+     "name": "AF.net",
+     "kind": "Press",
+     "desc": "Distill Intelligence briefing",
+     "url": "https://af.net/realtime/minimax-releases-open-weight-h3-image-as-qwen-and-moonshot-ai-debut-new-models/"
+    },
+    {
+     "name": "AI2Work",
+     "kind": "Press",
+     "desc": "Open vs closed on the index",
+     "url": "https://ai2.work/blog/chinese-labs-own-the-open-weight-leaderboard-glm-deepseek-qwen"
+    },
+    {
+     "name": "Toloka",
+     "kind": "Data",
+     "desc": "Agent reliability test",
+     "url": "https://toloka.ai/blog/deepseek-and-chinese-ai-models-explained/"
+    }
+   ]
+  },
+  {
+   "id": "cursor",
+   "topic": "Models",
+   "date": "Nov 12",
+   "tier": "bad",
+   "evidence": "Unconfirmed",
+   "headline": "Nobody has confirmed that OpenAI cut off Cursor on Nov 12",
+   "dek": "OpenAI set the date after SpaceX bought Cursor. Its models were about 5% of Cursor's traffic.",
+   "facts": [
+    {
+     "stat": "Nov 12",
+     "text": "OpenAI's proposed end date for model supply, citing Musk companies' record of breaking contracts",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "5%",
+     "text": "of Cursor traffic used OpenAI models, per Cursor's CEO",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unverified",
+    "text": "OpenAI says the final date gets posted only once both sides agree. We found none.",
+    "s": [
+     4
+    ]
+   },
+   "chart": {
+    "type": "share",
+    "pct": 5,
+    "a": "OpenAI models",
+    "b": "All other models"
+   },
+   "sources": [
+    {
+     "name": "OpenAI",
+     "kind": "Company",
+     "desc": "Its decision on Cursor",
+     "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
+    },
+    {
+     "name": "The Decoder",
+     "kind": "Press",
+     "desc": "OpenAI's contract argument",
+     "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
+    },
+    {
+     "name": "Hyrax",
+     "kind": "Press",
+     "desc": "OpenAI's share of Cursor traffic",
+     "url": "https://hyrax.dev/blog/openai-cuts-cursor-november-12-derisking-ai-coding-stack"
+    },
+    {
+     "name": "MoClaw",
+     "kind": "Press",
+     "desc": "How the end date gets set",
+     "url": "https://moclaw.ai/blog/cursor-openai-models-not-available"
+    }
+   ]
+  },
+  {
+   "id": "mercor",
+   "topic": "Money",
+   "date": "Nov 10",
+   "tier": "ok",
+   "evidence": "Company",
+   "headline": "Mercor raises $750M at $20B to grade AI agents",
+   "dek": "Its valuation is up 80x since September 2024.",
+   "facts": [
+    {
+     "stat": "$20B",
+     "text": "valuation, double October 2025's; backers include Nvidia, Salesforce and Zoom",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$614M",
+     "text": "gross revenue in the first half, self-reported",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not disclosed",
+    "text": "Part of the $750M is an employee share sale. Mercor hasn't said how much is new money.",
+    "s": [
+     3
+    ]
+   },
+   "chart": {
+    "type": "steps",
+    "title": "Valuation by round",
+    "pts": [
+     [
+      "2024-09-15",
+      0.25,
+      "$250M"
+     ],
+     [
+      "2025-02-15",
+      2,
+      "$2B"
+     ],
+     [
+      "2025-10-27",
+      10,
+      "$10B"
+     ],
+     [
+      "2026-11-10",
+      20,
+      "$20B"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "SiliconANGLE",
+     "kind": "Press",
+     "desc": "The round and its purpose",
+     "url": "https://siliconangle.com/?p=853756"
+    },
+    {
+     "name": "Ventureburn",
+     "kind": "Press",
+     "desc": "Investors",
+     "url": "https://ventureburn.com/mercor-raises-750-million-series-d-to-train-ai/"
+    },
+    {
+     "name": "AI Funding Tracker",
+     "kind": "Press",
+     "desc": "The employee tender",
+     "url": "https://aifundingtracker.com/?p=8780"
+    },
+    {
+     "name": "AI Weekly",
+     "kind": "Press",
+     "desc": "Reported revenue",
+     "url": "https://aiweekly.co/alerts/mercor-raises-750m-series-d-at-20b-doubling-in-a-year"
+    },
+    {
+     "name": "TechJack",
+     "kind": "Press",
+     "desc": "Valuation history",
+     "url": "https://techjacksolutions.com/ai-brief/mercor-750m-series-d-20b-valuation-ai-training/"
+    }
+   ]
+  },
+  {
+   "id": "rounds",
+   "topic": "Money",
+   "date": "Nov 3–14",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Big checks for fal, Shield AI, Mirendil and LangChain",
+   "dek": "Inference, defense autonomy and agent tooling drew the largest rounds.",
+   "facts": [
+    {
+     "stat": "$1.3B",
+     "text": "fal, which runs model inference, at a $16B valuation (Bloomberg)",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$1B",
+     "text": "Shield AI's Series H at $28.8B, part of $2.5B to buy Echodyne for $5.3B",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$1B",
+     "text": "Mirendil, agents for science and engineering research",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$300M",
+     "text": "LangChain, agent management",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Weaker sourcing",
+    "text": "The Mirendil and LangChain figures come from a regional roundup we couldn't match to company announcements.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Amount raised",
+    "data": [
+     [
+      "fal",
+      1.3,
+      "$1.3B",
+      "main"
+     ],
+     [
+      "Shield AI, Series H",
+      1.0,
+      "$1B",
+      "main"
+     ],
+     [
+      "Mirendil",
+      1.0,
+      "$1B",
+      "main"
+     ],
+     [
+      "LangChain",
+      0.3,
+      "$300M",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "fal and Shield AI rounds",
+     "url": "https://fourweekmba.com/ai-rounds-of-100m-raised-3-32b-in-a-week-infra-took-42/"
+    },
+    {
+     "name": "Jawlah",
+     "kind": "Press",
+     "desc": "Mirendil and LangChain rounds",
+     "url": "https://jawlah.co/en/68138"
+    }
+   ]
+  },
+  {
+   "id": "layoffs",
+   "topic": "Jobs",
+   "date": "Nov 14",
+   "tier": "warn",
+   "evidence": "Press + data",
+   "headline": "AI is 2026's top stated reason for US layoffs, and the share swings wildly",
+   "dek": "Employers blamed AI for 40% of cuts in May and under 3% in October.",
+   "facts": [
+    {
+     "stat": "22%",
+     "text": "of announced US job cuts this year cited AI, about 121,000 jobs (Challenger)",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "28,000",
+     "text": "jobs a month lost in finance and information payrolls while total US jobs grow (Bloomberg, BLS data)",
+     "s": [
+      4
+     ]
+    },
+    {
+     "stat": "4.1%",
+     "text": "US unemployment in October",
+     "s": [
+      5
+     ]
+    }
+   ],
+   "open": {
+    "label": "Caveat",
+    "text": "A stated reason isn't a measured cause. Research ties AI exposure mainly to slower hiring of young workers.",
+    "s": [
+     5
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Share of US job cuts citing AI",
+    "max": 45,
+    "data": [
+     [
+      "May 2026",
+      40,
+      "40%",
+      "main"
+     ],
+     [
+      "2026 so far",
+      22,
+      "22%",
+      "ctx"
+     ],
+     [
+      "October 2026",
+      3,
+      "under 3%",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "People Managing People",
+     "kind": "Data",
+     "desc": "Challenger: AI in 22% of cuts",
+     "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
+    },
+    {
+     "name": "HCA Magazine",
+     "kind": "Press",
+     "desc": "121,401 cuts attributed to AI",
+     "url": "https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129"
+    },
+    {
+     "name": "TechJack",
+     "kind": "Press",
+     "desc": "May and October shares",
+     "url": "https://techjacksolutions.com/?p=107167"
+    },
+    {
+     "name": "AI Weekly",
+     "kind": "Press",
+     "desc": "Bloomberg's read of BLS data",
+     "url": "https://aiweekly.co/alerts/bloomberg-ai-shrinks-tech-and-finance-payrolls-28000-a-month"
+    },
+    {
+     "name": "Projet Celsius",
+     "kind": "Data",
+     "desc": "Unemployment and hiring research",
+     "url": "https://projetcelsius.com/en/ai/analyses/is-ai-already-cutting-jobs/"
+    }
+   ]
+  }
+ ],
+ "published_at": "2026-11-17T23:36:00-06:00"
+}
