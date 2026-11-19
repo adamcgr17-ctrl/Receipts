@@ -8,6 +8,150 @@
  "favicon": "https://receiptswire.com/icon-32.png",
  "items": [
   {
+   "id": "https://receiptswire.com/e/2026-11-19/anthropic-ipo/",
+   "url": "https://receiptswire.com/e/2026-11-19/anthropic-ipo/",
+   "title": "Anthropic prices its IPO at $83, raising $81.3B; ANT is set to start trading on Nasdaq today",
+   "summary": "The base deal tops SpaceX's $75B. The $83 price values Anthropic near $1.5T, against $965B in May.",
+   "content_html": "<p>The base deal tops SpaceX&#x27;s $75B. The $83 price values Anthropic near $1.5T, against $965B in May.</p><ul><li><b>$81.3B</b> raised by selling 980M shares at $83, above the $70 to $78 range and past SpaceX&#x27;s $75B base deal (derived: shares times price)</li><li><b>$1.5T</b> fully diluted valuation at the IPO price, against $965B in Anthropic&#x27;s May private round</li><li><b>$900B</b> in compute and infrastructure commitments over coming years, $70B of it in the next 12 months. The company is unprofitable and carries $6.2B of debt</li><li><b>15</b> prominent signers named by the Center for AI Safety, including economist Oliver Hart and computer scientist Judea Pearl, on a Nov 18 statement saying Anthropic is not a safe AI company</li></ul><p>Sources:</p><ol><li><a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">Anthropic</a>: Pricing announcement, Nov 18 (Company)</li><li><a href=\"https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion\">PBS NewsHour</a>: AP on the deal, SpaceX, debt and commitments (Press)</li><li><a href=\"https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/\">TechCrunch</a>: Valuation and the $26B placement (Press)</li><li><a href=\"https://www.thestar.com.my/tech/tech-news/2026/06/15/spacex-ipo-raises-857-billion-as-underwriters-exercise-039greenshoe-option\">The Star</a>: Reuters on SpaceX&#x27;s extra shares, June 15 (Press)</li><li><a href=\"https://safe.ai/news/anthropic-is-not-a-safe-ai-company\">Center for AI Safety</a>: The MisAnthropic Statement, Nov 18 (Company)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/anthropic-ipo.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/nvidia/",
+   "url": "https://receiptswire.com/e/2026-11-19/nvidia/",
+   "title": "Tencent says a new US chip rule sets China back; Jefferies sees a $44B to $62B hit to Nvidia",
+   "summary": "Nvidia has stopped H200 sales in China, and its $130B forecast for this quarter assumes no China data center chip revenue.",
+   "content_html": "<p>Nvidia has stopped H200 sales in China, and its $130B forecast for this quarter assumes no China data center chip revenue.</p><ul><li><b>Nov 16</b> Commerce issued a rule so chip export limits can&#x27;t be bypassed through remote access to data centers in third countries</li><li><b>Tencent</b> president Martin Lau said the rule &quot;sets everyone back in China&quot; and leaves Tencent unable to offer high-end GPUs in its cloud outside China</li><li><b>$44–62B</b> Jefferies&#x27; estimate of the rule&#x27;s hit to next year&#x27;s data center revenue; acting CEO Colette Kress says backlog means no top-line impact</li><li><b>$130B</b> Nvidia&#x27;s revenue outlook for this quarter, plus or minus 3%, assuming no data center compute revenue from China, where it has stopped selling H200 chips</li></ul><p>Sources:</p><ol><li><a href=\"https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster\">TechCrunch</a>: Kress on H200, and Jefferies&#x27; estimate (Press)</li><li><a href=\"https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology\">BIS</a>: Rule on remote access to advanced chips (Filing)</li><li><a href=\"https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout\">NPR</a>: What the rule closes (Press)</li><li><a href=\"https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html\">Nvidia</a>: Q3 fiscal 2027 results and outlook (Company)</li><li><a href=\"https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927\">The Register</a>: Tencent&#x27;s earnings call comments (Press)</li></ol><p>Confidence: Company + filing</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/nvidia.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/openai-california/",
+   "url": "https://receiptswire.com/e/2026-11-19/openai-california/",
+   "title": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
+   "summary": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
+   "content_html": "<p>The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.</p><ul><li><b>80+</b> times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27</li><li><b>2+ days</b> length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models</li><li><b>500+</b> RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says</li><li><b>$2,500</b> civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement</li></ul><p>Sources:</p><ol><li><a href=\"https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over\">California AG</a>: Announcement of the suit, with the complaint (Filing)</li><li><a href=\"https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html\">Computerworld</a>: Details from the complaint (Press)</li></ol><p>Confidence: Court filing</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/openai-california.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/google-tasks/",
+   "url": "https://receiptswire.com/e/2026-11-19/google-tasks/",
+   "title": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
+   "summary": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
+   "content_html": "<p>It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.</p><ul><li><b>6</b> countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen</li><li><b>AP2</b> Google&#x27;s Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon</li><li><b>Ask first</b> Gemini is designed to ask before it buys, unless a user picks always allow for routine tasks. Users can set a hard spending cap</li><li><b>60+</b> apps Gemini connects to. In the US it can phone businesses, says it is an AI, and businesses can opt out</li></ul><p>Sources:</p><ol><li><a href=\"https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\">Google</a>: Tasks in Gemini, free with new features (Company)</li><li><a href=\"https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/\">PPC Land</a>: Rollout details and earlier access (Press)</li></ol><p>Confidence: Company</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/google-tasks.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/palo-alto/",
+   "url": "https://receiptswire.com/e/2026-11-19/palo-alto/",
+   "title": "Palo Alto Networks to buy Applied Compute for $4.5B in stock, weeks after a $3.25B valuation",
+   "summary": "Its CEO says every company will run a mix of open and closed AI models, and all of them need securing.",
+   "content_html": "<p>Its CEO says every company will run a mix of open and closed AI models, and all of them need securing.</p><ul><li><b>$4.5B</b> all-stock price for Applied Compute, which post-trains and serves open-weight models. The deal needs regulatory clearance</li><li><b>$3.25B</b> Applied Compute&#x27;s valuation when it raised $350M earlier in November, in a round led by Elad Gil with Nvidia taking part</li><li><b>$100M+</b> Applied Compute&#x27;s annualized recurring revenue; its customers include Microsoft and DoorDash</li><li><b>39%</b> Palo Alto&#x27;s revenue growth last quarter, to $3.44B. It raised its fiscal 2027 revenue forecast to $14.52B to $14.57B</li></ul><p>Sources:</p><ol><li><a href=\"https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open\">Palo Alto Networks</a>: Deal announcement, Nov 18 (Company)</li><li><a href=\"https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/\">SiliconANGLE</a>: Earnings, deal terms and the startup&#x27;s funding (Press)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/palo-alto.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/outages/",
+   "url": "https://receiptswire.com/e/2026-11-19/outages/",
+   "title": "Officials say the outages weren't attacks; AI helped find flaws in Nginx, used on 56.7M hosts",
+   "summary": "Officials pointed to maintenance and technical changes. A critical new Nginx bug means another round of urgent patching.",
+   "content_html": "<p>Officials pointed to maintenance and technical changes. A critical new Nginx bug means another round of urgent patching.</p><ul><li><b>Nov 18</b> the DNI, the DHS secretary and the FBI&#x27;s deputy director told a House hearing they found no sign the outages were linked or were attacks</li><li><b>Nov 17</b> DNI Jay Clayton tied an NSA outage to patching, which Fox Business linked to a PHP flaw; he saw no sign of a coordinated attack</li><li><b>Nov 13</b> FAA ground stop; Fox News reported a faulty router caused it. The FAA saw zero evidence of anything AI-related, and Microsoft and Chase blamed software bugs</li><li><b>56.7M</b> hosts run Nginx, per Shodan. Four teams, three of them using AI, found a critical flaw in every release since 2015; F5 has shipped fixes</li></ul><p>Sources:</p><ol><li><a href=\"https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/\">CBS News</a>: House hearing testimony, Nov 18 (Press)</li><li><a href=\"https://foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages\">Fox Business</a>: DNI Jay Clayton&#x27;s interview, Nov 17 (Press)</li><li><a href=\"https://www.foxnews.com/live-news/tech-outages-us-airlines-faa-microsoft-banks-november-18\">Fox News</a>: Nov 18 live blog: Warner, Rubio, FAA router (Press)</li><li><a href=\"https://www.implicator.ai/us-tech-outages-ai-patch-rush/\">Implicator</a>: Stated cause of each outage (Press)</li><li><a href=\"https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html\">CSO Online</a>: The Nginx flaws and who found them (Press)</li></ol><p>Confidence: Press reports</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/outages.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/isomorphic/",
+   "url": "https://receiptswire.com/e/2026-11-19/isomorphic/",
+   "title": "Isomorphic Labs raises $5B to move AI-designed drugs toward trials",
+   "summary": "The DeepMind spinout raised $2.1B six months ago. It hasn't disclosed a valuation.",
+   "content_html": "<p>The DeepMind spinout raised $2.1B six months ago. It hasn&#x27;t disclosed a valuation.</p><ul><li><b>$5B</b> Series C co-led by Greenoaks and Sequoia, with a16z and Alphabet among the investors</li><li><b>$2.1B</b> its Series B in May, led by Thrive Capital, after a $600M first round in March 2025</li><li><b>~$50B</b> valuation Bloomberg reported Nov 4 that it was seeking; the company hasn&#x27;t disclosed one</li></ul><p>Sources:</p><ol><li><a href=\"https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic\">Tech Funding News</a>: The round, investors and history (Press)</li></ol><p>Confidence: Company, via press</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/isomorphic.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/gemini-4/",
+   "url": "https://receiptswire.com/e/2026-11-19/gemini-4/",
+   "title": "Google's Gemini 4 Neon ranks third on an independent index at $3 per million input tokens",
+   "summary": "Neon slots between GPT-6.2 Astra and Gemini 4 Carbon. Once Carbon's price doubles Nov 30, Neon costs 25% less.",
+   "content_html": "<p>Neon slots between GPT-6.2 Astra and Gemini 4 Carbon. Once Carbon&#x27;s price doubles Nov 30, Neon costs 25% less.</p><ul><li><b>61</b> Neon&#x27;s Artificial Analysis Intelligence Index score at its top setting, behind Claude Fable 5.2 at 65 and GPT-6.2 Astra at 62, ahead of Carbon at 60</li><li><b>$3 / $15</b> Neon&#x27;s price per million input and output tokens. It replaces Argon in the Gemini app for paid subscribers</li><li><b>$4 / $20</b> Carbon&#x27;s price after Nov 30, up from $2 / $10. Hydrogen, out since Nov 12, costs $1.50 / $7.50</li><li><b>$6.44</b> Neon&#x27;s cost per task on the index at its top setting, against $4.90 for Carbon and $4.00 for Astra</li></ul><p>Sources:</p><ol><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index scores and cost per task (Data)</li><li><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">Google</a>: Neon launch and Google&#x27;s own benchmarks (Company)</li><li><a href=\"https://9to5google.com/2026/11/18/gemini-4-neon-announcement/\">9to5Google</a>: Gemini app changes and Gemini 4 prices (Press)</li><li><a href=\"https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon\">TeamoRouter</a>: Hydrogen&#x27;s price and release date (Press)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2 took the top spot, Nov 9 (Press)</li></ol><p>Confidence: Company + data</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/gemini-4.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/gpt-6-2/",
+   "url": "https://receiptswire.com/e/2026-11-19/gpt-6-2/",
+   "title": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
+   "summary": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
+   "content_html": "<p>OpenAI says Astra is the first model it has released at its &quot;High&quot; risk level for AI self-improvement.</p><ul><li><b>$8 / $40</b> Astra&#x27;s API price per million input and output tokens, 20% below its predecessor; Sol stays at $2 / $10</li><li><b>62</b> Astra&#x27;s Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65</li><li><b>$4.00</b> Astra&#x27;s cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40</li><li><b>High</b> OpenAI&#x27;s rating of Astra on AI self-improvement risk, a first for a model it has released</li></ul><p>Sources:</p><ol><li><a href=\"https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/\">The Decoder</a>: Release, prices and safety rating (Press)</li><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index scores and cost per task (Data)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2&#x27;s list price (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/gpt-6-2.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/chatgpt-wallet/",
+   "url": "https://receiptswire.com/e/2026-11-19/chatgpt-wallet/",
+   "title": "OpenAI's new wallet lets ChatGPT pay by card as JPMorgan blocks agents from its cards",
+   "summary": "Card networks are wiring agents in. Payments executives don't expect much volume before 2027.",
+   "content_html": "<p>Card networks are wiring agents in. Payments executives don&#x27;t expect much volume before 2027.</p><ul><li><b>US Pro</b> ChatGPT Wallet is open to Pro subscribers in the US. It pays through the major card networks with a token in place of the card number, and every purchase needs a security check such as Face ID</li><li><b>140+</b> participants in Visa&#x27;s Agentic Ready program for merchants and payment firms, including Stripe, Adyen and PayPal; 175+ card issuers already take part</li><li><b>JPMorgan</b> blocks agents that shop with a card number a customer hands them, the WSJ reported</li><li><b>20–30%</b> of consumers in a Visa survey would trust AI to regularly buy household items, Visa said Nov 18</li></ul><p>Sources:</p><ol><li><a href=\"https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/\">Payments Dive</a>: The launch and executives&#x27; outlook (Press)</li><li><a href=\"https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us\">The Paypers</a>: How a wallet purchase works (Press)</li><li><a href=\"https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22986.html\">Visa</a>: Agentic Ready expansion, Nov 17 (Company)</li><li><a href=\"https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/\">PYMNTS</a>: WSJ report on JPMorgan (Press)</li><li><a href=\"https://sg.finance.yahoo.com/news/visa-brings-future-commerce-life-043000869.html\">Visa</a>: Singapore FinTech Festival release, Nov 18 (Company)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/chatgpt-wallet.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/microsoft-ignite/",
+   "url": "https://receiptswire.com/e/2026-11-19/microsoft-ignite/",
+   "title": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
+   "summary": "Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.",
+   "content_html": "<p>Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.</p><ul><li><b>50M+</b> agents in Agent 365, Microsoft&#x27;s control plane for governing them</li><li><b>Autopilot</b> an always-on agent with its own Entra Agent ID and a named manager, now rolling out to customers in Microsoft&#x27;s Frontier early-access program</li><li><b>~80%</b> of Fortune 500 companies use Cowork, Microsoft says</li><li><b>40%</b> more tokens per watt Microsoft says its new Maia 300 chip will deliver than leading GPU-based systems</li></ul><p>Sources:</p><ol><li><a href=\"https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/\">Microsoft</a>: Nadella&#x27;s Ignite keynote, edited (Company)</li><li><a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/\">Microsoft Copilot</a>: Autopilot, Office and Cowork details (Company)</li></ol><p>Confidence: Company</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/microsoft-ignite.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-19/layoffs/",
+   "url": "https://receiptswire.com/e/2026-11-19/layoffs/",
+   "title": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
+   "summary": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
+   "content_html": "<p>Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.</p><ul><li><b>121,401</b> announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)</li><li><b>1,265</b> cuts cited AI in October, under 3% of the month, against about 40% in May</li><li><b>Up to 9%</b> of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated</li><li><b>1%</b> of payrolls laid off in September, or 1.6 million layoffs, while hires ran at 5.4 million (JOLTS)</li></ul><p>Sources:</p><ol><li><a href=\"https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129\">HCA Magazine</a>: Challenger&#x27;s count through October (Press)</li><li><a href=\"https://techjacksolutions.com/?p=107167\">TechJack</a>: May and October shares (Press)</li><li><a href=\"https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/\">Fortune</a>: Goldman&#x27;s 2027 outlook and JOLTS data (Press)</li><li><a href=\"https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/\">People Managing People</a>: The 22% share, through August (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-19T05:59-06:00",
+   "tags": [
+    "Jobs"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-19/layoffs.png"
+  },
+  {
    "id": "https://receiptswire.com/e/2026-11-18/anthropic-ipo/",
    "url": "https://receiptswire.com/e/2026-11-18/anthropic-ipo/",
    "title": "Anthropic set to price its IPO tonight, guiding to $78 or more on near 7x demand",
