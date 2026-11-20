@@ -1,0 +1,1211 @@
+{
+ "published_at": "2026-11-20T06:01-06:00",
+ "brief": [
+  {
+   "id": "anthropic-ipo",
+   "kick": "Money",
+   "big": "$97.17",
+   "line": "ANT's first close, 17% above its $83 IPO price, after a first trade at $111.50."
+  },
+  {
+   "id": "ai-selloff",
+   "kick": "Money",
+   "big": "14.5%",
+   "line": "SoftBank's fall in Tokyo as the AI selloff reached Asia. The Nikkei lost 4.8%."
+  },
+  {
+   "id": "nvidia",
+   "kick": "Chips",
+   "big": "$0",
+   "line": "China data center revenue assumed in Nvidia's $130B forecast, after a new US rule."
+  },
+  {
+   "id": "chatgpt-wallet",
+   "kick": "Agents",
+   "big": "4",
+   "line": "US banks, now including Citi and PNC, that make customers liable for what AI agents do."
+  },
+  {
+   "id": "amd-china",
+   "kick": "Chips",
+   "big": "7.7%",
+   "line": "AMD's fall after a short seller tied its firmware to a blacklisted Chinese firm."
+  }
+ ],
+ "coming": [
+  [
+   "Fri",
+   "Nov 20",
+   "Anthropic's IPO is set to close",
+   "anthropic-ipo"
+  ],
+  [
+   "Mon",
+   "Nov 30",
+   "Gemini 4 Carbon's intro price ends",
+   "gemini-4"
+  ],
+  [
+   "Early",
+   "Dec",
+   "Challenger's November layoffs report",
+   "layoffs"
+  ]
+ ],
+ "stories": [
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 19",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "disclosure": true,
+   "headline": "Anthropic closes its first day of trading at $97.17, up 17% from its $83 IPO price",
+   "dek": "ANT opened 34% higher, then gave back about half that gain as AI stocks slid around it.",
+   "facts": [
+    {
+     "stat": "$97.17",
+     "text": "ANT's close on Nov 19, 17.1% above the IPO price and 12.9% below its first trade",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$111.50",
+     "text": "first trade, at 11:48 a.m. ET on Nasdaq. The day's low was $92.72, at 1:18 p.m.",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "~832M",
+     "text": "shares changed hands on the first day, against 980M sold in the IPO",
+     "s": [
+      1,
+      3
+     ]
+    },
+    {
+     "stat": "147M",
+     "text": "extra shares underwriters can buy at $83 within 30 days, worth about $12.2B (derived: shares times price). The deal is set to close Nov 20",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Depends on the measure",
+    "text": "SpaceX raised $85.7B once its underwriters bought extra shares. Anthropic tops that only if its underwriters buy about 53M of their 147M optional shares (derived).",
+    "s": [
+     3,
+     4
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "ANT's first day on Nasdaq, Nov 19, $ per share",
+    "data": [
+     [
+      "IPO price",
+      83,
+      "$83",
+      "ctx"
+     ],
+     [
+      "First trade",
+      111.5,
+      "$111.50",
+      "ctx"
+     ],
+     [
+      "Low",
+      92.72,
+      "$92.72",
+      "ctx"
+     ],
+     [
+      "Close",
+      97.17,
+      "$97.17",
+      "main"
+     ]
+    ],
+    "note": "Regular session. Times and prices from StockTitan's live log. The Next Web, citing The Guardian, also reports a close just over $97."
+   },
+   "sources": [
+    {
+     "name": "StockTitan",
+     "kind": "Press",
+     "desc": "Live log of ANT's first day, with times",
+     "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+    },
+    {
+     "name": "The Next Web",
+     "kind": "Press",
+     "desc": "The close, citing The Guardian",
+     "url": "https://thenextweb.com/news/anthropic-shares-close-17-above-their-ipo-price-on-first-day-of-trading"
+    },
+    {
+     "name": "Anthropic",
+     "kind": "Company",
+     "desc": "Pricing announcement, Nov 18",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "The Star",
+     "kind": "Press",
+     "desc": "Reuters on SpaceX's extra shares, June 15",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/06/15/spacex-ipo-raises-857-billion-as-underwriters-exercise-039greenshoe-option"
+    }
+   ]
+  },
+  {
+   "id": "ai-selloff",
+   "topic": "Money",
+   "date": "Nov 19–20",
+   "tier": "ok",
+   "evidence": "Press + market data",
+   "headline": "SoftBank falls 14.5% and the Nikkei 4.8% as the AI stock selloff spreads to Asia",
+   "dek": "The S&P 500 fell 2% Thursday, its sixth straight loss, amid doubts that AI data center spending will pay off.",
+   "facts": [
+    {
+     "stat": "14.5%",
+     "text": "SoftBank Group's fall in Tokyo on Nov 20, to ¥3,025. The Nikkei 225 closed down 4.77%, at a six-month low",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "6 days",
+     "text": "the S&P 500's losing streak, its longest since 2024, after a 2% drop to 7,175.83 on Nov 19. It is 8.2% below its October record",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "40%",
+     "text": "how far Nvidia sits below its peak last month, a Reuters column noted. CoreWeave swung from a 10.5% gain to a 5.5% loss on Nov 19",
+     "s": [
+      3,
+      4
+     ]
+    },
+    {
+     "stat": "45%",
+     "text": "of institutional investors in a Bank of America survey named an AI bubble as the top tail risk; 53% said AI stocks are already in one",
+     "s": [
+      5
+     ]
+    }
+   ],
+   "open": {
+    "label": "No single trigger",
+    "text": "Analysts named no one cause. They point to weeks of doubt that heavy data center spending will bring the profits companies expect.",
+    "s": [
+     4
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "One-day falls, Nov 19 and Nov 20",
+    "data": [
+     [
+      "SoftBank, Tokyo, Nov 20",
+      14.48,
+      "14.5%",
+      "main"
+     ],
+     [
+      "Nikkei 225, Nov 20",
+      4.77,
+      "4.8%",
+      "ctx"
+     ],
+     [
+      "Nasdaq, Nov 19",
+      2.3,
+      "2.3%",
+      "ctx"
+     ],
+     [
+      "S&P 500, Nov 19",
+      2.0,
+      "2.0%",
+      "ctx"
+     ]
+    ],
+    "note": "Each bar is the size of one day's fall."
+   },
+   "sources": [
+    {
+     "name": "Finwire",
+     "kind": "Press",
+     "desc": "Tokyo close, Nov 20",
+     "url": "https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477"
+    },
+    {
+     "name": "ABC News",
+     "kind": "Press",
+     "desc": "AP: how US indexes fared, Nov 19",
+     "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454"
+    },
+    {
+     "name": "Yahoo Finance",
+     "kind": "Press",
+     "desc": "Reuters Trading Day column, Nov 19",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-worlds-biggest-ipo-220250434.html"
+    },
+    {
+     "name": "CBS News",
+     "kind": "Press",
+     "desc": "The Nov 19 selloff and its causes",
+     "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+    },
+    {
+     "name": "MarketScreener",
+     "kind": "Press",
+     "desc": "Dow Jones on Asian chip stocks and the BofA survey",
+     "url": "https://www.marketscreener.com/news/asian-chip-stocks-tumble-on-renewed-ai-bubble-fears-ce7d5eded18ef524"
+    }
+   ]
+  },
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 16–18",
+   "tier": "ok",
+   "evidence": "Company + filing",
+   "headline": "Tencent says a new US chip rule sets China back; Jefferies sees a $44B to $62B hit to Nvidia",
+   "dek": "Nvidia has stopped H200 sales in China, and its $130B forecast for this quarter assumes no China data center chip revenue.",
+   "facts": [
+    {
+     "stat": "Nov 16",
+     "text": "Commerce issued a rule so chip export limits can't be bypassed through remote access to data centers in third countries",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "Tencent",
+     "text": "president Martin Lau said the rule \"sets everyone back in China\" and that Tencent can no longer offer high-end GPUs, though partners elsewhere may help",
+     "s": [
+      5
+     ]
+    },
+    {
+     "stat": "$44–62B",
+     "text": "Jefferies' estimate of the rule's hit to next year's data center revenue; acting CEO Colette Kress says backlog means no top-line impact",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$130B",
+     "text": "Nvidia's revenue outlook for this quarter, plus or minus 3%, assuming no data center compute revenue from China, where it has stopped selling H200 chips",
+     "s": [
+      4,
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Open question",
+    "text": "How much demand is tied to China. Critics put it as high as 20% of revenue, and Nvidia stopped disclosing its Singapore subsidiary's revenue after it hit $104B in 2025.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Jefferies' estimate against data center revenue",
+    "data": [
+     [
+      "Data center, Q3 annualized",
+      430.4,
+      "$430B",
+      "ctx"
+     ],
+     [
+      "Estimated hit, high",
+      62,
+      "$62B",
+      "main"
+     ],
+     [
+      "Estimated hit, low",
+      44,
+      "$44B",
+      "main"
+     ]
+    ],
+    "note": "Derived: Q3 data center revenue of $107.6B times four. Jefferies' range is for next year."
+   },
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "kind": "Press",
+     "desc": "Kress on H200, and Jefferies' estimate",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
+    },
+    {
+     "name": "BIS",
+     "kind": "Filing",
+     "desc": "Rule on remote access to advanced chips",
+     "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+    },
+    {
+     "name": "NPR",
+     "kind": "Press",
+     "desc": "What the rule closes",
+     "url": "https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout"
+    },
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Q3 fiscal 2027 results and outlook",
+     "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+    },
+    {
+     "name": "The Register",
+     "kind": "Press",
+     "desc": "Tencent's earnings call comments",
+     "url": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927"
+    }
+   ]
+  },
+  {
+   "id": "chatgpt-wallet",
+   "topic": "Agents",
+   "date": "Nov 13–19",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Citi and PNC join banks making customers liable for what AI agents do with their logins",
+   "dek": "Customers who give outside agents their logins carry the risk, even after a hack. ChatGPT Wallet pays with a network token instead.",
+   "facts": [
+    {
+     "stat": "Citi",
+     "text": "changed its online user agreement this week: customers are responsible for what third-party AI agents do with their credentials, even if the tool is hacked. Citi's own agents add no such liability",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Nov 18",
+     "text": "PNC changed its terms. JPMorgan and Bank of America adopted similar policies in October, and Citizens emailed customers a warning",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "US Pro",
+     "text": "ChatGPT Wallet is open to Pro subscribers in the US. It pays through the major card networks with a token in place of the card number, and every purchase needs a security check such as Face ID",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "JPMorgan",
+     "text": "blocks agents that shop with a card number a customer hands them, the WSJ reported. Its payments arm is now in Visa's Agentic Ready program, which has 140-plus members",
+     "s": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "No bank said how many customers connect agents to their accounts or how many losses involved them. No company has disclosed agent purchase counts.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "How a ChatGPT Wallet purchase works",
+    "zone": "ChatGPT Wallet, US Pro",
+    "nodes": [
+     "Review cart",
+     "Security check",
+     "Network token"
+    ],
+    "target": "Merchant",
+    "target_sub": "card hidden"
+   },
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "kind": "Press",
+     "desc": "Citi, PNC and other banks' new terms, Nov 18",
+     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+    },
+    {
+     "name": "Payments Dive",
+     "kind": "Press",
+     "desc": "The wallet launch and executives' outlook",
+     "url": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/"
+    },
+    {
+     "name": "The Paypers",
+     "kind": "Press",
+     "desc": "How a wallet purchase works",
+     "url": "https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us"
+    },
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "WSJ report on JPMorgan",
+     "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/"
+    },
+    {
+     "name": "Forbes",
+     "kind": "Press",
+     "desc": "Visa's program adds J.P. Morgan Payments",
+     "url": "https://forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop"
+    },
+    {
+     "name": "Visa",
+     "kind": "Company",
+     "desc": "Agentic Ready expansion, Nov 17",
+     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22986.html"
+    }
+   ],
+   "correction": {
+    "date": "Nov 19",
+    "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
+   }
+  },
+  {
+   "id": "amd-china",
+   "topic": "Chips",
+   "date": "Nov 19",
+   "tier": "warn",
+   "evidence": "Short-seller report",
+   "headline": "AMD falls 7.7% after a short seller ties its firmware to a blacklisted Chinese server maker",
+   "dek": "Hunterbrook says its records don't show an export violation. AMD says the report misrepresents its business.",
+   "facts": [
+    {
+     "stat": "7.7%",
+     "text": "AMD's fall on Nov 19, to $489.19, after Hunterbrook Media's report. Its affiliate Hunterbrook Capital disclosed a short position",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "6+",
+     "text": "newer AMD firmware versions that IEIT Systems built into updates for three server models after it joined the Entity List in March 2025, Hunterbrook says",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "22.4%",
+     "text": "of AMD's fiscal 2025 revenue, or $7.75B, was billed to customers in China and Hong Kong. Nvidia reported 9.1% for comparable markets",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Denied",
+     "text": "AMD said the claims misrepresent its business practices and that it complies with US export control laws",
+     "s": [
+      2,
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unproven",
+    "text": "Hunterbrook says it can't show how IEIT got the code or whether anyone held a license, and that its records alone don't establish a violation.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "share",
+    "title": "AMD's fiscal 2025 revenue by billing location",
+    "pct": 22.4,
+    "a": "China and Hong Kong",
+    "b": "Everywhere else",
+    "note": "From AMD's filings, as cited by Hunterbrook. Everywhere else includes $4.28B billed to Singapore."
+   },
+   "sources": [
+    {
+     "name": "Hunterbrook Media",
+     "kind": "Press",
+     "desc": "The investigation, with its short disclosure",
+     "url": "https://hntrbrk.com/investigations/amd-china"
+    },
+    {
+     "name": "Financial News",
+     "kind": "Press",
+     "desc": "AMD's close and its response",
+     "url": "https://www.financial-news.co.uk/amd-shares-tumble-7-72-after-hunterbrook-short-report-on-china/"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "AMD's statement to Bloomberg",
+     "url": "https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/"
+    }
+   ]
+  },
+  {
+   "id": "openai-california",
+   "topic": "Agents",
+   "date": "Nov 16",
+   "tier": "ok",
+   "evidence": "Court filing",
+   "headline": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
+   "dek": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
+   "facts": [
+    {
+     "stat": "80+",
+     "text": "times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "2+ days",
+     "text": "length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "500+",
+     "text": "RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$2,500",
+     "text": "civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Disputed",
+    "text": "None of this has been proven in court. OpenAI says the suit singles it out over a problem every major AI lab has identified, and that it is working with the attorney general's office.",
+    "s": [
+     3
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "OpenAI agent incidents, per the complaint",
+    "data": [
+     [
+      "Told to the state",
+      80,
+      "80+",
+      "main"
+     ],
+     [
+      "Reported publicly",
+      27,
+      "27",
+      "ctx"
+     ]
+    ],
+    "note": "Filed Nov 16 in San Francisco Superior Court under public nuisance and unfair competition law."
+   },
+   "sources": [
+    {
+     "name": "California AG",
+     "kind": "Filing",
+     "desc": "Announcement of the suit, with the complaint",
+     "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+    },
+    {
+     "name": "Computerworld",
+     "kind": "Press",
+     "desc": "Details from the complaint",
+     "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
+    },
+    {
+     "name": "Axios",
+     "kind": "Press",
+     "desc": "OpenAI's response, via a spokesperson",
+     "url": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
+    }
+   ]
+  },
+  {
+   "id": "google-tasks",
+   "topic": "Agents",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Company",
+   "headline": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
+   "dek": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
+   "facts": [
+    {
+     "stat": "6",
+     "text": "countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "AP2",
+     "text": "Google's Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Ask first",
+     "text": "Gemini is designed to get confirmation or pre-approval before it buys. Always allow covers routine steps such as adding to a cart, and users can set a hard spending cap",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "60+",
+     "text": "apps Gemini connects to. In most US states it can phone businesses, says it is an AI, and businesses can opt out",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "Google gave no count of purchases or completed tasks. It says the agent still makes mistakes and may hand the final click back on some sites.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "How a Gemini Tasks purchase works",
+    "zone": "Gemini Tasks, 6 countries",
+    "nodes": [
+     "Set spending cap",
+     "Agent finds item",
+     "You confirm"
+    ],
+    "target": "Merchant",
+    "target_sub": "via AP2 token"
+   },
+   "sources": [
+    {
+     "name": "Google",
+     "kind": "Company",
+     "desc": "Tasks in Gemini, free with new features",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+     "name": "PPC Land",
+     "kind": "Press",
+     "desc": "Rollout details and earlier access",
+     "url": "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/"
+    }
+   ],
+   "correction": {
+    "date": "Nov 20",
+    "text": "We said Gemini can buy without asking if a user picks always allow for routine tasks. Google says always allow covers steps such as adding items to a cart, and Gemini asks for confirmation or pre-approval before it buys. Calling is not available in five US states."
+   }
+  },
+  {
+   "id": "microsoft-ignite",
+   "topic": "Agents",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Company",
+   "headline": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
+   "dek": "Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.",
+   "facts": [
+    {
+     "stat": "50M+",
+     "text": "agents in Agent 365, Microsoft's control plane for governing them",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Autopilot",
+     "text": "an always-on agent with its own Entra Agent ID and a named manager, now rolling out to customers in Microsoft's Frontier program",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "~80%",
+     "text": "of Fortune 500 companies use Cowork, Microsoft says",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "40%",
+     "text": "more tokens per watt Microsoft says its new Maia 300 chip will deliver than leading GPU-based systems",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "No price for Autopilot and no count of paid Copilot seats. Microsoft's cost comparisons with rival assistants rest on a GigaOm report it cites.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "Copilot's parts and its agent registry",
+    "zone": "Copilot, the \"OS for work\"",
+    "nodes": [
+     "Chat and Cowork",
+     "Code",
+     "Autopilot"
+    ],
+    "target": "Agent 365",
+    "target_sub": "50M+ agents"
+   },
+   "sources": [
+    {
+     "name": "Microsoft",
+     "kind": "Company",
+     "desc": "Nadella's Ignite keynote, edited",
+     "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+    },
+    {
+     "name": "Microsoft Copilot",
+     "kind": "Company",
+     "desc": "Autopilot, Office and Cowork details",
+     "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
+    }
+   ],
+   "correction": {
+    "date": "Nov 19",
+    "text": "We said each Autopilot agent has a human manager. Microsoft says each has a named manager; it does not say the manager must be a person."
+   }
+  },
+  {
+   "id": "gpt-6-2",
+   "topic": "Models",
+   "date": "Nov 17–18",
+   "tier": "ok",
+   "evidence": "Press + data",
+   "disclosure": true,
+   "headline": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
+   "dek": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
+   "facts": [
+    {
+     "stat": "$8 / $40",
+     "text": "Astra's API price per million input and output tokens, 20% below its predecessor; Sol stays at $2 / $10",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "62",
+     "text": "Astra's Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$4.00",
+     "text": "Astra's cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "3–4 days",
+     "text": "before launch, the team made a lot of changes, OpenAI's Thibault Sottiaux said, answering early testers who said Astra asked permission too often",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Sources differ",
+    "text": "OpenAI's own tables put Astra ahead of Fable 5.2 on several tests. Epoch AI found it behind Fable 5.2 on real research tasks.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Artificial Analysis Intelligence Index",
+    "data": [
+     [
+      "Claude Fable 5.2",
+      65,
+      "65",
+      "ctx"
+     ],
+     [
+      "GPT-6.2 Astra",
+      62,
+      "62",
+      "main"
+     ],
+     [
+      "Gemini 4 Neon",
+      61,
+      "61",
+      "ctx"
+     ],
+     [
+      "Gemini 4 Carbon",
+      60,
+      "60",
+      "ctx"
+     ],
+     [
+      "Claude Opus 5.5",
+      59,
+      "59",
+      "ctx"
+     ],
+     [
+      "GPT-6.2 Sol",
+      57,
+      "57",
+      "main"
+     ]
+    ],
+    "note": "Each model at its best listed setting, as of Nov 20. Independent scores, not vendor claims."
+   },
+   "sources": [
+    {
+     "name": "The Decoder",
+     "kind": "Press",
+     "desc": "Release, prices and safety rating",
+     "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
+    },
+    {
+     "name": "Artificial Analysis",
+     "kind": "Data",
+     "desc": "Index scores and cost per task",
+     "url": "https://artificialanalysis.ai/leaderboards/models"
+    },
+    {
+     "name": "OfficeChai",
+     "kind": "Press",
+     "desc": "Fable 5.2's list price",
+     "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
+    },
+    {
+     "name": "Gizmodo",
+     "kind": "Press",
+     "desc": "Early reviews and OpenAI's reply, Nov 18",
+     "url": "https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4",
+   "topic": "Models",
+   "date": "Nov 10–18",
+   "tier": "ok",
+   "evidence": "Company + data",
+   "disclosure": true,
+   "headline": "Google's Gemini 4 Neon ranks third on an independent index at $3 per million input tokens",
+   "dek": "Neon slots between GPT-6.2 Astra and Gemini 4 Carbon. Once Carbon's price doubles Nov 30, Neon costs 25% less.",
+   "facts": [
+    {
+     "stat": "61",
+     "text": "Neon's Artificial Analysis Intelligence Index score at its top setting, behind Claude Fable 5.2 at 65 and GPT-6.2 Astra at 62, ahead of Carbon at 60",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$3 / $15",
+     "text": "Neon's price per million input and output tokens. Pro and Ultra subscribers can pick it in the Gemini app",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "$4 / $20",
+     "text": "Carbon's price after Nov 30, up from $2 / $10. Hydrogen, out since Nov 12, costs $1.50 / $7.50",
+     "s": [
+      3,
+      4
+     ]
+    },
+    {
+     "stat": "$6.44",
+     "text": "Neon's cost per task on the index at its top setting, against $7.76 for Carbon and $4.00 for Astra",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Sources differ on size",
+    "text": "Google says Neon at its high setting costs 32% less per task than Carbon. On the independent index, Neon at its top setting costs about 17% less (derived).",
+    "s": [
+     2,
+     1
+    ]
+   },
+   "correction": {
+    "date": "Nov 20",
+    "text": "We said Carbon cost $4.90 per task on the Artificial Analysis index, less than Neon. The index lists $7.76, so Neon costs less per task. On Nov 18 we said Carbon topped the index at 59; Claude Fable 5.2 has led it at 65 since Nov 9, and Carbon scores 60."
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Gemini 4 output price, $ per million tokens",
+    "data": [
+     [
+      "Hydrogen",
+      7.5,
+      "$7.50",
+      "ctx"
+     ],
+     [
+      "Carbon, through Nov 30",
+      10,
+      "$10",
+      "ctx"
+     ],
+     [
+      "Neon",
+      15,
+      "$15",
+      "main"
+     ],
+     [
+      "Carbon, after Nov 30",
+      20,
+      "$20",
+      "guide"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Artificial Analysis",
+     "kind": "Data",
+     "desc": "Index scores and cost per task",
+     "url": "https://artificialanalysis.ai/leaderboards/models"
+    },
+    {
+     "name": "Google",
+     "kind": "Company",
+     "desc": "Neon launch and Google's own benchmarks",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "name": "9to5Google",
+     "kind": "Press",
+     "desc": "Gemini app changes and Gemini 4 prices",
+     "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+    },
+    {
+     "name": "TeamoRouter",
+     "kind": "Press",
+     "desc": "Hydrogen's price and release date",
+     "url": "https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon"
+    },
+    {
+     "name": "OfficeChai",
+     "kind": "Press",
+     "desc": "Fable 5.2 took the top spot, Nov 9",
+     "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
+    }
+   ]
+  },
+  {
+   "id": "palo-alto",
+   "topic": "Money",
+   "date": "Nov 18",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Palo Alto Networks to buy Applied Compute for $4.5B in stock, weeks after a $3.25B valuation",
+   "dek": "Its CEO says every enterprise will run a mix of open and closed AI models, and all of them need securing.",
+   "facts": [
+    {
+     "stat": "$4.5B",
+     "text": "all-stock price for Applied Compute, which post-trains and serves open-weight models. The deal needs regulatory clearance",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$3.25B",
+     "text": "Applied Compute's valuation when it raised $350M earlier in November, in a round led by Elad Gil with Nvidia taking part",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$100M+",
+     "text": "Applied Compute's annualized recurring revenue; its customers include Microsoft and DoorDash",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "39%",
+     "text": "Palo Alto's revenue growth last quarter, to $3.44B. It raised its fiscal 2027 revenue forecast to $14.52B to $14.57B",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not disclosed",
+    "text": "Applied Compute's headcount and profits. The deal is expected to close in Palo Alto's fiscal third quarter, subject to regulators.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Applied Compute's value, Nov 2026",
+    "data": [
+     [
+      "Funding round",
+      3.25,
+      "$3.25B",
+      "ctx"
+     ],
+     [
+      "Palo Alto's price",
+      4.5,
+      "$4.5B",
+      "main"
+     ]
+    ],
+    "note": "The round was raised earlier in November. The deal is all stock and subject to adjustments."
+   },
+   "sources": [
+    {
+     "name": "Palo Alto Networks",
+     "kind": "Company",
+     "desc": "Deal announcement, Nov 18",
+     "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
+    },
+    {
+     "name": "SiliconANGLE",
+     "kind": "Press",
+     "desc": "Earnings, deal terms and the startup's funding",
+     "url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/"
+    }
+   ]
+  },
+  {
+   "id": "layoffs",
+   "topic": "Jobs",
+   "date": "Nov 16",
+   "tier": "warn",
+   "evidence": "Press + data",
+   "headline": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
+   "dek": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
+   "facts": [
+    {
+     "stat": "121,401",
+     "text": "announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "1,265",
+     "text": "cuts cited AI in October, under 3% of the month, against about 40% in May",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "Up to 9%",
+     "text": "of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "1%",
+     "text": "of payrolls laid off in September, or 1.6 million layoffs, while hires ran at 5.4 million (JOLTS)",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Caveat",
+    "text": "Challenger counts the reasons employers give, not what drove each cut. A Lightcast economist says labor data doesn't show mass replacement.",
+    "s": [
+     1
+    ]
+   },
+   "correction": {
+    "date": "Nov 18",
+    "text": "We said 22% of this year's US job cuts cited AI, about 121,000 jobs. The 22% share ran through August. Through October, the 121,401 AI-cited cuts were about 20% of all announced cuts."
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Share of US job cuts citing AI",
+    "max": 45,
+    "data": [
+     [
+      "May 2026",
+      40,
+      "40%",
+      "main"
+     ],
+     [
+      "2026 through October",
+      20,
+      "about 20%",
+      "ctx"
+     ],
+     [
+      "October 2026",
+      3,
+      "under 3%",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "HCA Magazine",
+     "kind": "Press",
+     "desc": "Challenger's count through October",
+     "url": "https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129"
+    },
+    {
+     "name": "TechJack",
+     "kind": "Press",
+     "desc": "May and October shares",
+     "url": "https://techjacksolutions.com/?p=107167"
+    },
+    {
+     "name": "Fortune",
+     "kind": "Press",
+     "desc": "Goldman's 2027 outlook and JOLTS data",
+     "url": "https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/"
+    },
+    {
+     "name": "People Managing People",
+     "kind": "Press",
+     "desc": "The 22% share, through August",
+     "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
+    }
+   ]
+  }
+ ]
+}
