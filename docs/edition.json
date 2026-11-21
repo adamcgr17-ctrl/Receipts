@@ -1,317 +1,196 @@
 {
- "date": "2026-11-20",
- "published_at": "2026-11-20T06:01-06:00",
- "url": "https://receiptswire.com/e/2026-11-20/",
+ "date": "2026-11-21",
+ "published_at": "2026-11-21T05:44-06:00",
+ "url": "https://receiptswire.com/e/2026-11-21/",
  "stories": [
-  {
-   "id": "anthropic-ipo",
-   "topic": "Money",
-   "date": "Nov 19",
-   "tier": "ok",
-   "evidence": "Company + press",
-   "disclosure": true,
-   "headline": "Anthropic closes its first day of trading at $97.17, up 17% from its $83 IPO price",
-   "dek": "ANT opened 34% higher, then gave back about half that gain as AI stocks slid around it.",
-   "facts": [
-    {
-     "stat": "$97.17",
-     "text": "ANT's close on Nov 19, 17.1% above the IPO price and 12.9% below its first trade",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "$111.50",
-     "text": "first trade, at 11:48 a.m. ET on Nasdaq. The day's low was $92.72, at 1:18 p.m.",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "~832M",
-     "text": "shares changed hands on the first day, against 980M sold in the IPO",
-     "s": [
-      1,
-      3
-     ]
-    },
-    {
-     "stat": "147M",
-     "text": "extra shares underwriters can buy at $83 within 30 days, worth about $12.2B (derived: shares times price). The deal is set to close Nov 20",
-     "s": [
-      3
-     ]
-    }
-   ],
-   "open": {
-    "label": "Depends on the measure",
-    "text": "SpaceX raised $85.7B once its underwriters bought extra shares. Anthropic tops that only if its underwriters buy about 53M of their 147M optional shares (derived).",
-    "s": [
-     3,
-     4
-    ]
-   },
-   "chart": {
-    "type": "vbars",
-    "title": "ANT's first day on Nasdaq, Nov 19, $ per share",
-    "data": [
-     [
-      "IPO price",
-      83,
-      "$83",
-      "ctx"
-     ],
-     [
-      "First trade",
-      111.5,
-      "$111.50",
-      "ctx"
-     ],
-     [
-      "Low",
-      92.72,
-      "$92.72",
-      "ctx"
-     ],
-     [
-      "Close",
-      97.17,
-      "$97.17",
-      "main"
-     ]
-    ],
-    "note": "Regular session. Times and prices from StockTitan's live log. The Next Web, citing The Guardian, also reports a close just over $97."
-   },
-   "sources": [
-    {
-     "name": "StockTitan",
-     "kind": "Press",
-     "desc": "Live log of ANT's first day, with times",
-     "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
-    },
-    {
-     "name": "The Next Web",
-     "kind": "Press",
-     "desc": "The close, citing The Guardian",
-     "url": "https://thenextweb.com/news/anthropic-shares-close-17-above-their-ipo-price-on-first-day-of-trading"
-    },
-    {
-     "name": "Anthropic",
-     "kind": "Company",
-     "desc": "Pricing announcement, Nov 18",
-     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-    },
-    {
-     "name": "The Star",
-     "kind": "Press",
-     "desc": "Reuters on SpaceX's extra shares, June 15",
-     "url": "https://www.thestar.com.my/tech/tech-news/2026/06/15/spacex-ipo-raises-857-billion-as-underwriters-exercise-039greenshoe-option"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-20/anthropic-ipo/"
-  },
   {
    "id": "ai-selloff",
    "topic": "Money",
    "date": "Nov 19–20",
    "tier": "ok",
    "evidence": "Press + market data",
-   "headline": "SoftBank falls 14.5% and the Nikkei 4.8% as the AI stock selloff spreads to Asia",
-   "dek": "The S&P 500 fell 2% Thursday, its sixth straight loss, amid doubts that AI data center spending will pay off.",
+   "headline": "The S&P 500 and the Dow enter a correction as the Nasdaq falls 5.3% in the AI selloff",
+   "dek": "Nvidia fell 14% and the Nasdaq turned negative for 2026, a day after Anthropic's market debut.",
    "facts": [
     {
-     "stat": "14.5%",
-     "text": "SoftBank Group's fall in Tokyo on Nov 20, to ¥3,025. The Nikkei 225 closed down 4.77%, at a six-month low",
+     "stat": "3.70%",
+     "text": "the S&P 500's fall on Nov 20, to 6,910.42. It and the Dow, down 1.93%, closed more than 10% below their records, a correction",
      "s": [
       1
      ]
     },
     {
-     "stat": "6 days",
-     "text": "the S&P 500's losing streak, its longest since 2024, after a 2% drop to 7,175.83 on Nov 19. It is 8.2% below its October record",
+     "stat": "5.28%",
+     "text": "the Nasdaq's fall, to 22,617.73, leaving it lower for the year. Its weekly drop was its largest since March 2020",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "7 days",
+     "text": "the S&P 500's losing streak, its longest since February 2020. Nebius fell 16.1% and CoreWeave 12.1% on Friday",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "14.5%",
+     "text": "SoftBank Group's fall in Tokyo earlier on Nov 20. The Nikkei 225 closed down 4.77%, at a six-month low",
      "s": [
       2
-     ]
-    },
-    {
-     "stat": "40%",
-     "text": "how far Nvidia sits below its peak last month, a Reuters column noted. CoreWeave swung from a 10.5% gain to a 5.5% loss on Nov 19",
-     "s": [
-      3,
-      4
-     ]
-    },
-    {
-     "stat": "45%",
-     "text": "of institutional investors in a Bank of America survey named an AI bubble as the top tail risk; 53% said AI stocks are already in one",
-     "s": [
-      5
      ]
     }
    ],
    "open": {
     "label": "No single trigger",
-    "text": "Analysts named no one cause. They point to weeks of doubt that heavy data center spending will bring the profits companies expect.",
-    "s": [
-     4
-    ]
-   },
-   "chart": {
-    "type": "hbars",
-    "title": "One-day falls, Nov 19 and Nov 20",
-    "data": [
-     [
-      "SoftBank, Tokyo, Nov 20",
-      14.48,
-      "14.5%",
-      "main"
-     ],
-     [
-      "Nikkei 225, Nov 20",
-      4.77,
-      "4.8%",
-      "ctx"
-     ],
-     [
-      "Nasdaq, Nov 19",
-      2.3,
-      "2.3%",
-      "ctx"
-     ],
-     [
-      "S&P 500, Nov 19",
-      2.0,
-      "2.0%",
-      "ctx"
-     ]
-    ],
-    "note": "Each bar is the size of one day's fall."
-   },
-   "sources": [
-    {
-     "name": "Finwire",
-     "kind": "Press",
-     "desc": "Tokyo close, Nov 20",
-     "url": "https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477"
-    },
-    {
-     "name": "ABC News",
-     "kind": "Press",
-     "desc": "AP: how US indexes fared, Nov 19",
-     "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454"
-    },
-    {
-     "name": "Yahoo Finance",
-     "kind": "Press",
-     "desc": "Reuters Trading Day column, Nov 19",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-worlds-biggest-ipo-220250434.html"
-    },
-    {
-     "name": "CBS News",
-     "kind": "Press",
-     "desc": "The Nov 19 selloff and its causes",
-     "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
-    },
-    {
-     "name": "MarketScreener",
-     "kind": "Press",
-     "desc": "Dow Jones on Asian chip stocks and the BofA survey",
-     "url": "https://www.marketscreener.com/news/asian-chip-stocks-tumble-on-renewed-ai-bubble-fears-ce7d5eded18ef524"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-20/ai-selloff/"
-  },
-  {
-   "id": "nvidia",
-   "topic": "Chips",
-   "date": "Nov 16–18",
-   "tier": "ok",
-   "evidence": "Company + filing",
-   "headline": "Tencent says a new US chip rule sets China back; Jefferies sees a $44B to $62B hit to Nvidia",
-   "dek": "Nvidia has stopped H200 sales in China, and its $130B forecast for this quarter assumes no China data center chip revenue.",
-   "facts": [
-    {
-     "stat": "Nov 16",
-     "text": "Commerce issued a rule so chip export limits can't be bypassed through remote access to data centers in third countries",
-     "s": [
-      2,
-      3
-     ]
-    },
-    {
-     "stat": "Tencent",
-     "text": "president Martin Lau said the rule \"sets everyone back in China\" and that Tencent can no longer offer high-end GPUs, though partners elsewhere may help",
-     "s": [
-      5
-     ]
-    },
-    {
-     "stat": "$44–62B",
-     "text": "Jefferies' estimate of the rule's hit to next year's data center revenue; acting CEO Colette Kress says backlog means no top-line impact",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "$130B",
-     "text": "Nvidia's revenue outlook for this quarter, plus or minus 3%, assuming no data center compute revenue from China, where it has stopped selling H200 chips",
-     "s": [
-      4,
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Open question",
-    "text": "How much demand is tied to China. Critics put it as high as 20% of revenue, and Nvidia stopped disclosing its Singapore subsidiary's revenue after it hit $104B in 2025.",
+    "text": "Reuters ties the drop to doubts about heavy AI spending. Rates add pressure: futures price a near-certain quarter-point Fed hike in December, per CME FedWatch.",
     "s": [
      1
     ]
    },
    "chart": {
     "type": "hbars",
-    "title": "Jefferies' estimate against data center revenue",
+    "title": "One-day falls, Nov 20",
     "data": [
      [
-      "Data center, Q3 annualized",
-      430.4,
-      "$430B",
+      "Nebius",
+      16.1,
+      "16.1%",
       "ctx"
      ],
      [
-      "Estimated hit, high",
-      62,
-      "$62B",
+      "Nvidia",
+      13.8,
+      "13.8%",
+      "ctx"
+     ],
+     [
+      "CoreWeave",
+      12.1,
+      "12.1%",
+      "ctx"
+     ],
+     [
+      "Nasdaq",
+      5.28,
+      "5.3%",
       "main"
      ],
      [
-      "Estimated hit, low",
-      44,
-      "$44B",
+      "S&P 500",
+      3.7,
+      "3.7%",
+      "main"
+     ],
+     [
+      "Dow",
+      1.93,
+      "1.9%",
       "main"
      ]
     ],
-    "note": "Derived: Q3 data center revenue of $107.6B times four. Jefferies' range is for next year."
+    "note": "US closes as reported by Reuters. Each bar is one day's fall. Closing data on Yahoo show Nvidia down 14.01%."
    },
    "sources": [
     {
-     "name": "TechCrunch",
+     "name": "Yahoo Finance",
      "kind": "Press",
-     "desc": "Kress on H200, and Jefferies' estimate",
-     "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
+     "desc": "Reuters on the Nov 20 close",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
     },
     {
-     "name": "BIS",
-     "kind": "Filing",
-     "desc": "Rule on remote access to advanced chips",
-     "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+     "name": "Finwire",
+     "kind": "Press",
+     "desc": "Tokyo close, Nov 20",
+     "url": "https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-21/ai-selloff/"
+  },
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 16–20",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Nvidia falls 14% after Reuters reports the SEC is examining its accounting",
+   "dek": "It has lost about $2.7 trillion in market value since its Oct. 6 record. Neither Nvidia nor the SEC commented.",
+   "facts": [
+    {
+     "stat": "14.01%",
+     "text": "Nvidia's fall on Nov 20, to $125.53, its worst day since January 2025 and its seventh straight loss",
+     "s": [
+      2
+     ]
     },
     {
-     "name": "NPR",
+     "stat": "2 people",
+     "text": "briefed on the matter told Reuters that SEC enforcement staff are scrutinizing potential accounting issues. Shares had been down about 6% before the report",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$2.7T",
+     "text": "market value Nvidia has lost since its Oct. 6 record, including about $485B on Friday and nearly $900B this week",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$130B",
+     "text": "Nvidia's revenue outlook for this quarter, which assumes no China data center revenue after a Nov 16 US rule on remote chip access",
+     "s": [
+      3,
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unknown scope",
+    "text": "Reuters could not determine when the inquiry opened or which accounting issues it covers. The WSJ reported the probe includes whether Nvidia's disclosures misled investors.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Nvidia market value lost, $ billions",
+    "data": [
+     [
+      "Since Oct. 6 record",
+      2700,
+      "$2.7T",
+      "ctx"
+     ],
+     [
+      "This week",
+      900,
+      "~$900B",
+      "ctx"
+     ],
+     [
+      "Friday, Nov 20",
+      485,
+      "$485B",
+      "main"
+     ]
+    ],
+    "note": "Yahoo Finance figures. This week means Nov 16 to 20."
+   },
+   "sources": [
+    {
+     "name": "Investing.com",
      "kind": "Press",
-     "desc": "What the rule closes",
-     "url": "https://www.wunc.org/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout"
+     "desc": "Reuters exclusive on the SEC probe",
+     "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
+    },
+    {
+     "name": "Yahoo Finance",
+     "kind": "Press",
+     "desc": "Nvidia's close and value lost",
+     "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
     },
     {
      "name": "Nvidia",
@@ -320,13 +199,121 @@
      "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
     },
     {
-     "name": "The Register",
-     "kind": "Press",
-     "desc": "Tencent's earnings call comments",
-     "url": "https://www.theregister.com/systems/2026/11/19/chinese-web-giant-tencent-says-new-us-gpu-ban-sets-everyone-back-in-china/5310927"
+     "name": "BIS",
+     "kind": "Filing",
+     "desc": "Rule on remote access to advanced chips",
+     "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-20/nvidia/"
+   "url": "https://receiptswire.com/e/2026-11-21/nvidia/"
+  },
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 19–20",
+   "tier": "ok",
+   "evidence": "Press + market data",
+   "disclosure": true,
+   "headline": "Anthropic falls 8.5% on its second day to $88.91, after nearly touching its $83 IPO price",
+   "dek": "ANT held a 7.1% gain over its offer price as AI stocks slid. Index funds may have to buy it next month.",
+   "facts": [
+    {
+     "stat": "$88.91",
+     "text": "ANT's close on Nov 20, down from $97.17 on its first day and 7.1% above the $83 IPO price",
+     "s": [
+      1,
+      5
+     ]
+    },
+    {
+     "stat": "$83.05",
+     "text": "Friday's low, five cents above the IPO price. The stock opened at $89.86 and peaked at $92.56",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Dec 11",
+     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules. Bloomberg reported it is on track to join the Nasdaq-100 on Dec 21",
+     "s": [
+      3,
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "Sources differ",
+    "text": "Reuters put Friday's fall at 9.1%; closing data cited by FinanceFeeds show 8.5%. Nasdaq has not announced an index addition.",
+    "s": [
+     2,
+     1,
+     3
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "ANT's first two days, $ per share",
+    "data": [
+     [
+      "IPO price",
+      83,
+      "$83",
+      "ctx"
+     ],
+     [
+      "Day 1 close",
+      97.17,
+      "$97.17",
+      "ctx"
+     ],
+     [
+      "Day 2 low",
+      83.05,
+      "$83.05",
+      "ctx"
+     ],
+     [
+      "Day 2 close",
+      88.91,
+      "$88.91",
+      "main"
+     ]
+    ],
+    "note": "Day 1 is Nov 19, day 2 is Nov 20."
+   },
+   "sources": [
+    {
+     "name": "FinanceFeeds",
+     "kind": "Press",
+     "desc": "Friday's close, range and open",
+     "url": "https://financefeeds.com/anthropic-ant-stock-88-91-saturday-week-ahead-after-friday-low-tested-83-ipo-price-bull-97-bear-80/"
+    },
+    {
+     "name": "Yahoo Finance",
+     "kind": "Press",
+     "desc": "Reuters on the Nov 20 close",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+    },
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "FTSE Russell's Nov 13 notice",
+     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
+    },
+    {
+     "name": "StockAnalysis",
+     "kind": "Press",
+     "desc": "Bloomberg on the Nasdaq-100 timing",
+     "url": "https://stockanalysis.com/news/anthropic-nasdaq-100-funds-december-21/"
+    },
+    {
+     "name": "Anthropic",
+     "kind": "Company",
+     "desc": "Pricing announcement, Nov 18",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-21/anthropic-ipo/"
   },
   {
    "id": "chatgpt-wallet",
@@ -431,84 +418,7 @@
     "date": "Nov 19",
     "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
    },
-   "url": "https://receiptswire.com/e/2026-11-20/chatgpt-wallet/"
-  },
-  {
-   "id": "amd-china",
-   "topic": "Chips",
-   "date": "Nov 19",
-   "tier": "warn",
-   "evidence": "Short-seller report",
-   "headline": "AMD falls 7.7% after a short seller ties its firmware to a blacklisted Chinese server maker",
-   "dek": "Hunterbrook says its records don't show an export violation. AMD says the report misrepresents its business.",
-   "facts": [
-    {
-     "stat": "7.7%",
-     "text": "AMD's fall on Nov 19, to $489.19, after Hunterbrook Media's report. Its affiliate Hunterbrook Capital disclosed a short position",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "6+",
-     "text": "newer AMD firmware versions that IEIT Systems built into updates for three server models after it joined the Entity List in March 2025, Hunterbrook says",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "22.4%",
-     "text": "of AMD's fiscal 2025 revenue, or $7.75B, was billed to customers in China and Hong Kong. Nvidia reported 9.1% for comparable markets",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Denied",
-     "text": "AMD said the claims misrepresent its business practices and that it complies with US export control laws",
-     "s": [
-      2,
-      3
-     ]
-    }
-   ],
-   "open": {
-    "label": "Unproven",
-    "text": "Hunterbrook says it can't show how IEIT got the code or whether anyone held a license, and that its records alone don't establish a violation.",
-    "s": [
-     1
-    ]
-   },
-   "chart": {
-    "type": "share",
-    "title": "AMD's fiscal 2025 revenue by billing location",
-    "pct": 22.4,
-    "a": "China and Hong Kong",
-    "b": "Everywhere else",
-    "note": "From AMD's filings, as cited by Hunterbrook. Everywhere else includes $4.28B billed to Singapore."
-   },
-   "sources": [
-    {
-     "name": "Hunterbrook Media",
-     "kind": "Press",
-     "desc": "The investigation, with its short disclosure",
-     "url": "https://hntrbrk.com/investigations/amd-china"
-    },
-    {
-     "name": "Financial News",
-     "kind": "Press",
-     "desc": "AMD's close and its response",
-     "url": "https://www.financial-news.co.uk/amd-shares-tumble-7-72-after-hunterbrook-short-report-on-china/"
-    },
-    {
-     "name": "The Motley Fool",
-     "kind": "Press",
-     "desc": "AMD's statement to Bloomberg",
-     "url": "https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-20/amd-china/"
+   "url": "https://receiptswire.com/e/2026-11-21/chatgpt-wallet/"
   },
   {
    "id": "openai-california",
@@ -595,84 +505,159 @@
      "url": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-20/openai-california/"
+   "url": "https://receiptswire.com/e/2026-11-21/openai-california/"
   },
   {
-   "id": "google-tasks",
-   "topic": "Agents",
-   "date": "Nov 17",
-   "tier": "ok",
-   "evidence": "Company",
-   "headline": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
-   "dek": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
+   "id": "amd-china",
+   "topic": "Chips",
+   "date": "Nov 19",
+   "tier": "warn",
+   "evidence": "Short-seller report",
+   "headline": "AMD falls 7.7% after a short seller ties its firmware to a blacklisted Chinese server maker",
+   "dek": "Hunterbrook says its records don't show an export violation. AMD says the report misrepresents its business.",
    "facts": [
     {
-     "stat": "6",
-     "text": "countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen",
+     "stat": "7.7%",
+     "text": "AMD's fall on Nov 19, to $489.19, after Hunterbrook Media's report. Its affiliate Hunterbrook Capital disclosed a short position",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "6+",
+     "text": "newer AMD firmware versions that IEIT Systems built into updates for three server models after it joined the Entity List in March 2025, Hunterbrook says",
      "s": [
       1
      ]
     },
     {
-     "stat": "AP2",
-     "text": "Google's Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon",
+     "stat": "22.4%",
+     "text": "of AMD's fiscal 2025 revenue, or $7.75B, was billed to customers in China and Hong Kong. Nvidia reported 9.1% for comparable markets",
      "s": [
       1
      ]
     },
     {
-     "stat": "Ask first",
-     "text": "Gemini is designed to get confirmation or pre-approval before it buys. Always allow covers routine steps such as adding to a cart, and users can set a hard spending cap",
+     "stat": "Denied",
+     "text": "AMD said the claims misrepresent its business practices and that it complies with US export control laws",
      "s": [
-      1
-     ]
-    },
-    {
-     "stat": "60+",
-     "text": "apps Gemini connects to. In most US states it can phone businesses, says it is an AI, and businesses can opt out",
-     "s": [
-      1
+      2,
+      3
      ]
     }
    ],
    "open": {
-    "label": "Missing numbers",
-    "text": "Google gave no count of purchases or completed tasks. It says the agent still makes mistakes and may hand the final click back on some sites.",
+    "label": "Unproven",
+    "text": "Hunterbrook says it can't show how IEIT got the code or whether anyone held a license, and that its records alone don't establish a violation.",
     "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "share",
+    "title": "AMD's fiscal 2025 revenue by billing location",
+    "pct": 22.4,
+    "a": "China and Hong Kong",
+    "b": "Everywhere else",
+    "note": "From AMD's filings, as cited by Hunterbrook. Everywhere else includes $4.28B billed to Singapore."
+   },
+   "sources": [
+    {
+     "name": "Hunterbrook Media",
+     "kind": "Press",
+     "desc": "The investigation, with its short disclosure",
+     "url": "https://hntrbrk.com/investigations/amd-china"
+    },
+    {
+     "name": "Financial News",
+     "kind": "Press",
+     "desc": "AMD's close and its response",
+     "url": "https://www.financial-news.co.uk/amd-shares-tumble-7-72-after-hunterbrook-short-report-on-china/"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "AMD's statement to Bloomberg",
+     "url": "https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-21/amd-china/"
+  },
+  {
+   "id": "apple-agent",
+   "topic": "Agents",
+   "date": "Nov 19",
+   "tier": "warn",
+   "evidence": "Job listing + press",
+   "headline": "Apple is building an agent that uses apps, browses and codes; it could ship in late 2027",
+   "dek": "A job listing posted Nov 17 puts Apple in the race with OpenAI, Google and Anthropic for agents that act for users.",
+   "facts": [
+    {
+     "stat": "Nov 17",
+     "text": "Apple posted a listing for a senior engineering manager to lead work on general-purpose computer-use agents",
+     "s": [
+      2,
+      1
+     ]
+    },
+    {
+     "stat": "5",
+     "text": "kinds of tools the agent should work across: apps, browsers, command lines, code and APIs, carrying out multi-step tasks",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Late 2027",
+     "text": "the earliest Apple has considered introducing it, Bloomberg reported. The agent is in early development",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "Sandbox",
+     "text": "the listing calls for clear permissions, sandboxing and visibility into what the agent is doing",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not said",
+    "text": "Which model powers it and whether it ships inside Siri. The listing mentions work with the Apple Foundation Models team and gives no release date.",
+    "s": [
+     1,
      2
     ]
    },
    "chart": {
     "type": "diagram",
-    "title": "How a Gemini Tasks purchase works",
-    "zone": "Gemini Tasks, 6 countries",
+    "title": "Where Apple's planned agent would work",
+    "zone": "Apple agent, early stage",
     "nodes": [
-     "Set spending cap",
-     "Agent finds item",
-     "You confirm"
+     "Apps and browsers",
+     "Command lines",
+     "Code and APIs"
     ],
-    "target": "Merchant",
-    "target_sub": "via AP2 token"
+    "target": "Tasks",
+    "target_sub": "multi-step"
    },
    "sources": [
     {
-     "name": "Google",
-     "kind": "Company",
-     "desc": "Tasks in Gemini, free with new features",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+     "name": "MacRumors",
+     "kind": "Press",
+     "desc": "The job listing, via Bloomberg",
+     "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
     },
     {
-     "name": "PPC Land",
+     "name": "iClarified",
      "kind": "Press",
-     "desc": "Rollout details and earlier access",
-     "url": "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/"
+     "desc": "Listing details and Bloomberg's timing",
+     "url": "https://www.iclarified.com/103689/apple-is-building-an-ai-agent-to-use-apps-browse-the-web-and-write-code"
     }
    ],
-   "correction": {
-    "date": "Nov 20",
-    "text": "We said Gemini can buy without asking if a user picks always allow for routine tasks. Google says always allow covers steps such as adding items to a cart, and Gemini asks for confirmation or pre-approval before it buys. Calling is not available in five US states."
-   },
-   "url": "https://receiptswire.com/e/2026-11-20/google-tasks/"
+   "url": "https://receiptswire.com/e/2026-11-21/apple-agent/"
   },
   {
    "id": "microsoft-ignite",
@@ -749,7 +734,84 @@
     "date": "Nov 19",
     "text": "We said each Autopilot agent has a human manager. Microsoft says each has a named manager; it does not say the manager must be a person."
    },
-   "url": "https://receiptswire.com/e/2026-11-20/microsoft-ignite/"
+   "url": "https://receiptswire.com/e/2026-11-21/microsoft-ignite/"
+  },
+  {
+   "id": "google-tasks",
+   "topic": "Agents",
+   "date": "Nov 17",
+   "tier": "ok",
+   "evidence": "Company",
+   "headline": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
+   "dek": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
+   "facts": [
+    {
+     "stat": "6",
+     "text": "countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "AP2",
+     "text": "Google's Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Ask first",
+     "text": "Gemini is designed to get confirmation or pre-approval before it buys. Always allow covers routine steps such as adding to a cart, and users can set a hard spending cap",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "60+",
+     "text": "apps Gemini connects to. In most US states it can phone businesses, says it is an AI, and businesses can opt out",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "Google gave no count of purchases or completed tasks. It says the agent still makes mistakes and may hand the final click back on some sites.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "How a Gemini Tasks purchase works",
+    "zone": "Gemini Tasks, 6 countries",
+    "nodes": [
+     "Set spending cap",
+     "Agent finds item",
+     "You confirm"
+    ],
+    "target": "Merchant",
+    "target_sub": "via AP2 token"
+   },
+   "sources": [
+    {
+     "name": "Google",
+     "kind": "Company",
+     "desc": "Tasks in Gemini, free with new features",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+     "name": "PPC Land",
+     "kind": "Press",
+     "desc": "Rollout details and earlier access",
+     "url": "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/"
+    }
+   ],
+   "correction": {
+    "date": "Nov 20",
+    "text": "We said Gemini can buy without asking if a user picks always allow for routine tasks. Google says always allow covers steps such as adding items to a cart, and Gemini asks for confirmation or pre-approval before it buys. Calling is not available in five US states."
+   },
+   "url": "https://receiptswire.com/e/2026-11-21/google-tasks/"
   },
   {
    "id": "gpt-6-2",
@@ -867,7 +929,7 @@
      "url": "https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-20/gpt-6-2/"
+   "url": "https://receiptswire.com/e/2026-11-21/gpt-6-2/"
   },
   {
    "id": "gemini-4",
@@ -984,87 +1046,7 @@
      "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-20/gemini-4/"
-  },
-  {
-   "id": "palo-alto",
-   "topic": "Money",
-   "date": "Nov 18",
-   "tier": "ok",
-   "evidence": "Company + press",
-   "headline": "Palo Alto Networks to buy Applied Compute for $4.5B in stock, weeks after a $3.25B valuation",
-   "dek": "Its CEO says every enterprise will run a mix of open and closed AI models, and all of them need securing.",
-   "facts": [
-    {
-     "stat": "$4.5B",
-     "text": "all-stock price for Applied Compute, which post-trains and serves open-weight models. The deal needs regulatory clearance",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "$3.25B",
-     "text": "Applied Compute's valuation when it raised $350M earlier in November, in a round led by Elad Gil with Nvidia taking part",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "$100M+",
-     "text": "Applied Compute's annualized recurring revenue; its customers include Microsoft and DoorDash",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "39%",
-     "text": "Palo Alto's revenue growth last quarter, to $3.44B. It raised its fiscal 2027 revenue forecast to $14.52B to $14.57B",
-     "s": [
-      2
-     ]
-    }
-   ],
-   "open": {
-    "label": "Not disclosed",
-    "text": "Applied Compute's headcount and profits. The deal is expected to close in Palo Alto's fiscal third quarter, subject to regulators.",
-    "s": [
-     1
-    ]
-   },
-   "chart": {
-    "type": "vbars",
-    "title": "Applied Compute's value, Nov 2026",
-    "data": [
-     [
-      "Funding round",
-      3.25,
-      "$3.25B",
-      "ctx"
-     ],
-     [
-      "Palo Alto's price",
-      4.5,
-      "$4.5B",
-      "main"
-     ]
-    ],
-    "note": "The round was raised earlier in November. The deal is all stock and subject to adjustments."
-   },
-   "sources": [
-    {
-     "name": "Palo Alto Networks",
-     "kind": "Company",
-     "desc": "Deal announcement, Nov 18",
-     "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
-    },
-    {
-     "name": "SiliconANGLE",
-     "kind": "Press",
-     "desc": "Earnings, deal terms and the startup's funding",
-     "url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-20/palo-alto/"
+   "url": "https://receiptswire.com/e/2026-11-21/gemini-4/"
   },
   {
    "id": "layoffs",
@@ -1167,27 +1149,27 @@
      "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-20/layoffs/"
+   "url": "https://receiptswire.com/e/2026-11-21/layoffs/"
   }
  ],
  "brief": [
   {
-   "id": "anthropic-ipo",
-   "kick": "Money",
-   "big": "$97.17",
-   "line": "ANT's first close, 17% above its $83 IPO price, after a first trade at $111.50."
-  },
-  {
    "id": "ai-selloff",
    "kick": "Money",
-   "big": "14.5%",
-   "line": "SoftBank's fall in Tokyo as the AI selloff reached Asia. The Nikkei lost 4.8%."
+   "big": "5.3%",
+   "line": "The Nasdaq's fall on Nov 20, leaving it lower for 2026. The S&P 500 and Dow are in a correction."
   },
   {
    "id": "nvidia",
    "kick": "Chips",
-   "big": "$0",
-   "line": "China data center revenue assumed in Nvidia's $130B forecast, after a new US rule."
+   "big": "$2.7T",
+   "line": "Nvidia's market value lost since Oct. 6, after a 14% drop on a report of an SEC accounting probe."
+  },
+  {
+   "id": "anthropic-ipo",
+   "kick": "Money",
+   "big": "$88.91",
+   "line": "ANT's second close, down 8.5%. Its low came five cents above the $83 IPO price."
   },
   {
    "id": "chatgpt-wallet",
@@ -1196,19 +1178,13 @@
    "line": "US banks, now including Citi and PNC, that make customers liable for what AI agents do."
   },
   {
-   "id": "amd-china",
-   "kick": "Chips",
-   "big": "7.7%",
-   "line": "AMD's fall after a short seller tied its firmware to a blacklisted Chinese firm."
+   "id": "apple-agent",
+   "kick": "Agents",
+   "big": "2027",
+   "line": "The earliest Apple has considered shipping an agent that uses apps, browses and codes, Bloomberg says."
   }
  ],
  "coming": [
-  [
-   "Fri",
-   "Nov 20",
-   "Anthropic's IPO is set to close",
-   "anthropic-ipo"
-  ],
   [
    "Mon",
    "Nov 30",
