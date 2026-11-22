@@ -8,6 +8,150 @@
  "favicon": "https://receiptswire.com/icon-32.png",
  "items": [
   {
+   "id": "https://receiptswire.com/e/2026-11-22/ai-selloff/",
+   "url": "https://receiptswire.com/e/2026-11-22/ai-selloff/",
+   "title": "The S&P 500 and the Dow enter a correction as the Nasdaq falls 5.3% in the AI selloff",
+   "summary": "Nvidia fell 14% and the Nasdaq turned negative for 2026, a day after Anthropic's market debut.",
+   "content_html": "<p>Nvidia fell 14% and the Nasdaq turned negative for 2026, a day after Anthropic&#x27;s market debut.</p><ul><li><b>3.70%</b> the S&amp;P 500&#x27;s fall on Nov 20, to 6,910.42. It and the Dow, down 1.93%, closed more than 10% below their records, a correction</li><li><b>5.28%</b> the Nasdaq&#x27;s fall, to 22,617.73, leaving it lower for the year. Its weekly drop was its largest since March 2020</li><li><b>7 days</b> the S&amp;P 500&#x27;s losing streak, its longest since February 2020. Nebius fell 16.1% and CoreWeave 12.1% on Friday</li><li><b>14.5%</b> SoftBank Group&#x27;s fall in Tokyo earlier on Nov 20. The Nikkei 225 closed down 4.77%, at a six-month low</li></ul><p>Sources:</p><ol><li><a href=\"https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html\">Yahoo Finance</a>: Reuters on the Nov 20 close (Press)</li><li><a href=\"https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477\">Finwire</a>: Tokyo close, Nov 20 (Press)</li></ol><p>Confidence: Press + market data</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/ai-selloff.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/nvidia/",
+   "url": "https://receiptswire.com/e/2026-11-22/nvidia/",
+   "title": "Nvidia falls 14% after Reuters reports the SEC is examining its accounting",
+   "summary": "It has lost about $2.7 trillion in market value since its Oct. 6 record. Neither Nvidia nor the SEC commented.",
+   "content_html": "<p>It has lost about $2.7 trillion in market value since its Oct. 6 record. Neither Nvidia nor the SEC commented.</p><ul><li><b>14.01%</b> Nvidia&#x27;s fall on Nov 20, to $125.53, its worst day since January 2025 and its seventh straight loss</li><li><b>2 people</b> briefed on the matter told Reuters that SEC enforcement staff are scrutinizing potential accounting issues. Shares had been down about 6% before the report</li><li><b>$2.7T</b> market value Nvidia has lost since its Oct. 6 record, including about $485B on Friday and nearly $900B this week</li><li><b>Exit</b> Jensen Huang resigned as CEO in November, ending a 33-year run atop the company he co-founded. Colette Kress is interim CEO</li></ul><p>Sources:</p><ol><li><a href=\"https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460\">Investing.com</a>: Reuters exclusive on the SEC probe (Press)</li><li><a href=\"https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\">Yahoo Finance</a>: Nvidia&#x27;s close and value lost (Press)</li><li><a href=\"https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-eyes-action/269054\">InvestmentNews</a>: Huang exit, SEC and California AG (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/nvidia.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/anthropic-ipo/",
+   "url": "https://receiptswire.com/e/2026-11-22/anthropic-ipo/",
+   "title": "Anthropic falls 8.5% on its second day to $88.91, after nearly touching its $83 IPO price",
+   "summary": "ANT held a 7.1% gain over its offer price as AI stocks slid. Index funds may have to buy it next month.",
+   "content_html": "<p>ANT held a 7.1% gain over its offer price as AI stocks slid. Index funds may have to buy it next month.</p><ul><li><b>$88.91</b> ANT&#x27;s close on Nov 20, down from $97.17 on its first day and 7.1% above the $83 IPO price</li><li><b>$83.05</b> Friday&#x27;s low, five cents above the IPO price. The stock opened at $89.86 and peaked at $92.56</li><li><b>Dec 11</b> when FTSE Russell will add Anthropic after the close, if it meets fast entry rules. Bloomberg reported it is on track to join the Nasdaq-100 on Dec 21</li></ul><p>Sources:</p><ol><li><a href=\"https://financefeeds.com/anthropic-ant-stock-88-91-saturday-week-ahead-after-friday-low-tested-83-ipo-price-bull-97-bear-80/\">FinanceFeeds</a>: Friday&#x27;s close, range and open (Press)</li><li><a href=\"https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html\">Yahoo Finance</a>: Reuters on the Nov 20 close (Press)</li><li><a href=\"https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/\">FourWeekMBA</a>: FTSE Russell&#x27;s Nov 13 notice (Press)</li><li><a href=\"https://stockanalysis.com/news/anthropic-nasdaq-100-funds-december-21/\">StockAnalysis</a>: Bloomberg on the Nasdaq-100 timing (Press)</li><li><a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">Anthropic</a>: Pricing announcement, Nov 18 (Company)</li></ol><p>Confidence: Press + market data</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/anthropic-ipo.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/chatgpt-wallet/",
+   "url": "https://receiptswire.com/e/2026-11-22/chatgpt-wallet/",
+   "title": "Citi and PNC join banks making customers liable for what AI agents do with their logins",
+   "summary": "Customers who give outside agents their logins carry the risk, even after a hack. ChatGPT Wallet pays with a network token instead.",
+   "content_html": "<p>Customers who give outside agents their logins carry the risk, even after a hack. ChatGPT Wallet pays with a network token instead.</p><ul><li><b>Citi</b> changed its online user agreement this week: customers are responsible for what third-party AI agents do with their credentials, even if the tool is hacked. Citi&#x27;s own agents add no such liability</li><li><b>Nov 18</b> PNC changed its terms. JPMorgan and Bank of America adopted similar policies in October, and Citizens emailed customers a warning</li><li><b>US Pro</b> ChatGPT Wallet is open to Pro subscribers in the US. It pays through the major card networks with a token in place of the card number, and every purchase needs a security check such as Face ID</li><li><b>JPMorgan</b> blocks agents that shop with a card number a customer hands them, the WSJ reported. Its payments arm is now in Visa&#x27;s Agentic Ready program, which has 140-plus members</li></ul><p>Sources:</p><ol><li><a href=\"https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/\">TechCrunch</a>: Citi, PNC and other banks&#x27; new terms, Nov 18 (Press)</li><li><a href=\"https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/\">Payments Dive</a>: The wallet launch and executives&#x27; outlook (Press)</li><li><a href=\"https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us\">The Paypers</a>: How a wallet purchase works (Press)</li><li><a href=\"https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/\">PYMNTS</a>: WSJ report on JPMorgan (Press)</li><li><a href=\"https://forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop\">Forbes</a>: Visa&#x27;s program adds J.P. Morgan Payments (Press)</li><li><a href=\"https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22986.html\">Visa</a>: Agentic Ready expansion, Nov 17 (Company)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/chatgpt-wallet.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/walmart-agents/",
+   "url": "https://receiptswire.com/e/2026-11-22/walmart-agents/",
+   "title": "Walmart says Sparky use rose 129% and opens its store to outside agents with spending caps",
+   "summary": "Shoppers can cap what an approved third-party agent spends, track its orders and cut off its access.",
+   "content_html": "<p>Shoppers can cap what an approved third-party agent spends, track its orders and cut off its access.</p><ul><li><b>129%</b> rise in US use of Sparky, Walmart&#x27;s own shopping agent, from a year earlier, CEO John Furner said on the Nov 19 earnings call</li><li><b>40%</b> larger baskets tied to Sparky use, Furner said</li><li><b>Limits</b> Walmart&#x27;s new agent profiles let shoppers set permissions and spending limits for approved outside agents, track those purchases separately and revoke access</li><li><b>23%</b> growth in Walmart US e-commerce in the quarter. Global e-commerce rose 17% and revenue 5.2%, to $188.8B</li></ul><p>Sources:</p><ol><li><a href=\"https://pymnts.com/earnings/2026/walmart-pairs-membership-growth-with-an-ai-agent-push\">PYMNTS</a>: Walmart Q3 earnings call (Press)</li><li><a href=\"https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/\">CX Dive</a>: Walmart agent profiles and fulfillment (Press)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/walmart-agents.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/amazon-decart/",
+   "url": "https://receiptswire.com/e/2026-11-22/amazon-decart/",
+   "title": "Amazon nears a deal for video-model startup Decart worth more than $7 billion, reports say",
+   "summary": "That is at least 1.75 times Decart's May valuation. Neither company has commented or announced a deal.",
+   "content_html": "<p>That is at least 1.75 times Decart&#x27;s May valuation. Neither company has commented or announced a deal.</p><ul><li><b>$7B+</b> the reported price, in cash, stock and deferred payments, rising to nearly $7.5B if targets are met, per Israeli outlets Calcalist and Globes</li><li><b>$4B</b> Decart&#x27;s valuation in May, when it raised $300M in a round led by Radical Ventures that Nvidia joined</li><li><b>1.75x</b> the reported price over the May valuation (derived: $7B divided by $4B)</li><li><b>~$6B</b> the size of a Decart purchase Anthropic reportedly explored, then dropped after due diligence</li></ul><p>Sources:</p><ol><li><a href=\"https://fourweekmba.com/ai-amazon-nears-7b-decart-deal-1-75x-its-may-valuation/\">FourWeekMBA</a>: Analysis of Calcalist and Globes reports (Press)</li><li><a href=\"https://www.rttnews.com/3698034/amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-around-7-bln.aspx?type=maa\">RTTNews</a>: WSJ report of the talks, October (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/amazon-decart.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/openai-california/",
+   "url": "https://receiptswire.com/e/2026-11-22/openai-california/",
+   "title": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
+   "summary": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
+   "content_html": "<p>The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.</p><ul><li><b>80+</b> times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27</li><li><b>2+ days</b> length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models</li><li><b>500+</b> RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says</li><li><b>$2,500</b> civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement</li></ul><p>Sources:</p><ol><li><a href=\"https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over\">California AG</a>: Announcement of the suit, with the complaint (Filing)</li><li><a href=\"https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html\">Computerworld</a>: Details from the complaint (Press)</li><li><a href=\"https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack\">Axios</a>: OpenAI&#x27;s response, via a spokesperson (Press)</li></ol><p>Confidence: Court filing</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/openai-california.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/amd-china/",
+   "url": "https://receiptswire.com/e/2026-11-22/amd-china/",
+   "title": "AMD falls 7.7% after a short seller ties its firmware to a blacklisted Chinese server maker",
+   "summary": "Hunterbrook says its records don't show an export violation. AMD says the report misrepresents its business.",
+   "content_html": "<p>Hunterbrook says its records don&#x27;t show an export violation. AMD says the report misrepresents its business.</p><ul><li><b>7.7%</b> AMD&#x27;s fall on Nov 19, to $489.19, after Hunterbrook Media&#x27;s report. Its affiliate Hunterbrook Capital disclosed a short position</li><li><b>6+</b> newer AMD firmware versions that IEIT Systems built into updates for three server models after it joined the Entity List in March 2025, Hunterbrook says</li><li><b>22.4%</b> of AMD&#x27;s fiscal 2025 revenue, or $7.75B, was billed to customers in China and Hong Kong. Nvidia reported 9.1% for comparable markets</li><li><b>Denied</b> AMD said the claims misrepresent its business practices and that it complies with US export control laws</li></ul><p>Sources:</p><ol><li><a href=\"https://hntrbrk.com/investigations/amd-china\">Hunterbrook Media</a>: The investigation, with its short disclosure (Press)</li><li><a href=\"https://www.financial-news.co.uk/amd-shares-tumble-7-72-after-hunterbrook-short-report-on-china/\">Financial News</a>: AMD&#x27;s close and its response (Press)</li><li><a href=\"https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/\">The Motley Fool</a>: AMD&#x27;s statement to Bloomberg (Press)</li></ol><p>Confidence: Short-seller report</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/amd-china.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/microsoft-ignite/",
+   "url": "https://receiptswire.com/e/2026-11-22/microsoft-ignite/",
+   "title": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
+   "summary": "Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.",
+   "content_html": "<p>Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.</p><ul><li><b>50M+</b> agents in Agent 365, Microsoft&#x27;s control plane for governing them</li><li><b>Autopilot</b> an always-on agent with its own Entra Agent ID and a named manager, now rolling out to customers in Microsoft&#x27;s Frontier program</li><li><b>~80%</b> of Fortune 500 companies use Cowork, Microsoft says</li><li><b>40%</b> more tokens per watt Microsoft says its new Maia 300 chip will deliver than leading GPU-based systems</li></ul><p>Sources:</p><ol><li><a href=\"https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/\">Microsoft</a>: Nadella&#x27;s Ignite keynote, edited (Company)</li><li><a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/\">Microsoft Copilot</a>: Autopilot, Office and Cowork details (Company)</li></ol><p>Confidence: Company</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/microsoft-ignite.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/google-tasks/",
+   "url": "https://receiptswire.com/e/2026-11-22/google-tasks/",
+   "title": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
+   "summary": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
+   "content_html": "<p>It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.</p><ul><li><b>6</b> countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen</li><li><b>AP2</b> Google&#x27;s Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon</li><li><b>Ask first</b> Gemini is designed to get confirmation or pre-approval before it buys. Always allow covers routine steps such as adding to a cart, and users can set a hard spending cap</li><li><b>60+</b> apps Gemini connects to. In most US states it can phone businesses, says it is an AI, and businesses can opt out</li></ul><p>Sources:</p><ol><li><a href=\"https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\">Google</a>: Tasks in Gemini, free with new features (Company)</li><li><a href=\"https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/\">PPC Land</a>: Rollout details and earlier access (Press)</li></ol><p>Confidence: Company</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/google-tasks.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/gpt-6-2/",
+   "url": "https://receiptswire.com/e/2026-11-22/gpt-6-2/",
+   "title": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
+   "summary": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
+   "content_html": "<p>OpenAI says Astra is the first model it has released at its &quot;High&quot; risk level for AI self-improvement.</p><ul><li><b>$8 / $40</b> Astra&#x27;s API price per million input and output tokens, 20% below its predecessor; Sol stays at $2 / $10</li><li><b>62</b> Astra&#x27;s Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65</li><li><b>$4.00</b> Astra&#x27;s cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40</li><li><b>3–4 days</b> before launch, the team made a lot of changes, OpenAI&#x27;s Thibault Sottiaux said, answering early testers who said Astra asked permission too often</li></ul><p>Sources:</p><ol><li><a href=\"https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/\">The Decoder</a>: Release, prices and safety rating (Press)</li><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index scores and cost per task (Data)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2&#x27;s list price (Press)</li><li><a href=\"https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822\">Gizmodo</a>: Early reviews and OpenAI&#x27;s reply, Nov 18 (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Models"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/gpt-6-2.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-22/layoffs/",
+   "url": "https://receiptswire.com/e/2026-11-22/layoffs/",
+   "title": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
+   "summary": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
+   "content_html": "<p>Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.</p><ul><li><b>121,401</b> announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)</li><li><b>1,265</b> cuts cited AI in October, under 3% of the month, against about 40% in May</li><li><b>Up to 9%</b> of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated</li><li><b>1%</b> of payrolls laid off in September, or 1.6 million layoffs, while hires ran at 5.4 million (JOLTS)</li></ul><p>Sources:</p><ol><li><a href=\"https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129\">HCA Magazine</a>: Challenger&#x27;s count through October (Press)</li><li><a href=\"https://techjacksolutions.com/?p=107167\">TechJack</a>: May and October shares (Press)</li><li><a href=\"https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/\">Fortune</a>: Goldman&#x27;s 2027 outlook and JOLTS data (Press)</li><li><a href=\"https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/\">People Managing People</a>: The 22% share, through August (Press)</li></ol><p>Confidence: Press + data</p>",
+   "date_published": "2026-11-22T05:49-06:00",
+   "tags": [
+    "Jobs"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-22/layoffs.png"
+  },
+  {
    "id": "https://receiptswire.com/e/2026-11-21/ai-selloff/",
    "url": "https://receiptswire.com/e/2026-11-21/ai-selloff/",
    "title": "The S&P 500 and the Dow enter a correction as the Nasdaq falls 5.3% in the AI selloff",

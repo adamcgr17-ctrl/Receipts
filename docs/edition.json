@@ -1,7 +1,7 @@
 {
- "date": "2026-11-21",
- "published_at": "2026-11-21T05:44-06:00",
- "url": "https://receiptswire.com/e/2026-11-21/",
+ "date": "2026-11-22",
+ "published_at": "2026-11-22T05:49-06:00",
+ "url": "https://receiptswire.com/e/2026-11-22/",
  "stories": [
   {
    "id": "ai-selloff",
@@ -105,7 +105,7 @@
      "url": "https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/ai-selloff/"
+   "url": "https://receiptswire.com/e/2026-11-22/ai-selloff/"
   },
   {
    "id": "nvidia",
@@ -138,11 +138,10 @@
      ]
     },
     {
-     "stat": "$130B",
-     "text": "Nvidia's revenue outlook for this quarter, which assumes no China data center revenue after a Nov 16 US rule on remote chip access",
+     "stat": "Exit",
+     "text": "Jensen Huang resigned as CEO in November, ending a 33-year run atop the company he co-founded. Colette Kress is interim CEO",
      "s": [
-      3,
-      4
+      3
      ]
     }
    ],
@@ -193,19 +192,13 @@
      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
     },
     {
-     "name": "Nvidia",
-     "kind": "Company",
-     "desc": "Q3 fiscal 2027 results and outlook",
-     "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
-    },
-    {
-     "name": "BIS",
-     "kind": "Filing",
-     "desc": "Rule on remote access to advanced chips",
-     "url": "https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+     "name": "InvestmentNews",
+     "kind": "Press",
+     "desc": "Huang exit, SEC and California AG",
+     "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-eyes-action/269054"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/nvidia/"
+   "url": "https://receiptswire.com/e/2026-11-22/nvidia/"
   },
   {
    "id": "anthropic-ipo",
@@ -313,7 +306,7 @@
      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/anthropic-ipo/"
+   "url": "https://receiptswire.com/e/2026-11-22/anthropic-ipo/"
   },
   {
    "id": "chatgpt-wallet",
@@ -418,7 +411,191 @@
     "date": "Nov 19",
     "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
    },
-   "url": "https://receiptswire.com/e/2026-11-21/chatgpt-wallet/"
+   "url": "https://receiptswire.com/e/2026-11-22/chatgpt-wallet/"
+  },
+  {
+   "id": "walmart-agents",
+   "topic": "Agents",
+   "date": "Nov 19",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Walmart says Sparky use rose 129% and opens its store to outside agents with spending caps",
+   "dek": "Shoppers can cap what an approved third-party agent spends, track its orders and cut off its access.",
+   "facts": [
+    {
+     "stat": "129%",
+     "text": "rise in US use of Sparky, Walmart's own shopping agent, from a year earlier, CEO John Furner said on the Nov 19 earnings call",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "40%",
+     "text": "larger baskets tied to Sparky use, Furner said",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "Limits",
+     "text": "Walmart's new agent profiles let shoppers set permissions and spending limits for approved outside agents, track those purchases separately and revoke access",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "23%",
+     "text": "growth in Walmart US e-commerce in the quarter. Global e-commerce rose 17% and revenue 5.2%, to $188.8B",
+     "s": [
+      1,
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "Walmart gave no count of Sparky users or agent orders and did not name the approved outside agents. Its growth chief said it is still learning how conversational prompts change product discovery.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Walmart, fiscal Q3, change from a year earlier",
+    "data": [
+     [
+      "Sparky use, US",
+      129,
+      "+129%",
+      "main"
+     ],
+     [
+      "US e-commerce",
+      23,
+      "+23%",
+      "ctx"
+     ],
+     [
+      "Global e-commerce",
+      17,
+      "+17%",
+      "ctx"
+     ],
+     [
+      "Revenue",
+      5.2,
+      "+5.2%",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "Walmart Q3 earnings call",
+     "url": "https://pymnts.com/earnings/2026/walmart-pairs-membership-growth-with-an-ai-agent-push"
+    },
+    {
+     "name": "CX Dive",
+     "kind": "Press",
+     "desc": "Walmart agent profiles and fulfillment",
+     "url": "https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-22/walmart-agents/"
+  },
+  {
+   "id": "amazon-decart",
+   "topic": "Money",
+   "date": "Nov 18–19",
+   "tier": "warn",
+   "evidence": "Press report",
+   "disclosure": true,
+   "headline": "Amazon nears a deal for video-model startup Decart worth more than $7 billion, reports say",
+   "dek": "That is at least 1.75 times Decart's May valuation. Neither company has commented or announced a deal.",
+   "facts": [
+    {
+     "stat": "$7B+",
+     "text": "the reported price, in cash, stock and deferred payments, rising to nearly $7.5B if targets are met, per Israeli outlets Calcalist and Globes",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$4B",
+     "text": "Decart's valuation in May, when it raised $300M in a round led by Radical Ventures that Nvidia joined",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "1.75x",
+     "text": "the reported price over the May valuation (derived: $7B divided by $4B)",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "~$6B",
+     "text": "the size of a Decart purchase Anthropic reportedly explored, then dropped after due diligence",
+     "s": [
+      1,
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not signed",
+    "text": "Globes said closing was expected before US Thanksgiving, with a possible unveiling at AWS re:Invent on Nov 30. In October the WSJ put the talks at around $7 billion.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Decart, $ billions",
+    "data": [
+     [
+      "May round valuation",
+      4,
+      "$4B",
+      "ctx"
+     ],
+     [
+      "Reported deal price",
+      7,
+      "$7B+",
+      "main"
+     ],
+     [
+      "If targets are met",
+      7.5,
+      "~$7.5B",
+      "guide"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "Analysis of Calcalist and Globes reports",
+     "url": "https://fourweekmba.com/ai-amazon-nears-7b-decart-deal-1-75x-its-may-valuation/"
+    },
+    {
+     "name": "RTTNews",
+     "kind": "Press",
+     "desc": "WSJ report of the talks, October",
+     "url": "https://www.rttnews.com/3698034/amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-around-7-bln.aspx?type=maa"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-22/amazon-decart/"
   },
   {
    "id": "openai-california",
@@ -505,7 +682,7 @@
      "url": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/openai-california/"
+   "url": "https://receiptswire.com/e/2026-11-22/openai-california/"
   },
   {
    "id": "amd-china",
@@ -582,82 +759,7 @@
      "url": "https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/amd-china/"
-  },
-  {
-   "id": "apple-agent",
-   "topic": "Agents",
-   "date": "Nov 19",
-   "tier": "warn",
-   "evidence": "Job listing + press",
-   "headline": "Apple is building an agent that uses apps, browses and codes; it could ship in late 2027",
-   "dek": "A job listing posted Nov 17 puts Apple in the race with OpenAI, Google and Anthropic for agents that act for users.",
-   "facts": [
-    {
-     "stat": "Nov 17",
-     "text": "Apple posted a listing for a senior engineering manager to lead work on general-purpose computer-use agents",
-     "s": [
-      2,
-      1
-     ]
-    },
-    {
-     "stat": "5",
-     "text": "kinds of tools the agent should work across: apps, browsers, command lines, code and APIs, carrying out multi-step tasks",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Late 2027",
-     "text": "the earliest Apple has considered introducing it, Bloomberg reported. The agent is in early development",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "Sandbox",
-     "text": "the listing calls for clear permissions, sandboxing and visibility into what the agent is doing",
-     "s": [
-      2
-     ]
-    }
-   ],
-   "open": {
-    "label": "Not said",
-    "text": "Which model powers it and whether it ships inside Siri. The listing mentions work with the Apple Foundation Models team and gives no release date.",
-    "s": [
-     1,
-     2
-    ]
-   },
-   "chart": {
-    "type": "diagram",
-    "title": "Where Apple's planned agent would work",
-    "zone": "Apple agent, early stage",
-    "nodes": [
-     "Apps and browsers",
-     "Command lines",
-     "Code and APIs"
-    ],
-    "target": "Tasks",
-    "target_sub": "multi-step"
-   },
-   "sources": [
-    {
-     "name": "MacRumors",
-     "kind": "Press",
-     "desc": "The job listing, via Bloomberg",
-     "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
-    },
-    {
-     "name": "iClarified",
-     "kind": "Press",
-     "desc": "Listing details and Bloomberg's timing",
-     "url": "https://www.iclarified.com/103689/apple-is-building-an-ai-agent-to-use-apps-browse-the-web-and-write-code"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-21/apple-agent/"
+   "url": "https://receiptswire.com/e/2026-11-22/amd-china/"
   },
   {
    "id": "microsoft-ignite",
@@ -734,7 +836,7 @@
     "date": "Nov 19",
     "text": "We said each Autopilot agent has a human manager. Microsoft says each has a named manager; it does not say the manager must be a person."
    },
-   "url": "https://receiptswire.com/e/2026-11-21/microsoft-ignite/"
+   "url": "https://receiptswire.com/e/2026-11-22/microsoft-ignite/"
   },
   {
    "id": "google-tasks",
@@ -811,7 +913,7 @@
     "date": "Nov 20",
     "text": "We said Gemini can buy without asking if a user picks always allow for routine tasks. Google says always allow covers steps such as adding items to a cart, and Gemini asks for confirmation or pre-approval before it buys. Calling is not available in five US states."
    },
-   "url": "https://receiptswire.com/e/2026-11-21/google-tasks/"
+   "url": "https://receiptswire.com/e/2026-11-22/google-tasks/"
   },
   {
    "id": "gpt-6-2",
@@ -929,124 +1031,7 @@
      "url": "https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/gpt-6-2/"
-  },
-  {
-   "id": "gemini-4",
-   "topic": "Models",
-   "date": "Nov 10–18",
-   "tier": "ok",
-   "evidence": "Company + data",
-   "disclosure": true,
-   "headline": "Google's Gemini 4 Neon ranks third on an independent index at $3 per million input tokens",
-   "dek": "Neon slots between GPT-6.2 Astra and Gemini 4 Carbon. Once Carbon's price doubles Nov 30, Neon costs 25% less.",
-   "facts": [
-    {
-     "stat": "61",
-     "text": "Neon's Artificial Analysis Intelligence Index score at its top setting, behind Claude Fable 5.2 at 65 and GPT-6.2 Astra at 62, ahead of Carbon at 60",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "$3 / $15",
-     "text": "Neon's price per million input and output tokens. Pro and Ultra subscribers can pick it in the Gemini app",
-     "s": [
-      2,
-      3
-     ]
-    },
-    {
-     "stat": "$4 / $20",
-     "text": "Carbon's price after Nov 30, up from $2 / $10. Hydrogen, out since Nov 12, costs $1.50 / $7.50",
-     "s": [
-      3,
-      4
-     ]
-    },
-    {
-     "stat": "$6.44",
-     "text": "Neon's cost per task on the index at its top setting, against $7.76 for Carbon and $4.00 for Astra",
-     "s": [
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Sources differ on size",
-    "text": "Google says Neon at its high setting costs 32% less per task than Carbon. On the independent index, Neon at its top setting costs about 17% less (derived).",
-    "s": [
-     2,
-     1
-    ]
-   },
-   "correction": {
-    "date": "Nov 20",
-    "text": "We said Carbon cost $4.90 per task on the Artificial Analysis index, less than Neon. The index lists $7.76, so Neon costs less per task. On Nov 18 we said Carbon topped the index at 59; Claude Fable 5.2 has led it at 65 since Nov 9, and Carbon scores 60."
-   },
-   "chart": {
-    "type": "hbars",
-    "title": "Gemini 4 output price, $ per million tokens",
-    "data": [
-     [
-      "Hydrogen",
-      7.5,
-      "$7.50",
-      "ctx"
-     ],
-     [
-      "Carbon, through Nov 30",
-      10,
-      "$10",
-      "ctx"
-     ],
-     [
-      "Neon",
-      15,
-      "$15",
-      "main"
-     ],
-     [
-      "Carbon, after Nov 30",
-      20,
-      "$20",
-      "guide"
-     ]
-    ]
-   },
-   "sources": [
-    {
-     "name": "Artificial Analysis",
-     "kind": "Data",
-     "desc": "Index scores and cost per task",
-     "url": "https://artificialanalysis.ai/leaderboards/models"
-    },
-    {
-     "name": "Google",
-     "kind": "Company",
-     "desc": "Neon launch and Google's own benchmarks",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    },
-    {
-     "name": "9to5Google",
-     "kind": "Press",
-     "desc": "Gemini app changes and Gemini 4 prices",
-     "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
-    },
-    {
-     "name": "TeamoRouter",
-     "kind": "Press",
-     "desc": "Hydrogen's price and release date",
-     "url": "https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon"
-    },
-    {
-     "name": "OfficeChai",
-     "kind": "Press",
-     "desc": "Fable 5.2 took the top spot, Nov 9",
-     "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-21/gemini-4/"
+   "url": "https://receiptswire.com/e/2026-11-22/gpt-6-2/"
   },
   {
    "id": "layoffs",
@@ -1149,7 +1134,7 @@
      "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-21/layoffs/"
+   "url": "https://receiptswire.com/e/2026-11-22/layoffs/"
   }
  ],
  "brief": [
@@ -1172,24 +1157,24 @@
    "line": "ANT's second close, down 8.5%. Its low came five cents above the $83 IPO price."
   },
   {
-   "id": "chatgpt-wallet",
+   "id": "walmart-agents",
    "kick": "Agents",
-   "big": "4",
-   "line": "US banks, now including Citi and PNC, that make customers liable for what AI agents do."
+   "big": "129%",
+   "line": "Growth in US use of Walmart's Sparky agent. Outside agents get spending caps."
   },
   {
-   "id": "apple-agent",
-   "kick": "Agents",
-   "big": "2027",
-   "line": "The earliest Apple has considered shipping an agent that uses apps, browses and codes, Bloomberg says."
+   "id": "amazon-decart",
+   "kick": "Money",
+   "big": "$7B+",
+   "line": "What Amazon would pay for video-model startup Decart, reports say. Nothing is signed."
   }
  ],
  "coming": [
   [
    "Mon",
    "Nov 30",
-   "Gemini 4 Carbon's intro price ends",
-   "gemini-4"
+   "AWS re:Invent, where Amazon may unveil a Decart deal",
+   "amazon-decart"
   ],
   [
    "Early",
