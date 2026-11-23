@@ -1,120 +1,116 @@
 {
- "date": "2026-11-22",
- "published_at": "2026-11-22T05:49-06:00",
- "url": "https://receiptswire.com/e/2026-11-22/",
+ "date": "2026-11-23",
+ "published_at": "2026-11-23T05:49-06:00",
+ "url": "https://receiptswire.com/e/2026-11-23/",
  "stories": [
   {
    "id": "ai-selloff",
    "topic": "Money",
-   "date": "Nov 19–20",
+   "date": "Nov 20–23",
    "tier": "ok",
    "evidence": "Press + market data",
-   "headline": "The S&P 500 and the Dow enter a correction as the Nasdaq falls 5.3% in the AI selloff",
-   "dek": "Nvidia fell 14% and the Nasdaq turned negative for 2026, a day after Anthropic's market debut.",
+   "headline": "US futures rise 3% as Asia props up stocks after the Nasdaq's worst week since 2020",
+   "dek": "China eased margin rules and Korea set up a fund, but the Kospi kept falling. The Nasdaq lost 10% last week.",
    "facts": [
     {
-     "stat": "3.70%",
-     "text": "the S&P 500's fall on Nov 20, to 6,910.42. It and the Dow, down 1.93%, closed more than 10% below their records, a correction",
+     "stat": "3.02%",
+     "text": "rise in Nasdaq-100 futures as of 1:18 a.m. ET Monday. S&P 500 futures were up 2.10% and Dow futures 1.45%",
      "s": [
-      1
+      2
      ]
     },
     {
-     "stat": "5.28%",
-     "text": "the Nasdaq's fall, to 22,617.73, leaving it lower for the year. Its weekly drop was its largest since March 2020",
+     "stat": "10%",
+     "text": "the Nasdaq's fall last week, its largest weekly drop since March 2020. The S&P 500 and the Dow each lost more than 8%",
      "s": [
-      1
+      1,
+      2
      ]
     },
     {
-     "stat": "7 days",
-     "text": "the S&P 500's losing streak, its longest since February 2020. Nebius fell 16.1% and CoreWeave 12.1% on Friday",
+     "stat": "80%",
+     "text": "China's new minimum margin for leveraged stock buying, down from 100%, from Nov 30. Taiwan tightened short-selling rules",
      "s": [
-      1
+      1,
+      2
      ]
     },
     {
-     "stat": "14.5%",
-     "text": "SoftBank Group's fall in Tokyo earlier on Nov 20. The Nikkei 225 closed down 4.77%, at a six-month low",
+     "stat": "3.22%",
+     "text": "the Kospi's fall early Monday, after Korea announced a stock stabilization fund over the weekend. SK Hynix fell more than 13%",
      "s": [
       2
      ]
     }
    ],
    "open": {
-    "label": "No single trigger",
-    "text": "Reuters ties the drop to doubts about heavy AI spending. Rates add pressure: futures price a near-certain quarter-point Fed hike in December, per CME FedWatch.",
+    "label": "Will it hold",
+    "text": "Investors expect the Fed to raise rates next month, and one fund strategist told Reuters there is no catalyst for a lasting bounce without a policy shift. Reuters put the Kospi's drop near 5%.",
     "s": [
      1
     ]
    },
    "chart": {
     "type": "hbars",
-    "title": "One-day falls, Nov 20",
+    "title": "Early Monday moves, % change",
     "data": [
      [
-      "Nebius",
-      16.1,
-      "16.1%",
-      "ctx"
-     ],
-     [
-      "Nvidia",
-      13.8,
-      "13.8%",
-      "ctx"
-     ],
-     [
-      "CoreWeave",
-      12.1,
-      "12.1%",
-      "ctx"
-     ],
-     [
-      "Nasdaq",
-      5.28,
-      "5.3%",
+      "Nasdaq-100 futures",
+      3.02,
+      "+3.0%",
       "main"
      ],
      [
-      "S&P 500",
-      3.7,
-      "3.7%",
+      "S&P 500 futures",
+      2.1,
+      "+2.1%",
       "main"
      ],
      [
-      "Dow",
-      1.93,
-      "1.9%",
+      "Dow futures",
+      1.45,
+      "+1.5%",
       "main"
+     ],
+     [
+      "Kospi",
+      3.22,
+      "-3.2%",
+      "ctx"
      ]
     ],
-    "note": "US closes as reported by Reuters. Each bar is one day's fall. Closing data on Yahoo show Nvidia down 14.01%."
+    "note": "US futures as of 1:18 a.m. ET, Kospi at the time of writing. The grey bar is a fall."
    },
    "sources": [
+    {
+     "name": "Reuters via Yahoo Finance",
+     "kind": "Press",
+     "desc": "US futures bounce as Asia shores up stocks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
+    },
+    {
+     "name": "Stocktwits via Yahoo Finance",
+     "kind": "Press",
+     "desc": "Futures, Kospi and Asian support measures",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/ai-selloff-splits-global-markets-070806445.html"
+    },
     {
      "name": "Yahoo Finance",
      "kind": "Press",
      "desc": "Reuters on the Nov 20 close",
      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
-    },
-    {
-     "name": "Finwire",
-     "kind": "Press",
-     "desc": "Tokyo close, Nov 20",
-     "url": "https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/ai-selloff/"
+   "url": "https://receiptswire.com/e/2026-11-23/ai-selloff/"
   },
   {
    "id": "nvidia",
    "topic": "Chips",
-   "date": "Nov 16–20",
+   "date": "Nov 20–22",
    "tier": "warn",
    "evidence": "Press report",
-   "headline": "Nvidia falls 14% after Reuters reports the SEC is examining its accounting",
-   "dek": "It has lost about $2.7 trillion in market value since its Oct. 6 record. Neither Nvidia nor the SEC commented.",
+   "headline": "Nvidia's SEC probe centers on its accounting, Reuters says, after a 14% one-day fall",
+   "dek": "It has lost about $2.7 trillion since its Oct. 6 record. The Justice Department is also reviewing its Hugging Face deal.",
    "facts": [
     {
      "stat": "14.01%",
@@ -125,9 +121,10 @@
     },
     {
      "stat": "2 people",
-     "text": "briefed on the matter told Reuters that SEC enforcement staff are scrutinizing potential accounting issues. Shares had been down about 6% before the report",
+     "text": "briefed on the matter told Reuters that SEC enforcement staff are scrutinizing Nvidia's accounting. The SEC declined to comment and Nvidia did not respond",
      "s": [
-      1
+      1,
+      3
      ]
     },
     {
@@ -138,8 +135,8 @@
      ]
     },
     {
-     "stat": "Exit",
-     "text": "Jensen Huang resigned as CEO in November, ending a 33-year run atop the company he co-founded. Colette Kress is interim CEO",
+     "stat": "$12.9B",
+     "text": "Nvidia's deal to buy Hugging Face, which the Justice Department is reviewing alongside a broader antitrust investigation, Reuters reported",
      "s": [
       3
      ]
@@ -147,10 +144,9 @@
    ],
    "open": {
     "label": "Unknown scope",
-    "text": "Reuters could not determine when the inquiry opened or which accounting issues it covers. The WSJ reported the probe includes whether Nvidia's disclosures misled investors.",
+    "text": "Reuters could not determine when the inquiry opened or which accounting issues it covers. Investigations are not evidence of wrongdoing, and many close without action.",
     "s": [
-     1,
-     2
+     3
     ]
    },
    "chart": {
@@ -192,23 +188,23 @@
      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
     },
     {
-     "name": "InvestmentNews",
+     "name": "Reuters via Business Standard",
      "kind": "Press",
-     "desc": "Huang exit, SEC and California AG",
-     "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-eyes-action/269054"
+     "desc": "SEC probe focuses on accounting",
+     "url": "https://www.business-standard.com/amp/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/nvidia/"
+   "url": "https://receiptswire.com/e/2026-11-23/nvidia/"
   },
   {
    "id": "anthropic-ipo",
    "topic": "Money",
-   "date": "Nov 19–20",
+   "date": "Nov 19–22",
    "tier": "ok",
    "evidence": "Press + market data",
    "disclosure": true,
-   "headline": "Anthropic falls 8.5% on its second day to $88.91, after nearly touching its $83 IPO price",
-   "dek": "ANT held a 7.1% gain over its offer price as AI stocks slid. Index funds may have to buy it next month.",
+   "headline": "Anthropic ends its first week at $88.91 as Needham starts coverage with a $150 target",
+   "dek": "ANT closed 7.1% above its $83 IPO price after nearly touching it Friday. Index funds may have to buy it next month.",
    "facts": [
     {
      "stat": "$88.91",
@@ -231,6 +227,13 @@
      "s": [
       3,
       4
+     ]
+    },
+    {
+     "stat": "$150",
+     "text": "Needham's price target as analyst Scott Berg started coverage with a Buy rating, about 72% above Friday's close",
+     "s": [
+      6
      ]
     }
    ],
@@ -304,9 +307,300 @@
      "kind": "Company",
      "desc": "Pricing announcement, Nov 18",
      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Needham's initiation and target",
+     "url": "https://www.fool.com/investing/2026/11/22/anthropic-stock-could-soar-by-72-according-to-this-wall-street-analyst/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/anthropic-ipo/"
+   "url": "https://receiptswire.com/e/2026-11-23/anthropic-ipo/"
+  },
+  {
+   "id": "oracle-openai",
+   "topic": "Money",
+   "date": "Nov 20",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Oracle says its OpenAI contract is fully funded after a $20 billion stock and debt sale",
+   "dek": "Oracle borrowed at 7% to 8.65% and expects free cash flow to turn positive only in the second half of fiscal 2028.",
+   "facts": [
+    {
+     "stat": "$10B",
+     "text": "of common stock Oracle sold at $116 a share, 86,206,897 shares, closing Nov 4",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$10B",
+     "text": "of notes in five maturities from 2029 to 2046, with coupons from 7.000% to 8.650%",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$30B+",
+     "text": "free cash flow Oracle targets for fiscal 2029, after it turns positive in the second half of fiscal 2028",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "4.5 GW",
+     "text": "of extra US capacity Oracle plans beyond its Abilene site, Reuters reported. Shares rose as much as 3.3% after hours",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unstated",
+    "text": "Oracle's statement gives no contract value or length, and its filings say the proceeds are for general corporate purposes, not earmarked for OpenAI.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Oracle's November raise, $ billions",
+    "data": [
+     [
+      "Stock at $116 a share",
+      10,
+      "$10B",
+      "main"
+     ],
+     [
+      "Notes due 2029, 7.00%",
+      2,
+      "$2B",
+      "ctx"
+     ],
+     [
+      "Notes due 2031, 7.45%",
+      1.75,
+      "$1.75B",
+      "ctx"
+     ],
+     [
+      "Notes due 2033, 7.85%",
+      2.25,
+      "$2.25B",
+      "ctx"
+     ],
+     [
+      "Notes due 2037, 8.00%",
+      2.5,
+      "$2.5B",
+      "ctx"
+     ],
+     [
+      "Notes due 2046, 8.65%",
+      1.5,
+      "$1.5B",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "The Next Web",
+     "kind": "Press",
+     "desc": "Oracle's fully funded statement",
+     "url": "https://thenextweb.com/news/oracle-openai-contract-fully-funded-20bn-raise"
+    },
+    {
+     "name": "Ultrathink",
+     "kind": "Press",
+     "desc": "Raise terms from Oracle's filings",
+     "url": "https://ultrathink.ai/news/oracle-openai-contract-fully-funded-20-billion-raise"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-23/oracle-openai/"
+  },
+  {
+   "id": "amazon-decart",
+   "topic": "Money",
+   "date": "Nov 18–21",
+   "tier": "warn",
+   "evidence": "Press report",
+   "disclosure": true,
+   "headline": "Amazon nears a deal valuing video-model startup Decart at about $7.5 billion, FT reports",
+   "dek": "Decart was valued at $4 billion in May. Amazon declined to comment, and no deal has been signed.",
+   "facts": [
+    {
+     "stat": "~$7.5B",
+     "text": "Decart's value in advanced talks, the FT reported Saturday. A deal could come in days, though talks could still fall apart",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "$7B+",
+     "text": "the price in cash, stock and deferred payments, near $7.5B if targets are met, Calcalist reported. The founders committed to stay five years",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$4B",
+     "text": "Decart's valuation in May. It has raised more than $400M from investors including Sequoia, Benchmark and Radical Ventures",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "~$6B",
+     "text": "the size of a Decart purchase Anthropic discussed, then halted in early September",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not signed",
+    "text": "Calcalist said the deal could be finalized as early as last weekend; none was announced. Globes said it may be unveiled at AWS re:Invent on Nov 30.",
+    "s": [
+     2,
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Decart, $ billions",
+    "data": [
+     [
+      "May round valuation",
+      4,
+      "$4B",
+      "ctx"
+     ],
+     [
+      "Price, per Calcalist",
+      7,
+      "$7B+",
+      "main"
+     ],
+     [
+      "Value, per the FT",
+      7.5,
+      "~$7.5B",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "Analysis of Calcalist and Globes reports",
+     "url": "https://fourweekmba.com/ai-amazon-nears-7b-decart-deal-1-75x-its-may-valuation/"
+    },
+    {
+     "name": "Calcalist",
+     "kind": "Press",
+     "desc": "Deal terms and founders' commitment",
+     "url": "https://www.calcalistech.com/ctechnews/article/uckadwd7r"
+    },
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "FT report and Amazon's response",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-23/amazon-decart/"
+  },
+  {
+   "id": "cognition-round",
+   "topic": "Money",
+   "date": "Nov 20",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Cognition is in talks to raise $2 billion or more at a $75 billion valuation, Bloomberg says",
+   "dek": "The maker of the Devin coding agent was valued at $48 billion in September and $26 billion in May.",
+   "facts": [
+    {
+     "stat": "$75B",
+     "text": "the potential valuation, people familiar with the talks told Bloomberg. Talks are ongoing and details could change",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$48B",
+     "text": "Cognition's valuation in its September Series E of more than $2B, led by Andreessen Horowitz and Accel",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "~$900M",
+     "text": "Devin's run-rate revenue by September, up from $492M in May, per Cognition's disclosures",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "56%",
+     "text": "the rise over the September valuation (derived: $75B divided by $48B)",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unconfirmed",
+    "text": "Cognition did not respond to Reuters, and no lead investor has been named.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Cognition's valuation, $ billions",
+    "data": [
+     [
+      "May",
+      26,
+      "$26B",
+      "ctx"
+     ],
+     [
+      "Sept",
+      48,
+      "$48B",
+      "ctx"
+     ],
+     [
+      "In talks",
+      75,
+      "$75B",
+      "guide"
+     ]
+    ],
+    "note": "The hatched bar is reported, not closed."
+   },
+   "sources": [
+    {
+     "name": "Unite.AI",
+     "kind": "Press",
+     "desc": "Bloomberg report carried by Reuters",
+     "url": "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/"
+    },
+    {
+     "name": "Jawlah",
+     "kind": "Press",
+     "desc": "Round size and prior rounds",
+     "url": "https://jawlah.co/en/68475"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-23/cognition-round/"
   },
   {
    "id": "chatgpt-wallet",
@@ -411,7 +705,7 @@
     "date": "Nov 19",
     "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
    },
-   "url": "https://receiptswire.com/e/2026-11-22/chatgpt-wallet/"
+   "url": "https://receiptswire.com/e/2026-11-23/chatgpt-wallet/"
   },
   {
    "id": "walmart-agents",
@@ -506,96 +800,67 @@
      "url": "https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/walmart-agents/"
+   "url": "https://receiptswire.com/e/2026-11-23/walmart-agents/"
   },
   {
-   "id": "amazon-decart",
-   "topic": "Money",
-   "date": "Nov 18–19",
-   "tier": "warn",
-   "evidence": "Press report",
-   "disclosure": true,
-   "headline": "Amazon nears a deal for video-model startup Decart worth more than $7 billion, reports say",
-   "dek": "That is at least 1.75 times Decart's May valuation. Neither company has commented or announced a deal.",
+   "id": "klarna-adyen",
+   "topic": "Agents",
+   "date": "Nov 20",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "headline": "Klarna becomes the first non-card way to pay when AI agents check out through Adyen",
+   "dek": "Merchants that already offer Klarna through Adyen can switch it on without new integration work.",
    "facts": [
     {
-     "stat": "$7B+",
-     "text": "the reported price, in cash, stock and deferred payments, rising to nearly $7.5B if targets are met, per Israeli outlets Calcalist and Globes",
+     "stat": "First",
+     "text": "payment option other than cards on Adyen Agentic, which launched in June for large US merchants",
      "s": [
       1
      ]
     },
     {
-     "stat": "$4B",
-     "text": "Decart's valuation in May, when it raised $300M in a round led by Radical Ventures that Nvidia joined",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "1.75x",
-     "text": "the reported price over the May valuation (derived: $7B divided by $4B)",
+     "stat": "122M+",
+     "text": "active Klarna users, with more than 1.35 million merchants and 3.8 million transactions a day",
      "s": [
       1
      ]
     },
     {
-     "stat": "~$6B",
-     "text": "the size of a Decart purchase Anthropic reportedly explored, then dropped after due diligence",
+     "stat": "Confirm",
+     "text": "Shoppers must confirm a purchase before it is processed, and can pay in full or in interest-free installments",
      "s": [
-      1,
-      2
+      1
      ]
     }
    ],
    "open": {
-    "label": "Not signed",
-    "text": "Globes said closing was expected before US Thanksgiving, with a possible unveiling at AWS re:Invent on Nov 30. In October the WSJ put the talks at around $7 billion.",
+    "label": "Missing numbers",
+    "text": "Neither company said how many agent checkouts run through Adyen Agentic or which merchants use it.",
     "s": [
-     1,
-     2
+     1
     ]
    },
    "chart": {
-    "type": "hbars",
-    "title": "Decart, $ billions",
-    "data": [
-     [
-      "May round valuation",
-      4,
-      "$4B",
-      "ctx"
-     ],
-     [
-      "Reported deal price",
-      7,
-      "$7B+",
-      "main"
-     ],
-     [
-      "If targets are met",
-      7.5,
-      "~$7.5B",
-      "guide"
-     ]
-    ]
+    "type": "diagram",
+    "title": "How an agent checkout with Klarna works",
+    "zone": "Adyen Agentic, US",
+    "nodes": [
+     "Agent checks out",
+     "Shopper confirms",
+     "Klarna or card"
+    ],
+    "target": "Merchant",
+    "target_sub": "via Adyen"
    },
    "sources": [
     {
-     "name": "FourWeekMBA",
+     "name": "Digital Transactions",
      "kind": "Press",
-     "desc": "Analysis of Calcalist and Globes reports",
-     "url": "https://fourweekmba.com/ai-amazon-nears-7b-decart-deal-1-75x-its-may-valuation/"
-    },
-    {
-     "name": "RTTNews",
-     "kind": "Press",
-     "desc": "WSJ report of the talks, October",
-     "url": "https://www.rttnews.com/3698034/amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-around-7-bln.aspx?type=maa"
+     "desc": "Klarna and Adyen announcement",
+     "url": "https://www.digitaltransactions.net/adyen-recruits-klarna-for-payments-on-adyen-agentic"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/amazon-decart/"
+   "url": "https://receiptswire.com/e/2026-11-23/klarna-adyen/"
   },
   {
    "id": "openai-california",
@@ -682,238 +947,7 @@
      "url": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/openai-california/"
-  },
-  {
-   "id": "amd-china",
-   "topic": "Chips",
-   "date": "Nov 19",
-   "tier": "warn",
-   "evidence": "Short-seller report",
-   "headline": "AMD falls 7.7% after a short seller ties its firmware to a blacklisted Chinese server maker",
-   "dek": "Hunterbrook says its records don't show an export violation. AMD says the report misrepresents its business.",
-   "facts": [
-    {
-     "stat": "7.7%",
-     "text": "AMD's fall on Nov 19, to $489.19, after Hunterbrook Media's report. Its affiliate Hunterbrook Capital disclosed a short position",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "6+",
-     "text": "newer AMD firmware versions that IEIT Systems built into updates for three server models after it joined the Entity List in March 2025, Hunterbrook says",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "22.4%",
-     "text": "of AMD's fiscal 2025 revenue, or $7.75B, was billed to customers in China and Hong Kong. Nvidia reported 9.1% for comparable markets",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Denied",
-     "text": "AMD said the claims misrepresent its business practices and that it complies with US export control laws",
-     "s": [
-      2,
-      3
-     ]
-    }
-   ],
-   "open": {
-    "label": "Unproven",
-    "text": "Hunterbrook says it can't show how IEIT got the code or whether anyone held a license, and that its records alone don't establish a violation.",
-    "s": [
-     1
-    ]
-   },
-   "chart": {
-    "type": "share",
-    "title": "AMD's fiscal 2025 revenue by billing location",
-    "pct": 22.4,
-    "a": "China and Hong Kong",
-    "b": "Everywhere else",
-    "note": "From AMD's filings, as cited by Hunterbrook. Everywhere else includes $4.28B billed to Singapore."
-   },
-   "sources": [
-    {
-     "name": "Hunterbrook Media",
-     "kind": "Press",
-     "desc": "The investigation, with its short disclosure",
-     "url": "https://hntrbrk.com/investigations/amd-china"
-    },
-    {
-     "name": "Financial News",
-     "kind": "Press",
-     "desc": "AMD's close and its response",
-     "url": "https://www.financial-news.co.uk/amd-shares-tumble-7-72-after-hunterbrook-short-report-on-china/"
-    },
-    {
-     "name": "The Motley Fool",
-     "kind": "Press",
-     "desc": "AMD's statement to Bloomberg",
-     "url": "https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-22/amd-china/"
-  },
-  {
-   "id": "microsoft-ignite",
-   "topic": "Agents",
-   "date": "Nov 17",
-   "tier": "ok",
-   "evidence": "Company",
-   "headline": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
-   "dek": "Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.",
-   "facts": [
-    {
-     "stat": "50M+",
-     "text": "agents in Agent 365, Microsoft's control plane for governing them",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Autopilot",
-     "text": "an always-on agent with its own Entra Agent ID and a named manager, now rolling out to customers in Microsoft's Frontier program",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "~80%",
-     "text": "of Fortune 500 companies use Cowork, Microsoft says",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "40%",
-     "text": "more tokens per watt Microsoft says its new Maia 300 chip will deliver than leading GPU-based systems",
-     "s": [
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Missing numbers",
-    "text": "No price for Autopilot and no count of paid Copilot seats. Microsoft's cost comparisons with rival assistants rest on a GigaOm report it cites.",
-    "s": [
-     2
-    ]
-   },
-   "chart": {
-    "type": "diagram",
-    "title": "Copilot's parts and its agent registry",
-    "zone": "Copilot, the \"OS for work\"",
-    "nodes": [
-     "Chat and Cowork",
-     "Code",
-     "Autopilot"
-    ],
-    "target": "Agent 365",
-    "target_sub": "50M+ agents"
-   },
-   "sources": [
-    {
-     "name": "Microsoft",
-     "kind": "Company",
-     "desc": "Nadella's Ignite keynote, edited",
-     "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
-    },
-    {
-     "name": "Microsoft Copilot",
-     "kind": "Company",
-     "desc": "Autopilot, Office and Cowork details",
-     "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
-    }
-   ],
-   "correction": {
-    "date": "Nov 19",
-    "text": "We said each Autopilot agent has a human manager. Microsoft says each has a named manager; it does not say the manager must be a person."
-   },
-   "url": "https://receiptswire.com/e/2026-11-22/microsoft-ignite/"
-  },
-  {
-   "id": "google-tasks",
-   "topic": "Agents",
-   "date": "Nov 17",
-   "tier": "ok",
-   "evidence": "Company",
-   "headline": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
-   "dek": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
-   "facts": [
-    {
-     "stat": "6",
-     "text": "countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "AP2",
-     "text": "Google's Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Ask first",
-     "text": "Gemini is designed to get confirmation or pre-approval before it buys. Always allow covers routine steps such as adding to a cart, and users can set a hard spending cap",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "60+",
-     "text": "apps Gemini connects to. In most US states it can phone businesses, says it is an AI, and businesses can opt out",
-     "s": [
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Missing numbers",
-    "text": "Google gave no count of purchases or completed tasks. It says the agent still makes mistakes and may hand the final click back on some sites.",
-    "s": [
-     2
-    ]
-   },
-   "chart": {
-    "type": "diagram",
-    "title": "How a Gemini Tasks purchase works",
-    "zone": "Gemini Tasks, 6 countries",
-    "nodes": [
-     "Set spending cap",
-     "Agent finds item",
-     "You confirm"
-    ],
-    "target": "Merchant",
-    "target_sub": "via AP2 token"
-   },
-   "sources": [
-    {
-     "name": "Google",
-     "kind": "Company",
-     "desc": "Tasks in Gemini, free with new features",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-    },
-    {
-     "name": "PPC Land",
-     "kind": "Press",
-     "desc": "Rollout details and earlier access",
-     "url": "https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/"
-    }
-   ],
-   "correction": {
-    "date": "Nov 20",
-    "text": "We said Gemini can buy without asking if a user picks always allow for routine tasks. Google says always allow covers steps such as adding items to a cart, and Gemini asks for confirmation or pre-approval before it buys. Calling is not available in five US states."
-   },
-   "url": "https://receiptswire.com/e/2026-11-22/google-tasks/"
+   "url": "https://receiptswire.com/e/2026-11-23/openai-california/"
   },
   {
    "id": "gpt-6-2",
@@ -1031,7 +1065,7 @@
      "url": "https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/gpt-6-2/"
+   "url": "https://receiptswire.com/e/2026-11-23/gpt-6-2/"
   },
   {
    "id": "layoffs",
@@ -1134,46 +1168,64 @@
      "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-22/layoffs/"
+   "url": "https://receiptswire.com/e/2026-11-23/layoffs/"
   }
  ],
  "brief": [
   {
    "id": "ai-selloff",
    "kick": "Money",
-   "big": "5.3%",
-   "line": "The Nasdaq's fall on Nov 20, leaving it lower for 2026. The S&P 500 and Dow are in a correction."
+   "big": "3%",
+   "line": "Nasdaq-100 futures rose early Monday as China, Taiwan and Korea moved to support stocks."
   },
   {
    "id": "nvidia",
    "kick": "Chips",
    "big": "$2.7T",
-   "line": "Nvidia's market value lost since Oct. 6, after a 14% drop on a report of an SEC accounting probe."
+   "line": "Nvidia's lost market value. Reuters says the SEC probe centers on its accounting."
   },
   {
-   "id": "anthropic-ipo",
+   "id": "oracle-openai",
    "kick": "Money",
-   "big": "$88.91",
-   "line": "ANT's second close, down 8.5%. Its low came five cents above the $83 IPO price."
-  },
-  {
-   "id": "walmart-agents",
-   "kick": "Agents",
-   "big": "129%",
-   "line": "Growth in US use of Walmart's Sparky agent. Outside agents get spending caps."
+   "big": "$20B",
+   "line": "Stock and debt Oracle sold. It says its OpenAI contract is now fully funded."
   },
   {
    "id": "amazon-decart",
    "kick": "Money",
-   "big": "$7B+",
-   "line": "What Amazon would pay for video-model startup Decart, reports say. Nothing is signed."
+   "big": "~$7.5B",
+   "line": "Decart's value in Amazon's advanced talks, the FT reports. Nothing is signed."
+  },
+  {
+   "id": "anthropic-ipo",
+   "kick": "Money",
+   "big": "$150",
+   "line": "Needham's target for ANT, which ended its first week at $88.91."
   }
  ],
  "coming": [
   [
+   "Tue",
+   "Nov 24",
+   "Dell reports earnings",
+   "ai-selloff"
+  ],
+  [
+   "Wed",
+   "Nov 25",
+   "US PCE inflation and Q3 GDP data",
+   "ai-selloff"
+  ],
+  [
+   "Thu",
+   "Nov 26",
+   "US markets closed for Thanksgiving",
+   "ai-selloff"
+  ],
+  [
    "Mon",
    "Nov 30",
-   "AWS re:Invent, where Amazon may unveil a Decart deal",
+   "China's lower margin rule takes effect; AWS re:Invent, where Amazon may unveil a Decart deal",
    "amazon-decart"
   ],
   [
