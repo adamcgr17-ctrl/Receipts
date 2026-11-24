@@ -1,0 +1,1124 @@
+{
+ "published_at": "2026-11-24T05:53-06:00",
+ "stories": [
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 12–23",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Nvidia adds about $952 billion in a day as its board reinstates Jensen Huang as CEO",
+   "dek": "Shares rose 31.48%. The board says US officials told it his return poses no national security risk. Its own probe continues.",
+   "facts": [
+    {
+     "stat": "31.48%",
+     "text": "Nvidia's rise on Nov 23, to $165.05, its largest one-day percentage gain in more than two decades",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$952B",
+     "text": "market value added, to about $3.98T from about $3.03T on Friday, which Fox News called the largest one-day gain in history",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "Unanimous",
+     "text": "board vote to reinstate Huang, effective immediately. Huang resigned on Nov 12 and Nvidia gave no reason; CFO Colette Kress was interim CEO and stays CFO",
+     "s": [
+      1,
+      4
+     ]
+    },
+    {
+     "stat": "Dec 1",
+     "text": "Huang's closed-door interview before three House committees, including Intelligence. General counsel Tim Teter follows the next day",
+     "s": [
+      5
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unresolved",
+    "text": "A committee of independent directors is still investigating reports that Huang was the target of a foreign intelligence effort, with no end date. Trump said he convinced the board. The reported SEC accounting review is also unresolved.",
+    "s": [
+     1,
+     6,
+     2
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Nvidia market value, $ trillions",
+    "data": [
+     [
+      "Fri, Nov 20",
+      3.03,
+      "$3.03T",
+      "ctx"
+     ],
+     [
+      "Mon, Nov 23",
+      3.98,
+      "$3.98T",
+      "main"
+     ]
+    ],
+    "note": "Fox News figures, approximate."
+   },
+   "sources": [
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Board reinstates Huang, Nov 23",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Nvidia's close and record gain",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/"
+    },
+    {
+     "name": "Fox News",
+     "kind": "Press",
+     "desc": "Live coverage, market value",
+     "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
+    },
+    {
+     "name": "Decrypt",
+     "kind": "Press",
+     "desc": "Huang's Nov 12 resignation",
+     "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
+    },
+    {
+     "name": "ABC News",
+     "kind": "Press",
+     "desc": "Testimony dates and Trump's comments",
+     "url": "https://abcnews.com/Business/nvidia-reinstates-jensen-huang-ceo/story?id=138375516"
+    },
+    {
+     "name": "Yahoo Finance",
+     "kind": "Press",
+     "desc": "Live updates, Trump to CNBC",
+     "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+    }
+   ]
+  },
+  {
+   "id": "ai-selloff",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Market data",
+   "headline": "Nasdaq jumps 6.51%, its best day since April 2025, as AI stocks rebound with Nvidia",
+   "dek": "The S&P 500 rose 4.74% and left correction territory after seven straight losses. PCE inflation data comes Wednesday.",
+   "facts": [
+    {
+     "stat": "6.51%",
+     "text": "the Nasdaq Composite's gain, to 24,090, its best day since April 2025 and its biggest gain this year",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "4.74%",
+     "text": "the S&P 500's rise, to 7,238, after seven straight losing days. The Dow rose 3.01%, to 49,595",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "22.32%",
+     "text": "CoreWeave's rise. Dell gained 20.46%, Nebius 20.28% and Micron 19.04%",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "18%",
+     "text": "how far the Nasdaq Composite sat below its peak after Friday's close, before Monday's rally",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Will it hold",
+    "text": "Monday recovered only part of the slide. PCE inflation data on Wednesday will shape Fed expectations, and markets close Thursday for Thanksgiving and early on Friday.",
+    "s": [
+     3
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Monday's gains, % change",
+    "data": [
+     [
+      "Nasdaq Composite",
+      6.51,
+      "+6.51%",
+      "main"
+     ],
+     [
+      "S&P 500",
+      4.74,
+      "+4.74%",
+      "main"
+     ],
+     [
+      "Dow",
+      3.01,
+      "+3.01%",
+      "main"
+     ]
+    ],
+    "note": "Closing figures for Nov 23."
+   },
+   "sources": [
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Closing levels and movers",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Best day since April 2025",
+     "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "kind": "Press",
+     "desc": "Premarket setup and week ahead",
+     "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/"
+    }
+   ]
+  },
+  {
+   "id": "crowdstrike-zscaler",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "SEC filing",
+   "headline": "CrowdStrike agrees to buy Zscaler for about $43.9 billion in stock",
+   "dek": "CrowdStrike says its product for securing AI agents passed $100 million in annual recurring revenue in its first year.",
+   "facts": [
+    {
+     "stat": "$43.9B",
+     "text": "the value CrowdStrike's all-stock offer puts on Zscaler, announced with its quarterly results",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "1.135",
+     "text": "CrowdStrike shares for each Zscaler share",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$100M+",
+     "text": "annual recurring revenue of Falcon Guardian, which secures AI agents, in its first year, CEO George Kurtz said",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "17.67%",
+     "text": "Zscaler's rise on Monday, while CrowdStrike fell 8.92% on a day the Nasdaq rose 6.51%",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not closed",
+    "text": "The deal needs regulatory approvals and a Zscaler shareholder vote. CrowdStrike's release gives no expected closing date or premium.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Monday's moves, % change",
+    "data": [
+     [
+      "Zscaler",
+      17.67,
+      "+17.67%",
+      "main"
+     ],
+     [
+      "CrowdStrike",
+      8.92,
+      "-8.92%",
+      "ctx"
+     ]
+    ],
+    "note": "The grey bar is a fall."
+   },
+   "sources": [
+    {
+     "name": "CrowdStrike",
+     "kind": "Filing",
+     "desc": "8-K exhibit: results and deal terms",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Monday's share moves",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    }
+   ]
+  },
+  {
+   "id": "amazon-decart",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "headline": "Amazon signs a deal for Decart's AI chip software and team, valued at $7.5B by Calcalist",
+   "dek": "Amazon is buying the technology and hiring the founders, not buying the company, and gave no price. Decart was valued near $4B in May.",
+   "facts": [
+    {
+     "stat": "Nov 23",
+     "text": "Amazon announced it signed an agreement to buy the technology behind the Decart Optimization Stack and bring over the founders and team",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$7.5B",
+     "text": "the deal's value in cash and stock paid in installments, Calcalist reported. Amazon did not disclose a price",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "30x",
+     "text": "the frame-rate gain over baseline Decart claims on Amazon's Trainium chips. Its software tunes kernels, compilers and runtime to each chip",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "~$4B",
+     "text": "Decart's valuation in May, when it raised $300M in a round that included Nvidia",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not closed",
+    "text": "Completion needs regulatory clearance, and the price comes from Calcalist's reporting, not from Amazon.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Decart, $ billions",
+    "data": [
+     [
+      "May round valuation",
+      4,
+      "~$4B",
+      "ctx"
+     ],
+     [
+      "Deal value, per Calcalist",
+      7.5,
+      "$7.5B",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Calcalist",
+     "kind": "Press",
+     "desc": "Signed deal, value and terms",
+     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
+    },
+    {
+     "name": "Securities.io",
+     "kind": "Press",
+     "desc": "Amazon's announcement and Decart's claims",
+     "url": "https://www.securities.io/amazon-signs-decart-deal-to-add-ai-optimization-software-and-team/"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Market data",
+   "disclosure": true,
+   "headline": "Anthropic slips 1.43% to $87.64 on the Nasdaq's best day since April 2025",
+   "dek": "ANT opened higher, then swung between $84.61 and $94.24. It closed about 5.6% above its $83 IPO price.",
+   "facts": [
+    {
+     "stat": "$87.64",
+     "text": "ANT's close on Nov 23, down $1.27 or 1.43%, while Nvidia rose 31.48%",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "5.4%",
+     "text": "ANT's gain at the open, before it turned lower. The day's range was $84.61 to $94.24",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "5.6%",
+     "text": "how far the close sits above the $83 IPO price, and well below the $97.17 first-day close",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "Dec 11",
+     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "No clear reason",
+    "text": "Our sources cite no company news behind the drop. The Fool's writer tied it to Washington's interest in open-weight AI, which is his reading, not a reported cause.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "ANT, $ per share",
+    "data": [
+     [
+      "IPO price",
+      83,
+      "$83",
+      "ctx"
+     ],
+     [
+      "Nov 19 close",
+      97.17,
+      "$97.17",
+      "ctx"
+     ],
+     [
+      "Nov 20 close",
+      88.91,
+      "$88.91",
+      "ctx"
+     ],
+     [
+      "Nov 23 close",
+      87.64,
+      "$87.64",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Monday's close and range",
+     "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
+    },
+    {
+     "name": "Pomegra",
+     "kind": "Press",
+     "desc": "Close versus IPO and first day",
+     "url": "https://pomegra.io/news/anthropic-ant-slips-to-8764-as-tech-rally-passes-it-by"
+    },
+    {
+     "name": "Anthropic",
+     "kind": "Company",
+     "desc": "Pricing announcement, Nov 18",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "FTSE Russell's Nov 13 notice",
+     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
+    }
+   ]
+  },
+  {
+   "id": "oracle-openai",
+   "topic": "Money",
+   "date": "Nov 20",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Oracle says its OpenAI contract is fully funded after a $20 billion stock and debt sale",
+   "dek": "Oracle borrowed at 7% to 8.65% and expects free cash flow to turn positive only in the second half of fiscal 2028.",
+   "facts": [
+    {
+     "stat": "$10B",
+     "text": "of common stock Oracle sold at $116 a share, 86,206,897 shares, closing Nov 4",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$10B",
+     "text": "of notes in five maturities from 2029 to 2046, with coupons from 7.000% to 8.650%",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$30B+",
+     "text": "free cash flow Oracle targets for fiscal 2029, after it turns positive in the second half of fiscal 2028",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "4.5 GW",
+     "text": "of extra US capacity Oracle plans beyond its Abilene site, Reuters reported. Shares rose as much as 3.3% after hours",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unstated",
+    "text": "Oracle's statement gives no contract value or length, and its filings say the proceeds are for general corporate purposes, not earmarked for OpenAI.",
+    "s": [
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Oracle's November raise, $ billions",
+    "data": [
+     [
+      "Stock at $116 a share",
+      10,
+      "$10B",
+      "main"
+     ],
+     [
+      "Notes due 2029, 7.00%",
+      2,
+      "$2B",
+      "ctx"
+     ],
+     [
+      "Notes due 2031, 7.45%",
+      1.75,
+      "$1.75B",
+      "ctx"
+     ],
+     [
+      "Notes due 2033, 7.85%",
+      2.25,
+      "$2.25B",
+      "ctx"
+     ],
+     [
+      "Notes due 2037, 8.00%",
+      2.5,
+      "$2.5B",
+      "ctx"
+     ],
+     [
+      "Notes due 2046, 8.65%",
+      1.5,
+      "$1.5B",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "The Next Web",
+     "kind": "Press",
+     "desc": "Oracle's fully funded statement",
+     "url": "https://thenextweb.com/news/oracle-openai-contract-fully-funded-20bn-raise"
+    },
+    {
+     "name": "Ultrathink",
+     "kind": "Press",
+     "desc": "Raise terms from Oracle's filings",
+     "url": "https://ultrathink.ai/news/oracle-openai-contract-fully-funded-20-billion-raise"
+    }
+   ]
+  },
+  {
+   "id": "sierra-round",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "headline": "Sierra raises $1.75 billion at a $30 billion valuation, about double its May price",
+   "dek": "The maker of customer-service agents said in October it had passed $400 million in annual recurring revenue.",
+   "facts": [
+    {
+     "stat": "$1.75B",
+     "text": "the Series F Sierra announced Monday, led by Greenoaks and Lightspeed, with Benchmark, Sequoia, GV and Tiger Global taking part",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$30B",
+     "text": "its new valuation, up from more than $15B in May, when it raised $950M",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$400M+",
+     "text": "annual recurring revenue Sierra disclosed in October, after adding more than $150M in the third quarter",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "~75x",
+     "text": "the valuation as a multiple of that run rate (derived: $30B divided by $400M)",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Run rate",
+    "text": "Recurring revenue is an annualized figure, not revenue already earned. The round figures come from Sierra's announcement, as reported by IBTimes.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Sierra's valuation, $ billions",
+    "data": [
+     [
+      "May 2026",
+      15,
+      "$15B+",
+      "ctx"
+     ],
+     [
+      "Nov 2026",
+      30,
+      "$30B",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "IBTimes",
+     "kind": "Press",
+     "desc": "Sierra's announcement and ARR",
+     "url": "https://www.ibtimes.com/sierra-30-billion-valuation-ai-funding-round-3810100"
+    }
+   ]
+  },
+  {
+   "id": "cognition-round",
+   "topic": "Money",
+   "date": "Nov 20",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Cognition is in talks to raise $2 billion or more at a $75 billion valuation, Bloomberg says",
+   "dek": "The maker of the Devin coding agent was valued at $48 billion in September and $26 billion in May.",
+   "facts": [
+    {
+     "stat": "$75B",
+     "text": "the potential valuation, people familiar with the talks told Bloomberg. Talks are ongoing and details could change",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$48B",
+     "text": "Cognition's valuation in its September Series E of more than $2B, led by Andreessen Horowitz and Accel",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "~$900M",
+     "text": "Devin's run-rate revenue by September, up from $492M in May, per Cognition's disclosures",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "56%",
+     "text": "the rise over the September valuation (derived: $75B divided by $48B)",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unconfirmed",
+    "text": "Cognition did not respond to Reuters, and no lead investor has been named.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Cognition's valuation, $ billions",
+    "data": [
+     [
+      "May",
+      26,
+      "$26B",
+      "ctx"
+     ],
+     [
+      "Sept",
+      48,
+      "$48B",
+      "ctx"
+     ],
+     [
+      "In talks",
+      75,
+      "$75B",
+      "guide"
+     ]
+    ],
+    "note": "The hatched bar is reported, not closed."
+   },
+   "sources": [
+    {
+     "name": "Unite.AI",
+     "kind": "Press",
+     "desc": "Bloomberg report carried by Reuters",
+     "url": "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/"
+    },
+    {
+     "name": "Jawlah",
+     "kind": "Press",
+     "desc": "Round size and prior rounds",
+     "url": "https://jawlah.co/en/68475"
+    }
+   ]
+  },
+  {
+   "id": "chatgpt-wallet",
+   "topic": "Agents",
+   "date": "Nov 13–19",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Citi and PNC join banks making customers liable for what AI agents do with their logins",
+   "dek": "Customers who give outside agents their logins carry the risk, even after a hack. ChatGPT Wallet pays with a network token instead.",
+   "facts": [
+    {
+     "stat": "Citi",
+     "text": "changed its online user agreement this week: customers are responsible for what third-party AI agents do with their credentials, even if the tool is hacked. Citi's own agents add no such liability",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Nov 18",
+     "text": "PNC changed its terms. JPMorgan and Bank of America adopted similar policies in October, and Citizens emailed customers a warning",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "US Pro",
+     "text": "ChatGPT Wallet is open to Pro subscribers in the US. It pays through the major card networks with a token in place of the card number, and every purchase needs a security check such as Face ID",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "JPMorgan",
+     "text": "blocks agents that shop with a card number a customer hands them, the WSJ reported. Its payments arm is now in Visa's Agentic Ready program, which has 140-plus members",
+     "s": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "No bank said how many customers connect agents to their accounts or how many losses involved them. No company has disclosed agent purchase counts.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "How a ChatGPT Wallet purchase works",
+    "zone": "ChatGPT Wallet, US Pro",
+    "nodes": [
+     "Review cart",
+     "Security check",
+     "Network token"
+    ],
+    "target": "Merchant",
+    "target_sub": "card hidden"
+   },
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "kind": "Press",
+     "desc": "Citi, PNC and other banks' new terms, Nov 18",
+     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+    },
+    {
+     "name": "Payments Dive",
+     "kind": "Press",
+     "desc": "The wallet launch and executives' outlook",
+     "url": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/"
+    },
+    {
+     "name": "The Paypers",
+     "kind": "Press",
+     "desc": "How a wallet purchase works",
+     "url": "https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us"
+    },
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "WSJ report on JPMorgan",
+     "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/"
+    },
+    {
+     "name": "Forbes",
+     "kind": "Press",
+     "desc": "Visa's program adds J.P. Morgan Payments",
+     "url": "https://forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop"
+    },
+    {
+     "name": "Visa",
+     "kind": "Company",
+     "desc": "Agentic Ready expansion, Nov 17",
+     "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22986.html"
+    }
+   ],
+   "correction": {
+    "date": "Nov 19",
+    "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
+   }
+  },
+  {
+   "id": "walmart-agents",
+   "topic": "Agents",
+   "date": "Nov 19",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Walmart says Sparky use rose 129% and opens its store to outside agents with spending caps",
+   "dek": "Shoppers can cap what an approved third-party agent spends, track its orders and cut off its access.",
+   "facts": [
+    {
+     "stat": "129%",
+     "text": "rise in US use of Sparky, Walmart's own shopping agent, from a year earlier, CEO John Furner said on the Nov 19 earnings call",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "40%",
+     "text": "larger baskets tied to Sparky use, Furner said",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "Limits",
+     "text": "Walmart's new agent profiles let shoppers set permissions and spending limits for approved outside agents, track those purchases separately and revoke access",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "23%",
+     "text": "growth in Walmart US e-commerce in the quarter. Global e-commerce rose 17% and revenue 5.2%, to $188.8B",
+     "s": [
+      1,
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "Walmart gave no count of Sparky users or agent orders and did not name the approved outside agents. Its growth chief said it is still learning how conversational prompts change product discovery.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Walmart, fiscal Q3, change from a year earlier",
+    "data": [
+     [
+      "Sparky use, US",
+      129,
+      "+129%",
+      "main"
+     ],
+     [
+      "US e-commerce",
+      23,
+      "+23%",
+      "ctx"
+     ],
+     [
+      "Global e-commerce",
+      17,
+      "+17%",
+      "ctx"
+     ],
+     [
+      "Revenue",
+      5.2,
+      "+5.2%",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "Walmart Q3 earnings call",
+     "url": "https://pymnts.com/earnings/2026/walmart-pairs-membership-growth-with-an-ai-agent-push"
+    },
+    {
+     "name": "CX Dive",
+     "kind": "Press",
+     "desc": "Walmart agent profiles and fulfillment",
+     "url": "https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-efs",
+   "topic": "Agents",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "disclosure": true,
+   "headline": "Anthropic opens misuse monitoring that keeps data in customers' clouds after a 100-firm beta",
+   "dek": "The system watches across many requests, since agents can split an attack into small steps that each look harmless.",
+   "facts": [
+    {
+     "stat": "100+",
+     "text": "customers in the private beta, including Bridgewater, Salesforce and Stripe. It is now in public beta",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Kept local",
+     "text": "prompts and replies stay in the customer's AWS or Google Cloud account, and neither Anthropic nor the cloud keeps them",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "7 days",
+     "text": "for a customer's security team to review a flagged case, or it risks losing access",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Free",
+     "text": "to use; customers pay their cloud provider for storage",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Sources differ",
+    "text": "TNW says Anthropic began keeping data for 30 days with Fable 5. PYMNTS says a June policy allowed 30 days, or up to two years for flagged logs.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "Where the monitoring runs",
+    "zone": "Customer's AWS or Google",
+    "nodes": [
+     "Prompts, replies",
+     "Misuse monitor",
+     "Flagged case"
+    ],
+    "target": "Security",
+    "target_sub": "7-day review"
+   },
+   "sources": [
+    {
+     "name": "The Next Web",
+     "kind": "Press",
+     "desc": "Launch details and beta customers",
+     "url": "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta"
+    },
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "Release terms and retention history",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-availability-of-ai-safety-monitoring-with-zero-data-retention/"
+    }
+   ]
+  },
+  {
+   "id": "klarna-adyen",
+   "topic": "Agents",
+   "date": "Nov 20",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "headline": "Klarna becomes the first non-card way to pay when AI agents check out through Adyen",
+   "dek": "Merchants that already offer Klarna through Adyen can switch it on without new integration work.",
+   "facts": [
+    {
+     "stat": "First",
+     "text": "payment option other than cards on Adyen Agentic, which launched in June for large US merchants",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "122M+",
+     "text": "active Klarna users, with more than 1.35 million merchants and 3.8 million transactions a day",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Confirm",
+     "text": "Shoppers must confirm a purchase before it is processed, and can pay in full or in interest-free installments",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Missing numbers",
+    "text": "Neither company said how many agent checkouts run through Adyen Agentic or which merchants use it.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "How an agent checkout with Klarna works",
+    "zone": "Adyen Agentic, US",
+    "nodes": [
+     "Agent checks out",
+     "Shopper confirms",
+     "Klarna or card"
+    ],
+    "target": "Merchant",
+    "target_sub": "via Adyen"
+   },
+   "sources": [
+    {
+     "name": "Digital Transactions",
+     "kind": "Press",
+     "desc": "Klarna and Adyen announcement",
+     "url": "https://www.digitaltransactions.net/adyen-recruits-klarna-for-payments-on-adyen-agentic"
+    }
+   ]
+  }
+ ],
+ "brief": [
+  {
+   "id": "nvidia",
+   "kick": "Chips",
+   "big": "$952B",
+   "line": "Nvidia's one-day gain in value after its board reinstated Jensen Huang."
+  },
+  {
+   "id": "ai-selloff",
+   "kick": "Money",
+   "big": "6.51%",
+   "line": "The Nasdaq's rise on Monday, its best day since April 2025."
+  },
+  {
+   "id": "crowdstrike-zscaler",
+   "kick": "Money",
+   "big": "$43.9B",
+   "line": "What CrowdStrike's all-stock offer values Zscaler at."
+  },
+  {
+   "id": "amazon-decart",
+   "kick": "Money",
+   "big": "$7.5B",
+   "line": "Calcalist's value for Amazon's deal for Decart's chip software and team."
+  },
+  {
+   "id": "sierra-round",
+   "kick": "Money",
+   "big": "$30B",
+   "line": "Sierra's new valuation, about double its price in May."
+  }
+ ],
+ "coming": [
+  [
+   "Tue",
+   "Nov 24",
+   "Dell reports earnings",
+   "ai-selloff"
+  ],
+  [
+   "Wed",
+   "Nov 25",
+   "US PCE inflation and Q3 GDP data",
+   "ai-selloff"
+  ],
+  [
+   "Thu",
+   "Nov 26",
+   "US markets closed for Thanksgiving",
+   "ai-selloff"
+  ],
+  [
+   "Mon",
+   "Nov 30",
+   "AWS re:Invent begins",
+   "amazon-decart"
+  ],
+  [
+   "Tue",
+   "Dec 1",
+   "Huang's closed-door House interview",
+   "nvidia"
+  ]
+ ]
+}

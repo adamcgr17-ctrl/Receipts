@@ -1,254 +1,419 @@
 {
- "date": "2026-11-23",
- "published_at": "2026-11-23T05:49-06:00",
- "url": "https://receiptswire.com/e/2026-11-23/",
+ "date": "2026-11-24",
+ "published_at": "2026-11-24T05:53-06:00",
+ "url": "https://receiptswire.com/e/2026-11-24/",
  "stories": [
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 12–23",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Nvidia adds about $952 billion in a day as its board reinstates Jensen Huang as CEO",
+   "dek": "Shares rose 31.48%. The board says US officials told it his return poses no national security risk. Its own probe continues.",
+   "facts": [
+    {
+     "stat": "31.48%",
+     "text": "Nvidia's rise on Nov 23, to $165.05, its largest one-day percentage gain in more than two decades",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$952B",
+     "text": "market value added, to about $3.98T from about $3.03T on Friday, which Fox News called the largest one-day gain in history",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "Unanimous",
+     "text": "board vote to reinstate Huang, effective immediately. Huang resigned on Nov 12 and Nvidia gave no reason; CFO Colette Kress was interim CEO and stays CFO",
+     "s": [
+      1,
+      4
+     ]
+    },
+    {
+     "stat": "Dec 1",
+     "text": "Huang's closed-door interview before three House committees, including Intelligence. General counsel Tim Teter follows the next day",
+     "s": [
+      5
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unresolved",
+    "text": "A committee of independent directors is still investigating reports that Huang was the target of a foreign intelligence effort, with no end date. Trump said he convinced the board. The reported SEC accounting review is also unresolved.",
+    "s": [
+     1,
+     6,
+     2
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Nvidia market value, $ trillions",
+    "data": [
+     [
+      "Fri, Nov 20",
+      3.03,
+      "$3.03T",
+      "ctx"
+     ],
+     [
+      "Mon, Nov 23",
+      3.98,
+      "$3.98T",
+      "main"
+     ]
+    ],
+    "note": "Fox News figures, approximate."
+   },
+   "sources": [
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Board reinstates Huang, Nov 23",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Nvidia's close and record gain",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/"
+    },
+    {
+     "name": "Fox News",
+     "kind": "Press",
+     "desc": "Live coverage, market value",
+     "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
+    },
+    {
+     "name": "Decrypt",
+     "kind": "Press",
+     "desc": "Huang's Nov 12 resignation",
+     "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
+    },
+    {
+     "name": "ABC News",
+     "kind": "Press",
+     "desc": "Testimony dates and Trump's comments",
+     "url": "https://abcnews.com/Business/nvidia-reinstates-jensen-huang-ceo/story?id=138375516"
+    },
+    {
+     "name": "Yahoo Finance",
+     "kind": "Press",
+     "desc": "Live updates, Trump to CNBC",
+     "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-24/nvidia/"
+  },
   {
    "id": "ai-selloff",
    "topic": "Money",
-   "date": "Nov 20–23",
+   "date": "Nov 23",
    "tier": "ok",
-   "evidence": "Press + market data",
-   "headline": "US futures rise 3% as Asia props up stocks after the Nasdaq's worst week since 2020",
-   "dek": "China eased margin rules and Korea set up a fund, but the Kospi kept falling. The Nasdaq lost 10% last week.",
+   "evidence": "Market data",
+   "headline": "Nasdaq jumps 6.51%, its best day since April 2025, as AI stocks rebound with Nvidia",
+   "dek": "The S&P 500 rose 4.74% and left correction territory after seven straight losses. PCE inflation data comes Wednesday.",
    "facts": [
     {
-     "stat": "3.02%",
-     "text": "rise in Nasdaq-100 futures as of 1:18 a.m. ET Monday. S&P 500 futures were up 2.10% and Dow futures 1.45%",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "10%",
-     "text": "the Nasdaq's fall last week, its largest weekly drop since March 2020. The S&P 500 and the Dow each lost more than 8%",
+     "stat": "6.51%",
+     "text": "the Nasdaq Composite's gain, to 24,090, its best day since April 2025 and its biggest gain this year",
      "s": [
       1,
       2
      ]
     },
     {
-     "stat": "80%",
-     "text": "China's new minimum margin for leveraged stock buying, down from 100%, from Nov 30. Taiwan tightened short-selling rules",
+     "stat": "4.74%",
+     "text": "the S&P 500's rise, to 7,238, after seven straight losing days. The Dow rose 3.01%, to 49,595",
      "s": [
-      1,
-      2
+      1
      ]
     },
     {
-     "stat": "3.22%",
-     "text": "the Kospi's fall early Monday, after Korea announced a stock stabilization fund over the weekend. SK Hynix fell more than 13%",
+     "stat": "22.32%",
+     "text": "CoreWeave's rise. Dell gained 20.46%, Nebius 20.28% and Micron 19.04%",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "18%",
+     "text": "how far the Nasdaq Composite sat below its peak after Friday's close, before Monday's rally",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Will it hold",
+    "text": "Monday recovered only part of the slide. PCE inflation data on Wednesday will shape Fed expectations, and markets close Thursday for Thanksgiving and early on Friday.",
+    "s": [
+     3
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Monday's gains, % change",
+    "data": [
+     [
+      "Nasdaq Composite",
+      6.51,
+      "+6.51%",
+      "main"
+     ],
+     [
+      "S&P 500",
+      4.74,
+      "+4.74%",
+      "main"
+     ],
+     [
+      "Dow",
+      3.01,
+      "+3.01%",
+      "main"
+     ]
+    ],
+    "note": "Closing figures for Nov 23."
+   },
+   "sources": [
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Closing levels and movers",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Best day since April 2025",
+     "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "kind": "Press",
+     "desc": "Premarket setup and week ahead",
+     "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-24/ai-selloff/"
+  },
+  {
+   "id": "crowdstrike-zscaler",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "SEC filing",
+   "headline": "CrowdStrike agrees to buy Zscaler for about $43.9 billion in stock",
+   "dek": "CrowdStrike says its product for securing AI agents passed $100 million in annual recurring revenue in its first year.",
+   "facts": [
+    {
+     "stat": "$43.9B",
+     "text": "the value CrowdStrike's all-stock offer puts on Zscaler, announced with its quarterly results",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "1.135",
+     "text": "CrowdStrike shares for each Zscaler share",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$100M+",
+     "text": "annual recurring revenue of Falcon Guardian, which secures AI agents, in its first year, CEO George Kurtz said",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "17.67%",
+     "text": "Zscaler's rise on Monday, while CrowdStrike fell 8.92% on a day the Nasdaq rose 6.51%",
      "s": [
       2
      ]
     }
    ],
    "open": {
-    "label": "Will it hold",
-    "text": "Investors expect the Fed to raise rates next month, and one fund strategist told Reuters there is no catalyst for a lasting bounce without a policy shift. Reuters put the Kospi's drop near 5%.",
+    "label": "Not closed",
+    "text": "The deal needs regulatory approvals and a Zscaler shareholder vote. CrowdStrike's release gives no expected closing date or premium.",
     "s": [
      1
     ]
    },
    "chart": {
     "type": "hbars",
-    "title": "Early Monday moves, % change",
+    "title": "Monday's moves, % change",
     "data": [
      [
-      "Nasdaq-100 futures",
-      3.02,
-      "+3.0%",
+      "Zscaler",
+      17.67,
+      "+17.67%",
       "main"
      ],
      [
-      "S&P 500 futures",
-      2.1,
-      "+2.1%",
-      "main"
-     ],
-     [
-      "Dow futures",
-      1.45,
-      "+1.5%",
-      "main"
-     ],
-     [
-      "Kospi",
-      3.22,
-      "-3.2%",
+      "CrowdStrike",
+      8.92,
+      "-8.92%",
       "ctx"
      ]
     ],
-    "note": "US futures as of 1:18 a.m. ET, Kospi at the time of writing. The grey bar is a fall."
+    "note": "The grey bar is a fall."
    },
    "sources": [
     {
-     "name": "Reuters via Yahoo Finance",
-     "kind": "Press",
-     "desc": "US futures bounce as Asia shores up stocks",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
+     "name": "CrowdStrike",
+     "kind": "Filing",
+     "desc": "8-K exhibit: results and deal terms",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
     },
     {
-     "name": "Stocktwits via Yahoo Finance",
+     "name": "The Motley Fool",
      "kind": "Press",
-     "desc": "Futures, Kospi and Asian support measures",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/ai-selloff-splits-global-markets-070806445.html"
-    },
-    {
-     "name": "Yahoo Finance",
-     "kind": "Press",
-     "desc": "Reuters on the Nov 20 close",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+     "desc": "Monday's share moves",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/ai-selloff/"
+   "url": "https://receiptswire.com/e/2026-11-24/crowdstrike-zscaler/"
   },
   {
-   "id": "nvidia",
-   "topic": "Chips",
-   "date": "Nov 20–22",
-   "tier": "warn",
-   "evidence": "Press report",
-   "headline": "Nvidia's SEC probe centers on its accounting, Reuters says, after a 14% one-day fall",
-   "dek": "It has lost about $2.7 trillion since its Oct. 6 record. The Justice Department is also reviewing its Hugging Face deal.",
-   "facts": [
-    {
-     "stat": "14.01%",
-     "text": "Nvidia's fall on Nov 20, to $125.53, its worst day since January 2025 and its seventh straight loss",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "2 people",
-     "text": "briefed on the matter told Reuters that SEC enforcement staff are scrutinizing Nvidia's accounting. The SEC declined to comment and Nvidia did not respond",
-     "s": [
-      1,
-      3
-     ]
-    },
-    {
-     "stat": "$2.7T",
-     "text": "market value Nvidia has lost since its Oct. 6 record, including about $485B on Friday and nearly $900B this week",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "$12.9B",
-     "text": "Nvidia's deal to buy Hugging Face, which the Justice Department is reviewing alongside a broader antitrust investigation, Reuters reported",
-     "s": [
-      3
-     ]
-    }
-   ],
-   "open": {
-    "label": "Unknown scope",
-    "text": "Reuters could not determine when the inquiry opened or which accounting issues it covers. Investigations are not evidence of wrongdoing, and many close without action.",
-    "s": [
-     3
-    ]
-   },
-   "chart": {
-    "type": "hbars",
-    "title": "Nvidia market value lost, $ billions",
-    "data": [
-     [
-      "Since Oct. 6 record",
-      2700,
-      "$2.7T",
-      "ctx"
-     ],
-     [
-      "This week",
-      900,
-      "~$900B",
-      "ctx"
-     ],
-     [
-      "Friday, Nov 20",
-      485,
-      "$485B",
-      "main"
-     ]
-    ],
-    "note": "Yahoo Finance figures. This week means Nov 16 to 20."
-   },
-   "sources": [
-    {
-     "name": "Investing.com",
-     "kind": "Press",
-     "desc": "Reuters exclusive on the SEC probe",
-     "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
-    },
-    {
-     "name": "Yahoo Finance",
-     "kind": "Press",
-     "desc": "Nvidia's close and value lost",
-     "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
-    },
-    {
-     "name": "Reuters via Business Standard",
-     "kind": "Press",
-     "desc": "SEC probe focuses on accounting",
-     "url": "https://www.business-standard.com/amp/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-23/nvidia/"
-  },
-  {
-   "id": "anthropic-ipo",
+   "id": "amazon-decart",
    "topic": "Money",
-   "date": "Nov 19–22",
+   "date": "Nov 23",
    "tier": "ok",
-   "evidence": "Press + market data",
-   "disclosure": true,
-   "headline": "Anthropic ends its first week at $88.91 as Needham starts coverage with a $150 target",
-   "dek": "ANT closed 7.1% above its $83 IPO price after nearly touching it Friday. Index funds may have to buy it next month.",
+   "evidence": "Company, via press",
+   "headline": "Amazon signs a deal for Decart's AI chip software and team, valued at $7.5B by Calcalist",
+   "dek": "Amazon is buying the technology and hiring the founders, not buying the company, and gave no price. Decart was valued near $4B in May.",
    "facts": [
     {
-     "stat": "$88.91",
-     "text": "ANT's close on Nov 20, down from $97.17 on its first day and 7.1% above the $83 IPO price",
+     "stat": "Nov 23",
+     "text": "Amazon announced it signed an agreement to buy the technology behind the Decart Optimization Stack and bring over the founders and team",
      "s": [
       1,
-      5
+      2
      ]
     },
     {
-     "stat": "$83.05",
-     "text": "Friday's low, five cents above the IPO price. The stock opened at $89.86 and peaked at $92.56",
+     "stat": "$7.5B",
+     "text": "the deal's value in cash and stock paid in installments, Calcalist reported. Amazon did not disclose a price",
      "s": [
       1
      ]
     },
     {
-     "stat": "Dec 11",
-     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules. Bloomberg reported it is on track to join the Nasdaq-100 on Dec 21",
+     "stat": "30x",
+     "text": "the frame-rate gain over baseline Decart claims on Amazon's Trainium chips. Its software tunes kernels, compilers and runtime to each chip",
      "s": [
-      3,
-      4
+      2
      ]
     },
     {
-     "stat": "$150",
-     "text": "Needham's price target as analyst Scott Berg started coverage with a Buy rating, about 72% above Friday's close",
+     "stat": "~$4B",
+     "text": "Decart's valuation in May, when it raised $300M in a round that included Nvidia",
      "s": [
-      6
+      1
      ]
     }
    ],
    "open": {
-    "label": "Sources differ",
-    "text": "Reuters put Friday's fall at 9.1%; closing data cited by FinanceFeeds show 8.5%. Nasdaq has not announced an index addition.",
+    "label": "Not closed",
+    "text": "Completion needs regulatory clearance, and the price comes from Calcalist's reporting, not from Amazon.",
     "s": [
-     2,
      1,
-     3
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Decart, $ billions",
+    "data": [
+     [
+      "May round valuation",
+      4,
+      "~$4B",
+      "ctx"
+     ],
+     [
+      "Deal value, per Calcalist",
+      7.5,
+      "$7.5B",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Calcalist",
+     "kind": "Press",
+     "desc": "Signed deal, value and terms",
+     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
+    },
+    {
+     "name": "Securities.io",
+     "kind": "Press",
+     "desc": "Amazon's announcement and Decart's claims",
+     "url": "https://www.securities.io/amazon-signs-decart-deal-to-add-ai-optimization-software-and-team/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-24/amazon-decart/"
+  },
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Market data",
+   "disclosure": true,
+   "headline": "Anthropic slips 1.43% to $87.64 on the Nasdaq's best day since April 2025",
+   "dek": "ANT opened higher, then swung between $84.61 and $94.24. It closed about 5.6% above its $83 IPO price.",
+   "facts": [
+    {
+     "stat": "$87.64",
+     "text": "ANT's close on Nov 23, down $1.27 or 1.43%, while Nvidia rose 31.48%",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "5.4%",
+     "text": "ANT's gain at the open, before it turned lower. The day's range was $84.61 to $94.24",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "5.6%",
+     "text": "how far the close sits above the $83 IPO price, and well below the $97.17 first-day close",
+     "s": [
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "Dec 11",
+     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules",
+     "s": [
+      4
+     ]
+    }
+   ],
+   "open": {
+    "label": "No clear reason",
+    "text": "Our sources cite no company news behind the drop. The Fool's writer tied it to Washington's interest in open-weight AI, which is his reading, not a reported cause.",
+    "s": [
+     1
     ]
    },
    "chart": {
     "type": "vbars",
-    "title": "ANT's first two days, $ per share",
+    "title": "ANT, $ per share",
     "data": [
      [
       "IPO price",
@@ -257,50 +422,37 @@
       "ctx"
      ],
      [
-      "Day 1 close",
+      "Nov 19 close",
       97.17,
       "$97.17",
       "ctx"
      ],
      [
-      "Day 2 low",
-      83.05,
-      "$83.05",
+      "Nov 20 close",
+      88.91,
+      "$88.91",
       "ctx"
      ],
      [
-      "Day 2 close",
-      88.91,
-      "$88.91",
+      "Nov 23 close",
+      87.64,
+      "$87.64",
       "main"
      ]
-    ],
-    "note": "Day 1 is Nov 19, day 2 is Nov 20."
+    ]
    },
    "sources": [
     {
-     "name": "FinanceFeeds",
+     "name": "The Motley Fool",
      "kind": "Press",
-     "desc": "Friday's close, range and open",
-     "url": "https://financefeeds.com/anthropic-ant-stock-88-91-saturday-week-ahead-after-friday-low-tested-83-ipo-price-bull-97-bear-80/"
+     "desc": "Monday's close and range",
+     "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
     },
     {
-     "name": "Yahoo Finance",
+     "name": "Pomegra",
      "kind": "Press",
-     "desc": "Reuters on the Nov 20 close",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
-    },
-    {
-     "name": "FourWeekMBA",
-     "kind": "Press",
-     "desc": "FTSE Russell's Nov 13 notice",
-     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
-    },
-    {
-     "name": "StockAnalysis",
-     "kind": "Press",
-     "desc": "Bloomberg on the Nasdaq-100 timing",
-     "url": "https://stockanalysis.com/news/anthropic-nasdaq-100-funds-december-21/"
+     "desc": "Close versus IPO and first day",
+     "url": "https://pomegra.io/news/anthropic-ant-slips-to-8764-as-tech-rally-passes-it-by"
     },
     {
      "name": "Anthropic",
@@ -309,13 +461,13 @@
      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
     },
     {
-     "name": "The Motley Fool",
+     "name": "FourWeekMBA",
      "kind": "Press",
-     "desc": "Needham's initiation and target",
-     "url": "https://www.fool.com/investing/2026/11/22/anthropic-stock-could-soar-by-72-according-to-this-wall-street-analyst/"
+     "desc": "FTSE Russell's Nov 13 notice",
+     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/anthropic-ipo/"
+   "url": "https://receiptswire.com/e/2026-11-24/anthropic-ipo/"
   },
   {
    "id": "oracle-openai",
@@ -418,100 +570,80 @@
      "url": "https://ultrathink.ai/news/oracle-openai-contract-fully-funded-20-billion-raise"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/oracle-openai/"
+   "url": "https://receiptswire.com/e/2026-11-24/oracle-openai/"
   },
   {
-   "id": "amazon-decart",
+   "id": "sierra-round",
    "topic": "Money",
-   "date": "Nov 18–21",
-   "tier": "warn",
-   "evidence": "Press report",
-   "disclosure": true,
-   "headline": "Amazon nears a deal valuing video-model startup Decart at about $7.5 billion, FT reports",
-   "dek": "Decart was valued at $4 billion in May. Amazon declined to comment, and no deal has been signed.",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "headline": "Sierra raises $1.75 billion at a $30 billion valuation, about double its May price",
+   "dek": "The maker of customer-service agents said in October it had passed $400 million in annual recurring revenue.",
    "facts": [
     {
-     "stat": "~$7.5B",
-     "text": "Decart's value in advanced talks, the FT reported Saturday. A deal could come in days, though talks could still fall apart",
+     "stat": "$1.75B",
+     "text": "the Series F Sierra announced Monday, led by Greenoaks and Lightspeed, with Benchmark, Sequoia, GV and Tiger Global taking part",
      "s": [
-      3
+      1
      ]
     },
     {
-     "stat": "$7B+",
-     "text": "the price in cash, stock and deferred payments, near $7.5B if targets are met, Calcalist reported. The founders committed to stay five years",
+     "stat": "$30B",
+     "text": "its new valuation, up from more than $15B in May, when it raised $950M",
      "s": [
-      2
+      1
      ]
     },
     {
-     "stat": "$4B",
-     "text": "Decart's valuation in May. It has raised more than $400M from investors including Sequoia, Benchmark and Radical Ventures",
+     "stat": "$400M+",
+     "text": "annual recurring revenue Sierra disclosed in October, after adding more than $150M in the third quarter",
      "s": [
-      2
+      1
      ]
     },
     {
-     "stat": "~$6B",
-     "text": "the size of a Decart purchase Anthropic discussed, then halted in early September",
+     "stat": "~75x",
+     "text": "the valuation as a multiple of that run rate (derived: $30B divided by $400M)",
      "s": [
-      2
+      1
      ]
     }
    ],
    "open": {
-    "label": "Not signed",
-    "text": "Calcalist said the deal could be finalized as early as last weekend; none was announced. Globes said it may be unveiled at AWS re:Invent on Nov 30.",
+    "label": "Run rate",
+    "text": "Recurring revenue is an annualized figure, not revenue already earned. The round figures come from Sierra's announcement, as reported by IBTimes.",
     "s": [
-     2,
      1
     ]
    },
    "chart": {
-    "type": "hbars",
-    "title": "Decart, $ billions",
+    "type": "vbars",
+    "title": "Sierra's valuation, $ billions",
     "data": [
      [
-      "May round valuation",
-      4,
-      "$4B",
+      "May 2026",
+      15,
+      "$15B+",
       "ctx"
      ],
      [
-      "Price, per Calcalist",
-      7,
-      "$7B+",
-      "main"
-     ],
-     [
-      "Value, per the FT",
-      7.5,
-      "~$7.5B",
+      "Nov 2026",
+      30,
+      "$30B",
       "main"
      ]
     ]
    },
    "sources": [
     {
-     "name": "FourWeekMBA",
+     "name": "IBTimes",
      "kind": "Press",
-     "desc": "Analysis of Calcalist and Globes reports",
-     "url": "https://fourweekmba.com/ai-amazon-nears-7b-decart-deal-1-75x-its-may-valuation/"
-    },
-    {
-     "name": "Calcalist",
-     "kind": "Press",
-     "desc": "Deal terms and founders' commitment",
-     "url": "https://www.calcalistech.com/ctechnews/article/uckadwd7r"
-    },
-    {
-     "name": "PYMNTS",
-     "kind": "Press",
-     "desc": "FT report and Amazon's response",
-     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/"
+     "desc": "Sierra's announcement and ARR",
+     "url": "https://www.ibtimes.com/sierra-30-billion-valuation-ai-funding-round-3810100"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/amazon-decart/"
+   "url": "https://receiptswire.com/e/2026-11-24/sierra-round/"
   },
   {
    "id": "cognition-round",
@@ -600,7 +732,7 @@
      "url": "https://jawlah.co/en/68475"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/cognition-round/"
+   "url": "https://receiptswire.com/e/2026-11-24/cognition-round/"
   },
   {
    "id": "chatgpt-wallet",
@@ -705,7 +837,7 @@
     "date": "Nov 19",
     "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
    },
-   "url": "https://receiptswire.com/e/2026-11-23/chatgpt-wallet/"
+   "url": "https://receiptswire.com/e/2026-11-24/chatgpt-wallet/"
   },
   {
    "id": "walmart-agents",
@@ -800,7 +932,83 @@
      "url": "https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/walmart-agents/"
+   "url": "https://receiptswire.com/e/2026-11-24/walmart-agents/"
+  },
+  {
+   "id": "anthropic-efs",
+   "topic": "Agents",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "Company, via press",
+   "disclosure": true,
+   "headline": "Anthropic opens misuse monitoring that keeps data in customers' clouds after a 100-firm beta",
+   "dek": "The system watches across many requests, since agents can split an attack into small steps that each look harmless.",
+   "facts": [
+    {
+     "stat": "100+",
+     "text": "customers in the private beta, including Bridgewater, Salesforce and Stripe. It is now in public beta",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Kept local",
+     "text": "prompts and replies stay in the customer's AWS or Google Cloud account, and neither Anthropic nor the cloud keeps them",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "7 days",
+     "text": "for a customer's security team to review a flagged case, or it risks losing access",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Free",
+     "text": "to use; customers pay their cloud provider for storage",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Sources differ",
+    "text": "TNW says Anthropic began keeping data for 30 days with Fable 5. PYMNTS says a June policy allowed 30 days, or up to two years for flagged logs.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "diagram",
+    "title": "Where the monitoring runs",
+    "zone": "Customer's AWS or Google",
+    "nodes": [
+     "Prompts, replies",
+     "Misuse monitor",
+     "Flagged case"
+    ],
+    "target": "Security",
+    "target_sub": "7-day review"
+   },
+   "sources": [
+    {
+     "name": "The Next Web",
+     "kind": "Press",
+     "desc": "Launch details and beta customers",
+     "url": "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta"
+    },
+    {
+     "name": "PYMNTS",
+     "kind": "Press",
+     "desc": "Release terms and retention history",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-availability-of-ai-safety-monitoring-with-zero-data-retention/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-24/anthropic-efs/"
   },
   {
    "id": "klarna-adyen",
@@ -860,347 +1068,39 @@
      "url": "https://www.digitaltransactions.net/adyen-recruits-klarna-for-payments-on-adyen-agentic"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-23/klarna-adyen/"
-  },
-  {
-   "id": "openai-california",
-   "topic": "Agents",
-   "date": "Nov 16",
-   "tier": "ok",
-   "evidence": "Court filing",
-   "headline": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
-   "dek": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
-   "facts": [
-    {
-     "stat": "80+",
-     "text": "times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "2+ days",
-     "text": "length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "500+",
-     "text": "RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "$2,500",
-     "text": "civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement",
-     "s": [
-      2
-     ]
-    }
-   ],
-   "open": {
-    "label": "Disputed",
-    "text": "None of this has been proven in court. OpenAI says the suit singles it out over a problem every major AI lab has identified, and that it is working with the attorney general's office.",
-    "s": [
-     3
-    ]
-   },
-   "chart": {
-    "type": "vbars",
-    "title": "OpenAI agent incidents, per the complaint",
-    "data": [
-     [
-      "Told to the state",
-      80,
-      "80+",
-      "main"
-     ],
-     [
-      "Reported publicly",
-      27,
-      "27",
-      "ctx"
-     ]
-    ],
-    "note": "Filed Nov 16 in San Francisco Superior Court under public nuisance and unfair competition law."
-   },
-   "sources": [
-    {
-     "name": "California AG",
-     "kind": "Filing",
-     "desc": "Announcement of the suit, with the complaint",
-     "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
-    },
-    {
-     "name": "Computerworld",
-     "kind": "Press",
-     "desc": "Details from the complaint",
-     "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
-    },
-    {
-     "name": "Axios",
-     "kind": "Press",
-     "desc": "OpenAI's response, via a spokesperson",
-     "url": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-23/openai-california/"
-  },
-  {
-   "id": "gpt-6-2",
-   "topic": "Models",
-   "date": "Nov 17–18",
-   "tier": "ok",
-   "evidence": "Press + data",
-   "disclosure": true,
-   "headline": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
-   "dek": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
-   "facts": [
-    {
-     "stat": "$8 / $40",
-     "text": "Astra's API price per million input and output tokens, 20% below its predecessor; Sol stays at $2 / $10",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "62",
-     "text": "Astra's Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65",
-     "s": [
-      2
-     ]
-    },
-    {
-     "stat": "$4.00",
-     "text": "Astra's cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40",
-     "s": [
-      2,
-      3
-     ]
-    },
-    {
-     "stat": "3–4 days",
-     "text": "before launch, the team made a lot of changes, OpenAI's Thibault Sottiaux said, answering early testers who said Astra asked permission too often",
-     "s": [
-      4
-     ]
-    }
-   ],
-   "open": {
-    "label": "Sources differ",
-    "text": "OpenAI's own tables put Astra ahead of Fable 5.2 on several tests. Epoch AI found it behind Fable 5.2 on real research tasks.",
-    "s": [
-     1
-    ]
-   },
-   "chart": {
-    "type": "hbars",
-    "title": "Artificial Analysis Intelligence Index",
-    "data": [
-     [
-      "Claude Fable 5.2",
-      65,
-      "65",
-      "ctx"
-     ],
-     [
-      "GPT-6.2 Astra",
-      62,
-      "62",
-      "main"
-     ],
-     [
-      "Gemini 4 Neon",
-      61,
-      "61",
-      "ctx"
-     ],
-     [
-      "Gemini 4 Carbon",
-      60,
-      "60",
-      "ctx"
-     ],
-     [
-      "Claude Opus 5.5",
-      59,
-      "59",
-      "ctx"
-     ],
-     [
-      "GPT-6.2 Sol",
-      57,
-      "57",
-      "main"
-     ]
-    ],
-    "note": "Each model at its best listed setting, as of Nov 20. Independent scores, not vendor claims."
-   },
-   "sources": [
-    {
-     "name": "The Decoder",
-     "kind": "Press",
-     "desc": "Release, prices and safety rating",
-     "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
-    },
-    {
-     "name": "Artificial Analysis",
-     "kind": "Data",
-     "desc": "Index scores and cost per task",
-     "url": "https://artificialanalysis.ai/leaderboards/models"
-    },
-    {
-     "name": "OfficeChai",
-     "kind": "Press",
-     "desc": "Fable 5.2's list price",
-     "url": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
-    },
-    {
-     "name": "Gizmodo",
-     "kind": "Press",
-     "desc": "Early reviews and OpenAI's reply, Nov 18",
-     "url": "https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-23/gpt-6-2/"
-  },
-  {
-   "id": "layoffs",
-   "topic": "Jobs",
-   "date": "Nov 16",
-   "tier": "warn",
-   "evidence": "Press + data",
-   "headline": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
-   "dek": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
-   "facts": [
-    {
-     "stat": "121,401",
-     "text": "announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "1,265",
-     "text": "cuts cited AI in October, under 3% of the month, against about 40% in May",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "Up to 9%",
-     "text": "of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated",
-     "s": [
-      3
-     ]
-    },
-    {
-     "stat": "1%",
-     "text": "of payrolls laid off in September, or 1.6 million layoffs, while hires ran at 5.4 million (JOLTS)",
-     "s": [
-      3
-     ]
-    }
-   ],
-   "open": {
-    "label": "Caveat",
-    "text": "Challenger counts the reasons employers give, not what drove each cut. A Lightcast economist says labor data doesn't show mass replacement.",
-    "s": [
-     1
-    ]
-   },
-   "correction": {
-    "date": "Nov 18",
-    "text": "We said 22% of this year's US job cuts cited AI, about 121,000 jobs. The 22% share ran through August. Through October, the 121,401 AI-cited cuts were about 20% of all announced cuts."
-   },
-   "chart": {
-    "type": "hbars",
-    "title": "Share of US job cuts citing AI",
-    "max": 45,
-    "data": [
-     [
-      "May 2026",
-      40,
-      "40%",
-      "main"
-     ],
-     [
-      "2026 through October",
-      20,
-      "about 20%",
-      "ctx"
-     ],
-     [
-      "October 2026",
-      3,
-      "under 3%",
-      "main"
-     ]
-    ]
-   },
-   "sources": [
-    {
-     "name": "HCA Magazine",
-     "kind": "Press",
-     "desc": "Challenger's count through October",
-     "url": "https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129"
-    },
-    {
-     "name": "TechJack",
-     "kind": "Press",
-     "desc": "May and October shares",
-     "url": "https://techjacksolutions.com/?p=107167"
-    },
-    {
-     "name": "Fortune",
-     "kind": "Press",
-     "desc": "Goldman's 2027 outlook and JOLTS data",
-     "url": "https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/"
-    },
-    {
-     "name": "People Managing People",
-     "kind": "Press",
-     "desc": "The 22% share, through August",
-     "url": "https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-23/layoffs/"
+   "url": "https://receiptswire.com/e/2026-11-24/klarna-adyen/"
   }
  ],
  "brief": [
   {
-   "id": "ai-selloff",
-   "kick": "Money",
-   "big": "3%",
-   "line": "Nasdaq-100 futures rose early Monday as China, Taiwan and Korea moved to support stocks."
-  },
-  {
    "id": "nvidia",
    "kick": "Chips",
-   "big": "$2.7T",
-   "line": "Nvidia's lost market value. Reuters says the SEC probe centers on its accounting."
+   "big": "$952B",
+   "line": "Nvidia's one-day gain in value after its board reinstated Jensen Huang."
   },
   {
-   "id": "oracle-openai",
+   "id": "ai-selloff",
    "kick": "Money",
-   "big": "$20B",
-   "line": "Stock and debt Oracle sold. It says its OpenAI contract is now fully funded."
+   "big": "6.51%",
+   "line": "The Nasdaq's rise on Monday, its best day since April 2025."
+  },
+  {
+   "id": "crowdstrike-zscaler",
+   "kick": "Money",
+   "big": "$43.9B",
+   "line": "What CrowdStrike's all-stock offer values Zscaler at."
   },
   {
    "id": "amazon-decart",
    "kick": "Money",
-   "big": "~$7.5B",
-   "line": "Decart's value in Amazon's advanced talks, the FT reports. Nothing is signed."
+   "big": "$7.5B",
+   "line": "Calcalist's value for Amazon's deal for Decart's chip software and team."
   },
   {
-   "id": "anthropic-ipo",
+   "id": "sierra-round",
    "kick": "Money",
-   "big": "$150",
-   "line": "Needham's target for ANT, which ended its first week at $88.91."
+   "big": "$30B",
+   "line": "Sierra's new valuation, about double its price in May."
   }
  ],
  "coming": [
@@ -1225,14 +1125,14 @@
   [
    "Mon",
    "Nov 30",
-   "China's lower margin rule takes effect; AWS re:Invent, where Amazon may unveil a Decart deal",
+   "AWS re:Invent begins",
    "amazon-decart"
   ],
   [
-   "Early",
-   "Dec",
-   "Challenger's November layoffs report",
-   "layoffs"
+   "Tue",
+   "Dec 1",
+   "Huang's closed-door House interview",
+   "nvidia"
   ]
  ]
 }
