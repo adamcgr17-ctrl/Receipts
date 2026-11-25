@@ -1,29 +1,236 @@
 {
- "date": "2026-11-24",
- "published_at": "2026-11-24T05:53-06:00",
- "url": "https://receiptswire.com/e/2026-11-24/",
+ "date": "2026-11-25",
+ "published_at": "2026-11-25T05:54-06:00",
+ "url": "https://receiptswire.com/e/2026-11-25/",
  "stories": [
   {
-   "id": "nvidia",
-   "topic": "Chips",
-   "date": "Nov 12–23",
+   "id": "ai-selloff",
+   "topic": "Money",
+   "date": "Nov 24–25",
    "tier": "ok",
-   "evidence": "Company + press",
-   "headline": "Nvidia adds about $952 billion in a day as its board reinstates Jensen Huang as CEO",
-   "dek": "Shares rose 31.48%. The board says US officials told it his return poses no national security risk. Its own probe continues.",
+   "evidence": "Market data",
+   "headline": "AI stocks give back Monday's rally: Nasdaq falls 1.5% and chip stocks drop 7.9%",
+   "dek": "Asian chipmakers fell further on Wednesday. Huang's return did not settle doubts about AI spending, AP reports.",
    "facts": [
     {
-     "stat": "31.48%",
-     "text": "Nvidia's rise on Nov 23, to $165.05, its largest one-day percentage gain in more than two decades",
+     "stat": "1.5%",
+     "text": "the Nasdaq Composite's drop on Tuesday. The S&P 500 fell 0.5%, its eighth loss in nine days, while the Dow rose more than 400 points",
      "s": [
+      1,
       2
      ]
     },
     {
-     "stat": "$952B",
-     "text": "market value added, to about $3.98T from about $3.03T on Friday, which Fox News called the largest one-day gain in history",
+     "stat": "7.9%",
+     "text": "the Philadelphia Semiconductor Index's fall on Tuesday. CoreWeave dropped 12.7% and GE Vernova 5.5%",
+     "s": [
+      2,
+      1
+     ]
+    },
+    {
+     "stat": "14.5%",
+     "text": "Advantest's fall in Tokyo on Wednesday. Tokyo Electron fell 13.5%, SK Hynix 9.9% and TSMC more than 9%",
      "s": [
       3
+     ]
+    },
+    {
+     "stat": "7.9%",
+     "text": "how far Taiwan's Taiex fell in Wednesday morning trading. South Korea's Kospi fell more than 6%",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Why it turned",
+    "text": "AP cites bubble worries, doubts that AI profits will justify data center spending, high rates and the chance of more regulation after Democrats' midterm wins. No single trigger is reported.",
+    "s": [
+     1,
+     3
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Tuesday's declines, % change",
+    "data": [
+     [
+      "S&P 500",
+      0.5,
+      "-0.5%",
+      "ctx"
+     ],
+     [
+      "Nasdaq Composite",
+      1.5,
+      "-1.5%",
+      "ctx"
+     ],
+     [
+      "Nvidia",
+      5.86,
+      "-5.86%",
+      "main"
+     ],
+     [
+      "Chip index (SOX)",
+      7.9,
+      "-7.9%",
+      "main"
+     ],
+     [
+      "CoreWeave",
+      12.7,
+      "-12.7%",
+      "main"
+     ]
+    ],
+    "note": "Closing moves on Nov 24. The Dow rose."
+   },
+   "sources": [
+    {
+     "name": "AP via WPTF",
+     "kind": "Press",
+     "desc": "The Closing Bell, Nov 24",
+     "url": "https://www.wptf.com/2026/11/24/19515/"
+    },
+    {
+     "name": "Kotak Neo",
+     "kind": "Press",
+     "desc": "Nvidia's Tuesday close and chip index",
+     "url": "https://www.kotakneo.com/news/stocks/nvidia-share-price-falls-after-rally-ai-spending-trade-concerns/"
+    },
+    {
+     "name": "Al Jazeera",
+     "kind": "Press",
+     "desc": "Asian markets on Nov 25",
+     "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-25/ai-selloff/"
+  },
+  {
+   "id": "dell",
+   "topic": "Chips",
+   "date": "Nov 24",
+   "tier": "ok",
+   "evidence": "Company + SEC",
+   "headline": "Dell's AI server backlog reaches $132.3 billion after $60.2 billion of orders in one quarter",
+   "dek": "Revenue doubled to $54.9 billion and Dell raised its full-year target to $202 billion, a read on how much AI hardware is still on order.",
+   "facts": [
+    {
+     "stat": "$132.3B",
+     "text": "Dell's AI backlog at the end of the quarter, after it booked $60.2B of AI orders",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$22.0B",
+     "text": "AI server revenue in the quarter, up 291% from $5.6B a year earlier",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$54.9B",
+     "text": "total revenue, up 103%, against about $49.3B Wall Street expected. Shares rose nearly 4% after hours",
+     "s": [
+      1,
+      3
+     ]
+    },
+    {
+     "stat": "$202B",
+     "text": "full-year revenue guidance, raised from $192B, including $78B of AI server revenue, up from $74B",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Backlog is not revenue",
+    "text": "Dell does not say how much of the backlog ships this fiscal year or what customers can cancel. PC revenue grew 3% and its operating income fell 6%.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Dell, fiscal Q3 2027, $ billions",
+    "data": [
+     [
+      "AI backlog",
+      132.3,
+      "$132.3B",
+      "main"
+     ],
+     [
+      "AI orders booked",
+      60.2,
+      "$60.2B",
+      "main"
+     ],
+     [
+      "Total revenue",
+      54.9,
+      "$54.9B",
+      "ctx"
+     ],
+     [
+      "AI server revenue",
+      22.0,
+      "$22.0B",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Dell Technologies",
+     "kind": "Company",
+     "desc": "Q3 fiscal 2027 results, Nov 24",
+     "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+    },
+    {
+     "name": "SEC",
+     "kind": "Filing",
+     "desc": "Form 8-K, exhibit 99.1",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000050/exhibit991earnings8kq3fy27.htm"
+    },
+    {
+     "name": "Proactive via Yahoo Finance",
+     "kind": "Press",
+     "desc": "Estimates and after-hours move",
+     "url": "https://finance.yahoo.com/technology/articles/dell-shares-rise-earnings-beat-213400130.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-25/dell/"
+  },
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 12–24",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Nvidia gives back 5.86% a day after adding about $952 billion on Huang's return as CEO",
+   "dek": "Shares closed at $155.38 on Tuesday, still well above Friday. The board's own probe of the Huang reports continues.",
+   "facts": [
+    {
+     "stat": "31.48%",
+     "text": "Nvidia's rise on Nov 23, to $165.05, after the board reinstated Huang, its largest one-day percentage gain in more than two decades",
+     "s": [
+      2,
+      1
+     ]
+    },
+    {
+     "stat": "5.86%",
+     "text": "Tuesday's drop, to $155.38, which left Nvidia worth about $3.75T after losing nearly $233B",
+     "s": [
+      7
      ]
     },
     {
@@ -66,9 +273,15 @@
       3.98,
       "$3.98T",
       "main"
+     ],
+     [
+      "Tue, Nov 24",
+      3.75,
+      "$3.75T",
+      "ctx"
      ]
     ],
-    "note": "Fox News figures, approximate."
+    "note": "Approximate. Nov 20 and 23 from Fox News, Nov 24 from Kotak Neo."
    },
    "sources": [
     {
@@ -106,102 +319,223 @@
      "kind": "Press",
      "desc": "Live updates, Trump to CNBC",
      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+    },
+    {
+     "name": "Kotak Neo",
+     "kind": "Press",
+     "desc": "Nvidia's Tuesday close and chip index",
+     "url": "https://www.kotakneo.com/news/stocks/nvidia-share-price-falls-after-rally-ai-spending-trade-concerns/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/nvidia/"
+   "url": "https://receiptswire.com/e/2026-11-25/nvidia/"
   },
   {
-   "id": "ai-selloff",
-   "topic": "Money",
+   "id": "megaspeed",
+   "topic": "Chips",
    "date": "Nov 23",
-   "tier": "ok",
-   "evidence": "Market data",
-   "headline": "Nasdaq jumps 6.51%, its best day since April 2025, as AI stocks rebound with Nvidia",
-   "dek": "The S&P 500 rose 4.74% and left correction territory after seven straight losses. PCE inflation data comes Wednesday.",
+   "tier": "warn",
+   "evidence": "Press reports",
+   "headline": "US blacklists Megaspeed and six linked firms, one an Alibaba unit, over chip diversion risk",
+   "dek": "Exports to the seven now need a license that will normally be denied. Megaspeed sits at the center of the reports around Jensen Huang.",
    "facts": [
     {
-     "stat": "6.51%",
-     "text": "the Nasdaq Composite's gain, to 24,090, its best day since April 2025 and its biggest gain this year",
+     "stat": "7",
+     "text": "entities added to the Entity List by the Commerce Department's Bureau of Industry and Security: Megaspeed International plus six others",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "3",
+     "text": "countries named: three of the six others are in Malaysia, two in Singapore and one in Thailand. Megaspeed is based in Singapore",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Denial",
+     "text": "the presumption for license requests for any item under US export rules, including Nvidia's top GPUs. Shipments already under way get 30 days",
+     "s": [
+      2,
+      1
+     ]
+    },
+    {
+     "stat": "$4.2B",
+     "text": "what Alibaba's Singapore unit Apex Enterprise Solutions prepaid Megaspeed and others to rent computing capacity, a person familiar told Reuters",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Disputed",
+    "text": "BIS cites a risk of diversion, not proven diversion. Alibaba calls Apex's listing erroneous, Megaspeed calls itself lawful, and Malaysia says one listed firm is not Malaysian.",
+    "s": [
+     2,
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Entities added, by country named",
+    "data": [
+     [
+      "Singapore, incl. Megaspeed",
+      3,
+      "3",
+      "main"
+     ],
+     [
+      "Malaysia",
+      3,
+      "3",
+      "main"
+     ],
+     [
+      "Thailand",
+      1,
+      "1",
+      "main"
+     ]
+    ],
+    "max": 3,
+    "note": "Per Al Jazeera. Malaysia disputes one listing."
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "kind": "Press",
+     "desc": "Megaspeed Entity List listing",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list"
+    },
+    {
+     "name": "ShiftDelete",
+     "kind": "Press",
+     "desc": "Listed firms, license terms, Alibaba reply",
+     "url": "https://shiftdelete.net/en/us-entity-list-megaspeed-alibaba-apex-nvidia"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-25/megaspeed/"
+  },
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 24",
+   "tier": "ok",
+   "evidence": "Market data",
+   "disclosure": true,
+   "headline": "Anthropic falls 6.5% and closes below its $83 IPO price",
+   "dek": "ANT dropped with other AI stocks on Tuesday, its fourth day of trading on the Nasdaq.",
+   "facts": [
+    {
+     "stat": "6.5%",
+     "text": "ANT's fall on Nov 24, which took it below the $83 IPO price, per Kotak Neo. AP reported a 9.3% drop late in the session",
      "s": [
       1,
       2
      ]
     },
     {
-     "stat": "4.74%",
-     "text": "the S&P 500's rise, to 7,238, after seven straight losing days. The Dow rose 3.01%, to 49,595",
+     "stat": "$115",
+     "text": "the high ANT briefly reached on its first day of trading, according to AP",
      "s": [
-      1
+      2
      ]
     },
     {
-     "stat": "22.32%",
-     "text": "CoreWeave's rise. Dell gained 20.46%, Nebius 20.28% and Micron 19.04%",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "18%",
-     "text": "how far the Nasdaq Composite sat below its peak after Friday's close, before Monday's rally",
+     "stat": "$87.64",
+     "text": "Monday's close, down 1.43% while Nvidia rose 31.48%",
      "s": [
       3
+     ]
+    },
+    {
+     "stat": "Dec 11",
+     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules",
+     "s": [
+      5
      ]
     }
    ],
    "open": {
-    "label": "Will it hold",
-    "text": "Monday recovered only part of the slide. PCE inflation data on Wednesday will shape Fed expectations, and markets close Thursday for Thanksgiving and early on Friday.",
+    "label": "Exact close",
+    "text": "Our sources give the drop and say the stock closed below $83 but disagree on the size, 6.5% or 9.3%. We could not confirm the closing price.",
     "s": [
-     3
+     1,
+     2
     ]
    },
    "chart": {
-    "type": "hbars",
-    "title": "Monday's gains, % change",
+    "type": "vbars",
+    "title": "ANT, $ per share",
     "data": [
      [
-      "Nasdaq Composite",
-      6.51,
-      "+6.51%",
-      "main"
+      "IPO",
+      83,
+      "$83",
+      "ctx"
      ],
      [
-      "S&P 500",
-      4.74,
-      "+4.74%",
-      "main"
+      "Nov 19",
+      97.17,
+      "$97.17",
+      "ctx"
      ],
      [
-      "Dow",
-      3.01,
-      "+3.01%",
+      "Nov 23",
+      87.64,
+      "$87.64",
+      "ctx"
+     ],
+     [
+      "Nov 24*",
+      81.94,
+      "~$81.94",
       "main"
      ]
     ],
-    "note": "Closing figures for Nov 23."
+    "note": "Closing prices. *Nov 24 derived: Monday's close minus 6.5%, per Kotak Neo."
    },
    "sources": [
     {
-     "name": "The Motley Fool",
+     "name": "Kotak Neo",
      "kind": "Press",
-     "desc": "Closing levels and movers",
-     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+     "desc": "Nvidia's Tuesday close and chip index",
+     "url": "https://www.kotakneo.com/news/stocks/nvidia-share-price-falls-after-rally-ai-spending-trade-concerns/"
+    },
+    {
+     "name": "AP via WPTF",
+     "kind": "Press",
+     "desc": "The Closing Bell, Nov 24",
+     "url": "https://www.wptf.com/2026/11/24/19515/"
     },
     {
      "name": "The Motley Fool",
      "kind": "Press",
-     "desc": "Best day since April 2025",
+     "desc": "Monday's close and range",
      "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
     },
     {
-     "name": "24/7 Wall St.",
+     "name": "Anthropic",
+     "kind": "Company",
+     "desc": "Pricing announcement, Nov 18",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "FourWeekMBA",
      "kind": "Press",
-     "desc": "Premarket setup and week ahead",
-     "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/"
+     "desc": "FTSE Russell's Nov 13 notice",
+     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
+    },
+    {
+     "name": "Pomegra",
+     "kind": "Press",
+     "desc": "Close versus IPO and first day",
+     "url": "https://pomegra.io/news/anthropic-ant-slips-to-8764-as-tech-rally-passes-it-by"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/ai-selloff/"
+   "url": "https://receiptswire.com/e/2026-11-25/anthropic-ipo/"
   },
   {
    "id": "crowdstrike-zscaler",
@@ -281,7 +615,7 @@
      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/crowdstrike-zscaler/"
+   "url": "https://receiptswire.com/e/2026-11-25/crowdstrike-zscaler/"
   },
   {
    "id": "amazon-decart",
@@ -362,112 +696,80 @@
      "url": "https://www.securities.io/amazon-signs-decart-deal-to-add-ai-optimization-software-and-team/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/amazon-decart/"
+   "url": "https://receiptswire.com/e/2026-11-25/amazon-decart/"
   },
   {
-   "id": "anthropic-ipo",
+   "id": "sierra-round",
    "topic": "Money",
    "date": "Nov 23",
    "tier": "ok",
-   "evidence": "Market data",
-   "disclosure": true,
-   "headline": "Anthropic slips 1.43% to $87.64 on the Nasdaq's best day since April 2025",
-   "dek": "ANT opened higher, then swung between $84.61 and $94.24. It closed about 5.6% above its $83 IPO price.",
+   "evidence": "Company, via press",
+   "headline": "Sierra raises $1.75 billion at a $30 billion valuation, about double its May price",
+   "dek": "The maker of customer-service agents said in October it had passed $400 million in annual recurring revenue.",
    "facts": [
     {
-     "stat": "$87.64",
-     "text": "ANT's close on Nov 23, down $1.27 or 1.43%, while Nvidia rose 31.48%",
+     "stat": "$1.75B",
+     "text": "the Series F Sierra announced Monday, led by Greenoaks and Lightspeed, with Benchmark, Sequoia, GV and Tiger Global taking part",
      "s": [
       1
      ]
     },
     {
-     "stat": "5.4%",
-     "text": "ANT's gain at the open, before it turned lower. The day's range was $84.61 to $94.24",
+     "stat": "$30B",
+     "text": "its new valuation, up from more than $15B in May, when it raised $950M",
      "s": [
       1
      ]
     },
     {
-     "stat": "5.6%",
-     "text": "how far the close sits above the $83 IPO price, and well below the $97.17 first-day close",
+     "stat": "$400M+",
+     "text": "annual recurring revenue Sierra disclosed in October, after adding more than $150M in the third quarter",
      "s": [
-      2,
-      3
+      1
      ]
     },
     {
-     "stat": "Dec 11",
-     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules",
+     "stat": "~75x",
+     "text": "the valuation as a multiple of that run rate (derived: $30B divided by $400M)",
      "s": [
-      4
+      1
      ]
     }
    ],
    "open": {
-    "label": "No clear reason",
-    "text": "Our sources cite no company news behind the drop. The Fool's writer tied it to Washington's interest in open-weight AI, which is his reading, not a reported cause.",
+    "label": "Run rate",
+    "text": "Recurring revenue is an annualized figure, not revenue already earned. The round figures come from Sierra's announcement, as reported by IBTimes.",
     "s": [
      1
     ]
    },
    "chart": {
     "type": "vbars",
-    "title": "ANT, $ per share",
+    "title": "Sierra's valuation, $ billions",
     "data": [
      [
-      "IPO price",
-      83,
-      "$83",
+      "May 2026",
+      15,
+      "$15B+",
       "ctx"
      ],
      [
-      "Nov 19 close",
-      97.17,
-      "$97.17",
-      "ctx"
-     ],
-     [
-      "Nov 20 close",
-      88.91,
-      "$88.91",
-      "ctx"
-     ],
-     [
-      "Nov 23 close",
-      87.64,
-      "$87.64",
+      "Nov 2026",
+      30,
+      "$30B",
       "main"
      ]
     ]
    },
    "sources": [
     {
-     "name": "The Motley Fool",
+     "name": "IBTimes",
      "kind": "Press",
-     "desc": "Monday's close and range",
-     "url": "https://www.fool.com/investing/2026/11/23/the-nasdaq-just-had-its-best-day-since-april-2025-anthropic-stock-fell-anyway/"
-    },
-    {
-     "name": "Pomegra",
-     "kind": "Press",
-     "desc": "Close versus IPO and first day",
-     "url": "https://pomegra.io/news/anthropic-ant-slips-to-8764-as-tech-rally-passes-it-by"
-    },
-    {
-     "name": "Anthropic",
-     "kind": "Company",
-     "desc": "Pricing announcement, Nov 18",
-     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
-    },
-    {
-     "name": "FourWeekMBA",
-     "kind": "Press",
-     "desc": "FTSE Russell's Nov 13 notice",
-     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
+     "desc": "Sierra's announcement and ARR",
+     "url": "https://www.ibtimes.com/sierra-30-billion-valuation-ai-funding-round-3810100"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/anthropic-ipo/"
+   "url": "https://receiptswire.com/e/2026-11-25/sierra-round/"
   },
   {
    "id": "oracle-openai",
@@ -570,169 +872,66 @@
      "url": "https://ultrathink.ai/news/oracle-openai-contract-fully-funded-20-billion-raise"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/oracle-openai/"
+   "url": "https://receiptswire.com/e/2026-11-25/oracle-openai/"
   },
   {
-   "id": "sierra-round",
-   "topic": "Money",
-   "date": "Nov 23",
-   "tier": "ok",
-   "evidence": "Company, via press",
-   "headline": "Sierra raises $1.75 billion at a $30 billion valuation, about double its May price",
-   "dek": "The maker of customer-service agents said in October it had passed $400 million in annual recurring revenue.",
+   "id": "visa-agent-wallet",
+   "topic": "Agents",
+   "date": "Nov 22–23",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Visa tests a wallet that lets card-verified AI agents earn 10 to 50 OUSD per paid task",
+   "dek": "Visa Crypto Labs ties each agent to a cardholder's Visa card, so agents can be verified before they get paid.",
    "facts": [
     {
-     "stat": "$1.75B",
-     "text": "the Series F Sierra announced Monday, led by Greenoaks and Lightspeed, with Benchmark, Sequoia, GV and Tiger Global taking part",
+     "stat": "US",
+     "text": "approved US users with eligible Visa cards can verify an agent with their card and register it in Visa's Agent Directory",
      "s": [
       1
      ]
     },
     {
-     "stat": "$30B",
-     "text": "its new valuation, up from more than $15B in May, when it raised $950M",
+     "stat": "25+",
+     "text": "open tasks for verified agents on Taskmarket on Monday, such as paid surveys, market research and music composition",
      "s": [
       1
      ]
     },
     {
-     "stat": "$400M+",
-     "text": "annual recurring revenue Sierra disclosed in October, after adding more than $150M in the third quarter",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "~75x",
-     "text": "the valuation as a multiple of that run rate (derived: $30B divided by $400M)",
+     "stat": "10–50",
+     "text": "OUSD per task. Buyers pay in OUSD or USDC on the Tempo and Base networks if a submission is accepted",
      "s": [
       1
      ]
     }
    ],
    "open": {
-    "label": "Run rate",
-    "text": "Recurring revenue is an annualized figure, not revenue already earned. The round figures come from Sierra's announcement, as reported by IBTimes.",
+    "label": "Not on Visa's site",
+    "text": "The launch rests on a post by Visa Crypto Labs head Cuy Sheffield, as reported by The Block. The Block links no Visa release, and user numbers, fees and limits are not given.",
     "s": [
      1
     ]
    },
    "chart": {
-    "type": "vbars",
-    "title": "Sierra's valuation, $ billions",
-    "data": [
-     [
-      "May 2026",
-      15,
-      "$15B+",
-      "ctx"
-     ],
-     [
-      "Nov 2026",
-      30,
-      "$30B",
-      "main"
-     ]
-    ]
-   },
-   "sources": [
-    {
-     "name": "IBTimes",
-     "kind": "Press",
-     "desc": "Sierra's announcement and ARR",
-     "url": "https://www.ibtimes.com/sierra-30-billion-valuation-ai-funding-round-3810100"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-24/sierra-round/"
-  },
-  {
-   "id": "cognition-round",
-   "topic": "Money",
-   "date": "Nov 20",
-   "tier": "warn",
-   "evidence": "Press report",
-   "headline": "Cognition is in talks to raise $2 billion or more at a $75 billion valuation, Bloomberg says",
-   "dek": "The maker of the Devin coding agent was valued at $48 billion in September and $26 billion in May.",
-   "facts": [
-    {
-     "stat": "$75B",
-     "text": "the potential valuation, people familiar with the talks told Bloomberg. Talks are ongoing and details could change",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "$48B",
-     "text": "Cognition's valuation in its September Series E of more than $2B, led by Andreessen Horowitz and Accel",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "~$900M",
-     "text": "Devin's run-rate revenue by September, up from $492M in May, per Cognition's disclosures",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "56%",
-     "text": "the rise over the September valuation (derived: $75B divided by $48B)",
-     "s": [
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Unconfirmed",
-    "text": "Cognition did not respond to Reuters, and no lead investor has been named.",
-    "s": [
-     1,
-     2
-    ]
-   },
-   "chart": {
-    "type": "vbars",
-    "title": "Cognition's valuation, $ billions",
-    "data": [
-     [
-      "May",
-      26,
-      "$26B",
-      "ctx"
-     ],
-     [
-      "Sept",
-      48,
-      "$48B",
-      "ctx"
-     ],
-     [
-      "In talks",
-      75,
-      "$75B",
-      "guide"
-     ]
+    "type": "diagram",
+    "zone": "Visa CLI wallet, test",
+    "nodes": [
+     "Card on file",
+     "Agent Directory",
+     "Taskmarket task"
     ],
-    "note": "The hatched bar is reported, not closed."
+    "target": "OUSD/USDC",
+    "target_sub": "Tempo, Base"
    },
    "sources": [
     {
-     "name": "Unite.AI",
+     "name": "The Block",
      "kind": "Press",
-     "desc": "Bloomberg report carried by Reuters",
-     "url": "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/"
-    },
-    {
-     "name": "Jawlah",
-     "kind": "Press",
-     "desc": "Round size and prior rounds",
-     "url": "https://jawlah.co/en/68475"
+     "desc": "Visa's experimental agent wallet",
+     "url": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/cognition-round/"
+   "url": "https://receiptswire.com/e/2026-11-25/visa-agent-wallet/"
   },
   {
    "id": "chatgpt-wallet",
@@ -837,7 +1036,7 @@
     "date": "Nov 19",
     "text": "We said Visa, Mastercard and Amex built ChatGPT Wallet with OpenAI, that every purchase needs a biometric check, and that Visa's 20% to 30% trust figure covered Singapore, Australia and Japan. Our sources say the wallet pays through the major card networks, each purchase needs a security check such as Face ID, and the figure is not broken out by country."
    },
-   "url": "https://receiptswire.com/e/2026-11-24/chatgpt-wallet/"
+   "url": "https://receiptswire.com/e/2026-11-25/chatgpt-wallet/"
   },
   {
    "id": "walmart-agents",
@@ -932,184 +1131,42 @@
      "url": "https://www.customerexperiencedive.com/news/walmart-is-building-an-omnichannel-environment-around-agentic-ai/875251/"
     }
    ],
-   "url": "https://receiptswire.com/e/2026-11-24/walmart-agents/"
-  },
-  {
-   "id": "anthropic-efs",
-   "topic": "Agents",
-   "date": "Nov 23",
-   "tier": "ok",
-   "evidence": "Company, via press",
-   "disclosure": true,
-   "headline": "Anthropic opens misuse monitoring that keeps data in customers' clouds after a 100-firm beta",
-   "dek": "The system watches across many requests, since agents can split an attack into small steps that each look harmless.",
-   "facts": [
-    {
-     "stat": "100+",
-     "text": "customers in the private beta, including Bridgewater, Salesforce and Stripe. It is now in public beta",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Kept local",
-     "text": "prompts and replies stay in the customer's AWS or Google Cloud account, and neither Anthropic nor the cloud keeps them",
-     "s": [
-      1,
-      2
-     ]
-    },
-    {
-     "stat": "7 days",
-     "text": "for a customer's security team to review a flagged case, or it risks losing access",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Free",
-     "text": "to use; customers pay their cloud provider for storage",
-     "s": [
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Sources differ",
-    "text": "TNW says Anthropic began keeping data for 30 days with Fable 5. PYMNTS says a June policy allowed 30 days, or up to two years for flagged logs.",
-    "s": [
-     1,
-     2
-    ]
-   },
-   "chart": {
-    "type": "diagram",
-    "title": "Where the monitoring runs",
-    "zone": "Customer's AWS or Google",
-    "nodes": [
-     "Prompts, replies",
-     "Misuse monitor",
-     "Flagged case"
-    ],
-    "target": "Security",
-    "target_sub": "7-day review"
-   },
-   "sources": [
-    {
-     "name": "The Next Web",
-     "kind": "Press",
-     "desc": "Launch details and beta customers",
-     "url": "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta"
-    },
-    {
-     "name": "PYMNTS",
-     "kind": "Press",
-     "desc": "Release terms and retention history",
-     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-availability-of-ai-safety-monitoring-with-zero-data-retention/"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-24/anthropic-efs/"
-  },
-  {
-   "id": "klarna-adyen",
-   "topic": "Agents",
-   "date": "Nov 20",
-   "tier": "ok",
-   "evidence": "Company, via press",
-   "headline": "Klarna becomes the first non-card way to pay when AI agents check out through Adyen",
-   "dek": "Merchants that already offer Klarna through Adyen can switch it on without new integration work.",
-   "facts": [
-    {
-     "stat": "First",
-     "text": "payment option other than cards on Adyen Agentic, which launched in June for large US merchants",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "122M+",
-     "text": "active Klarna users, with more than 1.35 million merchants and 3.8 million transactions a day",
-     "s": [
-      1
-     ]
-    },
-    {
-     "stat": "Confirm",
-     "text": "Shoppers must confirm a purchase before it is processed, and can pay in full or in interest-free installments",
-     "s": [
-      1
-     ]
-    }
-   ],
-   "open": {
-    "label": "Missing numbers",
-    "text": "Neither company said how many agent checkouts run through Adyen Agentic or which merchants use it.",
-    "s": [
-     1
-    ]
-   },
-   "chart": {
-    "type": "diagram",
-    "title": "How an agent checkout with Klarna works",
-    "zone": "Adyen Agentic, US",
-    "nodes": [
-     "Agent checks out",
-     "Shopper confirms",
-     "Klarna or card"
-    ],
-    "target": "Merchant",
-    "target_sub": "via Adyen"
-   },
-   "sources": [
-    {
-     "name": "Digital Transactions",
-     "kind": "Press",
-     "desc": "Klarna and Adyen announcement",
-     "url": "https://www.digitaltransactions.net/adyen-recruits-klarna-for-payments-on-adyen-agentic"
-    }
-   ],
-   "url": "https://receiptswire.com/e/2026-11-24/klarna-adyen/"
+   "url": "https://receiptswire.com/e/2026-11-25/walmart-agents/"
   }
  ],
  "brief": [
   {
-   "id": "nvidia",
-   "kick": "Chips",
-   "big": "$952B",
-   "line": "Nvidia's one-day gain in value after its board reinstated Jensen Huang."
-  },
-  {
    "id": "ai-selloff",
    "kick": "Money",
-   "big": "6.51%",
-   "line": "The Nasdaq's rise on Monday, its best day since April 2025."
+   "big": "7.9%",
+   "line": "The chip index's fall on Tuesday, a day after Monday's rally."
   },
   {
-   "id": "crowdstrike-zscaler",
-   "kick": "Money",
-   "big": "$43.9B",
-   "line": "What CrowdStrike's all-stock offer values Zscaler at."
+   "id": "dell",
+   "kick": "Chips",
+   "big": "$132.3B",
+   "line": "Dell's AI backlog after $60.2 billion of orders in one quarter."
   },
   {
-   "id": "amazon-decart",
-   "kick": "Money",
-   "big": "$7.5B",
-   "line": "Calcalist's value for Amazon's deal for Decart's chip software and team."
+   "id": "nvidia",
+   "kick": "Chips",
+   "big": "5.86%",
+   "line": "Nvidia's drop on Tuesday, after adding about $952 billion Monday."
   },
   {
-   "id": "sierra-round",
+   "id": "megaspeed",
+   "kick": "Chips",
+   "big": "7",
+   "line": "Firms the US blacklisted over suspected Nvidia chip diversion."
+  },
+  {
+   "id": "anthropic-ipo",
    "kick": "Money",
-   "big": "$30B",
-   "line": "Sierra's new valuation, about double its price in May."
+   "big": "$83",
+   "line": "Anthropic's IPO price. ANT closed below it on Tuesday."
   }
  ],
  "coming": [
-  [
-   "Tue",
-   "Nov 24",
-   "Dell reports earnings",
-   "ai-selloff"
-  ],
   [
    "Wed",
    "Nov 25",
