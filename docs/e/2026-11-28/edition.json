@@ -1,0 +1,1248 @@
+{
+ "date": "2026-11-28",
+ "published_at": "2026-11-28T05:49-06:00",
+ "url": "https://receiptswire.com/e/2026-11-28/",
+ "stories": [
+  {
+   "id": "holiday-ai-traffic",
+   "topic": "Agents",
+   "date": "Nov 26–27",
+   "tier": "ok",
+   "evidence": "Company data, via press",
+   "headline": "Thanksgiving online sales hit a record $7.1 billion as AI-referred visits rose 162%, Adobe says",
+   "dek": "The first holiday actuals show AI assistants sending more shoppers than Adobe forecast, and those visits buying more often.",
+   "facts": [
+    {
+     "stat": "$7.1B",
+     "text": "US online spending on Thanksgiving Day, up 10.4% from a year earlier and above Adobe's $6.9B forecast",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "162%",
+     "text": "the rise in AI-referred visits to US retail sites on Thanksgiving, against the 159% Adobe had projected",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "74%",
+     "text": "how much better AI-referred visits converted into purchases than other traffic, per Adobe's data as reported",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "$9.7B",
+     "text": "Black Friday online spending through the afternoon, up 12.8%. Adobe now expects $13.0B to $13.4B for the day",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Visits, not agent purchases",
+    "text": "Adobe counts visits referred by AI tools, not purchases agents complete. The Black Friday total is not final, and these figures come via press write-ups of Adobe's data rather than an Adobe release we could read.",
+    "s": [
+     2,
+     3
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "US online spending, Cyber Week 2026, $ billions",
+    "data": [
+     [
+      "Thanksgiving (actual)",
+      7.1,
+      "$7.1B",
+      "main"
+     ],
+     [
+      "Black Friday (forecast)",
+      13.0,
+      "$13.0-13.4B",
+      "guide"
+     ],
+     [
+      "Saturday (forecast)",
+      6.1,
+      "$6.1B",
+      "guide"
+     ],
+     [
+      "Sunday (forecast)",
+      6.4,
+      "$6.4B",
+      "guide"
+     ],
+     [
+      "Cyber Monday (forecast)",
+      15.1,
+      "$15.1B",
+      "guide"
+     ]
+    ],
+    "note": "Adobe Analytics. Hatched bars are Adobe forecasts; Black Friday drawn at the low end of its range."
+   },
+   "sources": [
+    {
+     "name": "Seeking Alpha",
+     "kind": "Press",
+     "desc": "Thanksgiving actual, Nov 27",
+     "url": "https://seekingalpha.com/news/4677049-black-friday-came-early-for-retailers-as-thanksgiving-delivered-record-71b-in-sales"
+    },
+    {
+     "name": "Pomegra",
+     "kind": "Press",
+     "desc": "Adobe Thanksgiving data, AI traffic",
+     "url": "https://pomegra.io/news/adobe-thanksgiving-online-sales-hit-record-71b-in-2026"
+    },
+    {
+     "name": "Rallies",
+     "kind": "Press",
+     "desc": "Black Friday to date, forecasts",
+     "url": "https://rallies.ai/news/adobe-says-expected-consumer-spending-of-130-billion-134-billion-could-set-black-friday-online-record-476fe45e5aa95561"
+    },
+    {
+     "name": "Adobe",
+     "kind": "Company",
+     "desc": "2026 holiday shopping report",
+     "url": "https://business.adobe.com/resources/holiday-shopping-report.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/holiday-ai-traffic/"
+  },
+  {
+   "id": "blackwell-shanghai",
+   "topic": "Chips",
+   "date": "Nov 27",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Banned Nvidia Blackwell racks turn up at a Shanghai site tied to Megaspeed, Bloomberg says",
+   "dek": "Chinese loan filings list a GB300 rack as collateral, the clearest sign yet that top US chips are reaching China despite the ban.",
+   "facts": [
+    {
+     "stat": "96M yuan",
+     "text": "about $14M, the loan Shanghai Shuoyao took from Shanghai Innovation Bank with a GB300 NVL72 rack as collateral",
+     "s": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "stat": "72",
+     "text": "Blackwell Ultra chips in a GB300 NVL72 rack, alongside 36 Grace processors",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "90M yuan",
+     "text": "a loan to Shanghai Kezhan, which disclosed a GB200 server at the same Yangtze River Delta Project site",
+     "s": [
+      1,
+      3
+     ]
+    },
+    {
+     "stat": "Gigabyte",
+     "text": "the Taiwan maker Bloomberg traced the rack to through a public warranty database. It declined to name the buyer",
+     "s": [
+      1,
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "How it got there",
+    "text": "Bloomberg found no evidence that Megaspeed itself diverted the hardware. Shuoyao calls its Megaspeed work ordinary cooperation, Megaspeed denies wrongdoing, and Nvidia has not commented in these reports.",
+    "s": [
+     3,
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Shanghai loans backed by or tied to Nvidia hardware, million yuan",
+    "data": [
+     [
+      "Shanghai Longjie (Hopper)",
+      200,
+      "200M",
+      "ctx"
+     ],
+     [
+      "Shanghai Shuoyao (GB300)",
+      96,
+      "96M",
+      "main"
+     ],
+     [
+      "Shanghai Kezhan (GB200)",
+      90,
+      "90M",
+      "main"
+     ]
+    ],
+    "note": "Per Bloomberg, as reported by Investing.com. Longjie shares Shuoyao's parent."
+   },
+   "sources": [
+    {
+     "name": "Investing.com via Yahoo Finance",
+     "kind": "Press",
+     "desc": "Bloomberg findings, loans, owners",
+     "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-blackwell-chips-found-shanghai-124008621.html"
+    },
+    {
+     "name": "The Decoder",
+     "kind": "Press",
+     "desc": "Bloomberg report summary, Nov 27",
+     "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+    },
+    {
+     "name": "Anadolu Agency",
+     "kind": "Press",
+     "desc": "Rack specs, responses",
+     "url": "https://www.aa.com.tr/en/science-technology/nvidia-blackwell-chips-found-at-china-data-center-linked-to-alice-huang-report/4140762"
+    },
+    {
+     "name": "Gizmodo",
+     "kind": "Press",
+     "desc": "Site and Megaspeed ties",
+     "url": "https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/blackwell-shanghai/"
+  },
+  {
+   "id": "nvidia-sea-halt",
+   "topic": "Chips",
+   "date": "Nov 26",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Nvidia halts AI server shipments to four Southeast Asian countries, the FT reports",
+   "dek": "Dell and Supermicro told buyers in Malaysia, Singapore, Thailand and Indonesia their orders will not ship as new US chip rules bite.",
+   "facts": [
+    {
+     "stat": "4",
+     "text": "countries, Malaysia, Singapore, Thailand and Indonesia, where Nvidia told partners including Dell and Supermicro to stop shipping servers with its chips",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$104B",
+     "text": "revenue Nvidia booked through its Singapore subsidiary in 2025, up 72%, per company accounts cited by the FT. Some of it is Taiwan and China revenue",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "~$500M",
+     "text": "in loans banks halted to Singapore cloud provider Aolani, which planned to rent computing to ByteDance, the FT reported",
+     "s": [
+      2
+     ]
+    },
+    {
+     "stat": "90 days",
+     "text": "what cloud providers have to apply for a license under the new US rules. A cloud executive called it chaos",
+     "s": [
+      2,
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Anonymous and maybe temporary",
+    "text": "The report rests on three people familiar with the matter. Nvidia, Dell and Supermicro did not respond to Reuters, and no source says how long the halt lasts. Bloomberg put Aolani's loan at $480M.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Nvidia revenue booked in Singapore, $ billions",
+    "data": [
+     [
+      "2024*",
+      60.5,
+      "~$60.5B",
+      "ctx"
+     ],
+     [
+      "2025",
+      104,
+      "$104B",
+      "main"
+     ]
+    ],
+    "note": "Per the FT, from company accounts. *Derived: $104B divided by 1.72."
+   },
+   "sources": [
+    {
+     "name": "Reuters via Business Standard",
+     "kind": "Press",
+     "desc": "Shipment halt, citing the FT",
+     "url": "https://www.business-standard.com/world-news/nvidia-halts-shipments-of-ai-servers-to-four-southeast-asian-countries-126112601562_1.html"
+    },
+    {
+     "name": "The Decoder",
+     "kind": "Press",
+     "desc": "Partners, Aolani loans, licenses",
+     "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    },
+    {
+     "name": "The National",
+     "kind": "Press",
+     "desc": "Singapore unit revenue",
+     "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/nvidia-sea-halt/"
+  },
+  {
+   "id": "asia-dc-loans",
+   "topic": "Chips",
+   "date": "Nov 26",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Lenders stall a $6.6 billion loan and other Asian data center deals after US chip curbs",
+   "dek": "Banks are reviewing deals tied to Bytedance, Alibaba and Tencent, Bloomberg reports, an early sign of how far the new rules reach.",
+   "facts": [
+    {
+     "stat": "$6.6B",
+     "text": "the upsized loan Bain Capital's Bridge Data Centres is seeking. Some lenders are delaying it for more due diligence. Its Malaysian sites serve Bytedance",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "5",
+     "text": "countries, Singapore, Malaysia, Indonesia, Thailand and Brazil, where buyers now need a US license for advanced American AI chips under a rule announced last week",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$300M",
+     "text": "loan to GMI Cloud for chips for a Thai data center Tencent would use. At least one fund has dropped out",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$49B+",
+     "text": "lent to Asia Pacific data center companies since 2023, up from virtually zero, by Bloomberg's count",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Anonymous sourcing",
+    "text": "The loan details come from people familiar with the talks. The companies declined to comment or did not reply. Sites already leasing a lot of compute to Chinese firms get 90 days to obtain a separate license.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Deals delayed or under review, $ billions",
+    "data": [
+     [
+      "Bridge Data Centres loan",
+      6.6,
+      "$6.6B",
+      "main"
+     ],
+     [
+      "UOB risk transfer",
+      1.0,
+      "~$1B",
+      "main"
+     ],
+     [
+      "Aolani loan",
+      0.48,
+      "$480M",
+      "main"
+     ],
+     [
+      "Digital Halo loan",
+      0.372,
+      "$372M",
+      "main"
+     ],
+     [
+      "GMI Cloud loan",
+      0.3,
+      "$300M",
+      "main"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Bloomberg via Swissinfo",
+     "kind": "Press",
+     "desc": "Data center loans stall, Nov 26",
+     "url": "https://www.swissinfo.ch/eng/billions-in-data-center-deals-grind-to-halt-after-chip-curbs/92440076"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/asia-dc-loans/"
+  },
+  {
+   "id": "muse-amazon",
+   "topic": "Agents",
+   "date": "Nov 25",
+   "tier": "warn",
+   "evidence": "Press report",
+   "headline": "Meta's Muse to drive about 70% of agent shopping traffic as Amazon weighs ending its block",
+   "dek": "HUMAN Security forecasts agent traffic at 150 times last Cyber Week, while Amazon and Meta discuss letting Muse back in.",
+   "facts": [
+    {
+     "stat": "~70%",
+     "text": "of AI agent traffic to retail sites this Cyber Week that HUMAN Security expects to come from Meta's Muse",
+     "s": [
+      4
+     ]
+    },
+    {
+     "stat": "150x",
+     "text": "HUMAN's forecast for agent traffic from Nov 26 to 30, compared with last year's Cyber Week",
+     "s": [
+      3,
+      4
+     ]
+    },
+    {
+     "stat": "~$70B",
+     "text": "Amazon's yearly advertising business, which shopping agents can bypass by skipping sponsored listings",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "4",
+     "text": "big retailers already letting Muse search and buy: Walmart, Best Buy, Gap and Sephora",
+     "s": [
+      2,
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Forecasts and no statements",
+    "text": "HUMAN's figures are forecasts, not measured traffic, and its method is not public. Neither Amazon nor Meta has commented on the talks, which trace to Fortune.",
+    "s": [
+     3,
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Shoppers in the US, UK, Canada and Australia, %",
+    "data": [
+     [
+      "Tried a personal AI agent",
+      31,
+      "31%",
+      "ctx"
+     ],
+     [
+      "Used one at checkout",
+      6,
+      "~6%",
+      "main"
+     ]
+    ],
+    "max": 100,
+    "note": "Salesforce survey, as reported by Yahoo Finance."
+   },
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "kind": "Press",
+     "desc": "Amazon and Meta talks, Nov 25",
+     "url": "https://finance.yahoo.com/technology/article/amazon-and-meta-are-negotiating-the-future-of-ai-shopping-consumers-arent-quite-there-yet-144215428.html"
+    },
+    {
+     "name": "Android Headlines",
+     "kind": "Press",
+     "desc": "Talks, CEO approval, partners",
+     "url": "https://www.androidheadlines.com/2026/11/amazon-meta-talks-end-muse-ai-shopping-block.html"
+    },
+    {
+     "name": "Adweek",
+     "kind": "Press",
+     "desc": "HUMAN Security forecast, Nov 25",
+     "url": "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/"
+    },
+    {
+     "name": "MyAllies",
+     "kind": "Press",
+     "desc": "HUMAN release summary, Muse share",
+     "url": "https://news.apps.myallies.com/article/617307/ai-agent-traffic-projected-to-increase-150x-during-cyber-week-according-to"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/muse-amazon/"
+  },
+  {
+   "id": "nvidia",
+   "topic": "Chips",
+   "date": "Nov 23–27",
+   "tier": "ok",
+   "evidence": "Company + press",
+   "headline": "Nvidia ends the week at $150.49, well below Monday's $165.05, before Huang's House interview",
+   "dek": "S&P has its rating on watch, and Friday's Shanghai report adds to the export questions lawmakers will raise on Dec 1.",
+   "facts": [
+    {
+     "stat": "31.48%",
+     "text": "Nvidia's rise on Nov 23, to $165.05, after the board reinstated Huang, its largest one-day percentage gain in more than two decades",
+     "s": [
+      2,
+      1
+     ]
+    },
+    {
+     "stat": "$150.49",
+     "text": "Friday's close, up 0.8% on the day and 8.8% below Monday's close (derived), after a 5.86% fall to $155.38 on Tuesday",
+     "s": [
+      6,
+      5
+     ]
+    },
+    {
+     "stat": "AA",
+     "text": "Nvidia's issuer rating, which S&P put on CreditWatch Negative over board independence and succession. A one-notch cut could come within 90 days",
+     "s": [
+      4
+     ]
+    },
+    {
+     "stat": "Dec 1",
+     "text": "Huang's closed-door interview before three House committees, including Intelligence. General counsel Tim Teter follows the next day",
+     "s": [
+      3
+     ]
+    }
+   ],
+   "open": {
+    "label": "Unresolved",
+    "text": "A committee of independent directors is still investigating reports that Huang was the target of a foreign intelligence effort, with no end date.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "Nvidia, $ per share",
+    "data": [
+     [
+      "Nov 20*",
+      125.53,
+      "~$125.53",
+      "ctx"
+     ],
+     [
+      "Nov 23",
+      165.05,
+      "$165.05",
+      "ctx"
+     ],
+     [
+      "Nov 24",
+      155.38,
+      "$155.38",
+      "ctx"
+     ],
+     [
+      "Nov 25",
+      149.3,
+      "$149.30",
+      "ctx"
+     ],
+     [
+      "Nov 27",
+      150.49,
+      "$150.49",
+      "main"
+     ]
+    ],
+    "note": "Closing prices. *Nov 20 derived from Monday's 31.48% gain. Nov 25 is Friday's close minus its $1.19 gain."
+   },
+   "sources": [
+    {
+     "name": "Nvidia",
+     "kind": "Company",
+     "desc": "Board reinstates Huang, Nov 23",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Nvidia's close and record gain",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/"
+    },
+    {
+     "name": "ABC News",
+     "kind": "Press",
+     "desc": "Testimony dates and Trump's comments",
+     "url": "https://abcnews.com/Business/nvidia-reinstates-jensen-huang-ceo/story?id=138375516"
+    },
+    {
+     "name": "TradingKey",
+     "kind": "Press",
+     "desc": "Wall Street close, Nov 25",
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262322728-us-stock-dow-erases-1100-point-loss-to-close-higher-tradingkey"
+    },
+    {
+     "name": "Kotak Neo",
+     "kind": "Press",
+     "desc": "Nvidia's Tuesday close and chip index",
+     "url": "https://www.kotakneo.com/news/stocks/nvidia-share-price-falls-after-rally-ai-spending-trade-concerns/"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Friday's close, Nov 27",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/nvidia/"
+  },
+  {
+   "id": "anthropic-ipo",
+   "topic": "Money",
+   "date": "Nov 27",
+   "tier": "ok",
+   "evidence": "Market data",
+   "disclosure": true,
+   "headline": "Anthropic jumps 10.98% to $91.88, back above its $83 IPO price",
+   "dek": "ANT rose with a broad AI rally in Friday's short session. Up to 303 million more shares can be sold from Dec 15.",
+   "facts": [
+    {
+     "stat": "$91.88",
+     "text": "ANT's close on Nov 27, up $9.09, after two sessions below the $83 IPO price",
+     "s": [
+      1,
+      2,
+      6
+     ]
+    },
+    {
+     "stat": "$84.51-93.39",
+     "text": "Friday's trading range. Volume was about 143.6M shares, well under the 353.1M average",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "303M",
+     "text": "shares that can unlock on Dec 15, after about 315M were freed on the first trading day",
+     "s": [
+      3
+     ]
+    },
+    {
+     "stat": "Dec 11",
+     "text": "when FTSE Russell will add Anthropic after the close, if it meets fast entry rules",
+     "s": [
+      5
+     ]
+    }
+   ],
+   "open": {
+    "label": "No company news",
+    "text": "None of the reports ties the jump to Anthropic news. They credit a broad return to risky assets: the Nasdaq rose 2.31% on Friday and 6.7% for the week. The 52-week high is $115.10.",
+    "s": [
+     1,
+     6
+    ]
+   },
+   "chart": {
+    "type": "vbars",
+    "title": "ANT, $ per share",
+    "data": [
+     [
+      "IPO",
+      83,
+      "$83",
+      "ctx"
+     ],
+     [
+      "Nov 19",
+      97.17,
+      "$97.17",
+      "ctx"
+     ],
+     [
+      "Nov 23",
+      87.64,
+      "$87.64",
+      "ctx"
+     ],
+     [
+      "Nov 24*",
+      81.91,
+      "~$81.91",
+      "ctx"
+     ],
+     [
+      "Nov 25",
+      82.79,
+      "$82.79",
+      "ctx"
+     ],
+     [
+      "Nov 27",
+      91.88,
+      "$91.88",
+      "main"
+     ]
+    ],
+    "note": "Closing prices. *Nov 24 derived from Wednesday's close and gain."
+   },
+   "sources": [
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Friday's close, range, volume",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/"
+    },
+    {
+     "name": "StockTitan",
+     "kind": "Press",
+     "desc": "Market live blog, Nov 27",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+    },
+    {
+     "name": "Oninvest",
+     "kind": "Press",
+     "desc": "Lock-up schedule, Bloomberg",
+     "url": "https://en.oninvest.com/article/anthropic-s-stock-jumped-11-and-once-again-surpassed-its-ipo-price"
+    },
+    {
+     "name": "Anthropic",
+     "kind": "Company",
+     "desc": "Pricing announcement, Nov 18",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "FourWeekMBA",
+     "kind": "Press",
+     "desc": "FTSE Russell's Nov 13 notice",
+     "url": "https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/"
+    },
+    {
+     "name": "Investopedia via Yahoo Finance",
+     "kind": "Press",
+     "desc": "Index moves, Nov 27",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/anthropic-ipo/"
+  },
+  {
+   "id": "dell",
+   "topic": "Chips",
+   "date": "Nov 24",
+   "tier": "ok",
+   "evidence": "Company + SEC",
+   "headline": "Dell's AI server backlog reaches $132.3 billion after $60.2 billion of orders in one quarter",
+   "dek": "Revenue doubled to $54.9 billion and Dell raised its full-year target to $202 billion, a read on how much AI hardware is still on order.",
+   "facts": [
+    {
+     "stat": "$132.3B",
+     "text": "Dell's AI backlog at the end of the quarter, after it booked $60.2B of AI orders",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$22.0B",
+     "text": "AI server revenue in the quarter, up 291% from $5.6B a year earlier",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "$54.9B",
+     "text": "total revenue, up 103%, against about $49.3B Wall Street expected. Shares rose nearly 4% after hours",
+     "s": [
+      1,
+      3
+     ]
+    },
+    {
+     "stat": "$202B",
+     "text": "full-year revenue guidance, raised from $192B, including $78B of AI server revenue, up from $74B",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Backlog is not revenue",
+    "text": "Dell does not say how much of the backlog ships this fiscal year or what customers can cancel. PC revenue grew 3% and its operating income fell 6%.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Dell, fiscal Q3 2027, $ billions",
+    "data": [
+     [
+      "AI backlog",
+      132.3,
+      "$132.3B",
+      "main"
+     ],
+     [
+      "AI orders booked",
+      60.2,
+      "$60.2B",
+      "main"
+     ],
+     [
+      "Total revenue",
+      54.9,
+      "$54.9B",
+      "ctx"
+     ],
+     [
+      "AI server revenue",
+      22.0,
+      "$22.0B",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Dell Technologies",
+     "kind": "Company",
+     "desc": "Q3 fiscal 2027 results, Nov 24",
+     "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+    },
+    {
+     "name": "SEC",
+     "kind": "Filing",
+     "desc": "Form 8-K, exhibit 99.1",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000050/exhibit991earnings8kq3fy27.htm"
+    },
+    {
+     "name": "Proactive via Yahoo Finance",
+     "kind": "Press",
+     "desc": "Estimates and after-hours move",
+     "url": "https://finance.yahoo.com/technology/articles/dell-shares-rise-earnings-beat-213400130.html"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/dell/"
+  },
+  {
+   "id": "megaspeed",
+   "topic": "Chips",
+   "date": "Nov 23",
+   "tier": "warn",
+   "evidence": "Press reports",
+   "headline": "US blacklists Megaspeed and six linked firms, one an Alibaba unit, over chip diversion risk",
+   "dek": "Exports to the seven now need a license that will normally be denied. Megaspeed sits at the center of the reports around Jensen Huang.",
+   "facts": [
+    {
+     "stat": "7",
+     "text": "entities added to the Entity List by the Commerce Department's Bureau of Industry and Security: Megaspeed International plus six others",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "3",
+     "text": "countries named: three of the six others are in Malaysia, two in Singapore and one in Thailand. Megaspeed is based in Singapore",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Denial",
+     "text": "the presumption for license requests for any item under US export rules, including Nvidia's top GPUs. Shipments already under way get 30 days",
+     "s": [
+      2,
+      1
+     ]
+    },
+    {
+     "stat": "$4.2B",
+     "text": "what Alibaba's Singapore unit Apex Enterprise Solutions prepaid Megaspeed and others to rent computing capacity, a person familiar told Reuters",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Disputed",
+    "text": "BIS cites a risk of diversion, not proven diversion. Alibaba calls Apex's listing erroneous, Megaspeed calls itself lawful, and Malaysia says one listed firm is not Malaysian.",
+    "s": [
+     2,
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Entities added, by country named",
+    "data": [
+     [
+      "Singapore, incl. Megaspeed",
+      3,
+      "3",
+      "main"
+     ],
+     [
+      "Malaysia",
+      3,
+      "3",
+      "main"
+     ],
+     [
+      "Thailand",
+      1,
+      "1",
+      "main"
+     ]
+    ],
+    "max": 3,
+    "note": "Per Al Jazeera. Malaysia disputes one listing."
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "kind": "Press",
+     "desc": "Megaspeed Entity List listing",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list"
+    },
+    {
+     "name": "ShiftDelete",
+     "kind": "Press",
+     "desc": "Listed firms, license terms, Alibaba reply",
+     "url": "https://shiftdelete.net/en/us-entity-list-megaspeed-alibaba-apex-nvidia"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/megaspeed/"
+  },
+  {
+   "id": "spacex-starmind",
+   "topic": "Chips",
+   "date": "Nov 25",
+   "tier": "ok",
+   "evidence": "Regulator + press",
+   "headline": "FCC clears SpaceX to launch up to 1 million satellites for data centers in orbit",
+   "dek": "It is the first US approval of an orbital data center network. Analysts call the idea technically and economically unproven.",
+   "facts": [
+    {
+     "stat": "1 million",
+     "text": "satellites authorized for SpaceX's Starmind network, flying between 500 and 1,002 km up",
+     "s": [
+      1,
+      2
+     ]
+    },
+    {
+     "stat": "250 kW",
+     "text": "the most computing power per satellite in SpaceX's description, 175 kW on average",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "2027",
+     "text": "when SpaceX plans to start launching them, COO Gwynne Shotwell told investors in October",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Pending",
+     "text": "the FCC's approval of debris plans for satellites above 600 km. SpaceX wants a waiver from the five-year deorbit rule",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Deadlines unclear",
+    "text": "Via Satellite reports milestones from 2033 to 2040, while TechCrunch says seven years for the first satellite and 14 for all of them. Amazon, Viasat and astronomers had asked the FCC to deny the plan.",
+    "s": [
+     1,
+     2
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Orbital data center filings, satellites",
+    "data": [
+     [
+      "SpaceX Starmind (approved)",
+      1000000,
+      "1,000,000",
+      "main"
+     ],
+     [
+      "Starcloud (pending)",
+      88000,
+      "88,000",
+      "ctx"
+     ],
+     [
+      "Blue Origin Sunrise (pending)",
+      51600,
+      "51,600",
+      "ctx"
+     ]
+    ]
+   },
+   "sources": [
+    {
+     "name": "Via Satellite",
+     "kind": "Press",
+     "desc": "FCC decision, milestones",
+     "url": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
+    },
+    {
+     "name": "TechCrunch",
+     "kind": "Press",
+     "desc": "Conditions and objections",
+     "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/spacex-starmind/"
+  },
+  {
+   "id": "crowdstrike-zscaler",
+   "topic": "Money",
+   "date": "Nov 23",
+   "tier": "ok",
+   "evidence": "SEC filing",
+   "headline": "CrowdStrike agrees to buy Zscaler for about $43.9 billion in stock",
+   "dek": "CrowdStrike says its product for securing AI agents passed $100 million in annual recurring revenue in its first year.",
+   "facts": [
+    {
+     "stat": "$43.9B",
+     "text": "the value CrowdStrike's all-stock offer puts on Zscaler, announced with its quarterly results",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "1.135",
+     "text": "CrowdStrike shares for each Zscaler share",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$100M+",
+     "text": "annual recurring revenue of Falcon Guardian, which secures AI agents, in its first year, CEO George Kurtz said",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "17.67%",
+     "text": "Zscaler's rise on Monday, while CrowdStrike fell 8.92% on a day the Nasdaq rose 6.51%",
+     "s": [
+      2
+     ]
+    }
+   ],
+   "open": {
+    "label": "Not closed",
+    "text": "The deal needs regulatory approvals and a Zscaler shareholder vote. CrowdStrike's release gives no expected closing date or premium.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Monday's moves, % change",
+    "data": [
+     [
+      "Zscaler",
+      17.67,
+      "+17.67%",
+      "main"
+     ],
+     [
+      "CrowdStrike",
+      8.92,
+      "-8.92%",
+      "ctx"
+     ]
+    ],
+    "note": "The grey bar is a fall."
+   },
+   "sources": [
+    {
+     "name": "CrowdStrike",
+     "kind": "Filing",
+     "desc": "8-K exhibit: results and deal terms",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+     "name": "The Motley Fool",
+     "kind": "Press",
+     "desc": "Monday's share moves",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/crowdstrike-zscaler/"
+  },
+  {
+   "id": "canada-compute",
+   "topic": "Chips",
+   "date": "Nov 26",
+   "tier": "ok",
+   "evidence": "Government",
+   "headline": "Canada adds $700 million to its AI compute fund, paying up to 80% at sovereign providers",
+   "dek": "Companies get more of their compute paid for if they buy it from Canadian-owned clouds rather than foreign ones operating in Canada.",
+   "facts": [
+    {
+     "stat": "$700M",
+     "text": "the additional investment in the AI Compute Access Fund, on top of the initial $300M, about $1B in all (derived), in Canadian dollars",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "80%",
+     "text": "of eligible compute costs covered at a sovereign provider: Canadian-owned, incorporated and run in Canada. Other Canadian-based providers get 50%",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "$5M",
+     "text": "the largest project size, with compute costs from $100,000, spent by March 31, 2030",
+     "s": [
+      1
+     ]
+    },
+    {
+     "stat": "Dec 17",
+     "text": "the deadline for statements of interest in the current call, which targets health and life sciences",
+     "s": [
+      1
+     ]
+    }
+   ],
+   "open": {
+    "label": "Undated top-up",
+    "text": "The program page, updated Nov 26, does not say when the $700M was added or how fast it will be spent.",
+    "s": [
+     1
+    ]
+   },
+   "chart": {
+    "type": "hbars",
+    "title": "Share of compute costs Canada covers, %",
+    "data": [
+     [
+      "Sovereign provider",
+      80,
+      "80%",
+      "main"
+     ],
+     [
+      "Other Canadian-based provider",
+      50,
+      "50%",
+      "ctx"
+     ]
+    ],
+    "max": 100
+   },
+   "sources": [
+    {
+     "name": "Government of Canada",
+     "kind": "Filing",
+     "desc": "Program page, updated Nov 26",
+     "url": "https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund"
+    }
+   ],
+   "url": "https://receiptswire.com/e/2026-11-28/canada-compute/"
+  }
+ ],
+ "brief": [
+  {
+   "id": "holiday-ai-traffic",
+   "kick": "Agents",
+   "big": "$7.1B",
+   "line": "Record US online spending on Thanksgiving, as AI-referred visits rose 162%, Adobe says."
+  },
+  {
+   "id": "blackwell-shanghai",
+   "kick": "Chips",
+   "big": "GB300",
+   "line": "A banned Nvidia rack pledged as loan collateral at a Shanghai data center, Bloomberg reports."
+  },
+  {
+   "id": "nvidia-sea-halt",
+   "kick": "Chips",
+   "big": "4",
+   "line": "Southeast Asian countries where Nvidia halted AI server shipments, the FT reports."
+  },
+  {
+   "id": "muse-amazon",
+   "kick": "Agents",
+   "big": "~70%",
+   "line": "Share of Cyber Week agent shopping traffic HUMAN Security expects from Meta's Muse."
+  },
+  {
+   "id": "anthropic-ipo",
+   "kick": "Money",
+   "big": "$91.88",
+   "line": "Anthropic's Friday close, back above its $83 IPO price."
+  }
+ ],
+ "coming": [
+  [
+   "Mon",
+   "Nov 30",
+   "Cyber Monday. Adobe forecasts $15.1B online",
+   "holiday-ai-traffic"
+  ],
+  [
+   "Tue",
+   "Dec 1",
+   "Huang's closed-door House interview",
+   "nvidia"
+  ],
+  [
+   "Fri",
+   "Dec 11",
+   "FTSE Russell adds Anthropic, if eligible",
+   "anthropic-ipo"
+  ],
+  [
+   "Tue",
+   "Dec 15",
+   "Up to 303M more ANT shares unlock",
+   "anthropic-ipo"
+  ],
+  [
+   "Thu",
+   "Dec 17",
+   "Canada compute fund call closes",
+   "canada-compute"
+  ]
+ ]
+}

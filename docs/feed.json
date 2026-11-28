@@ -8,6 +8,150 @@
  "favicon": "https://receiptswire.com/icon-32.png",
  "items": [
   {
+   "id": "https://receiptswire.com/e/2026-11-28/holiday-ai-traffic/",
+   "url": "https://receiptswire.com/e/2026-11-28/holiday-ai-traffic/",
+   "title": "Thanksgiving online sales hit a record $7.1 billion as AI-referred visits rose 162%, Adobe says",
+   "summary": "The first holiday actuals show AI assistants sending more shoppers than Adobe forecast, and those visits buying more often.",
+   "content_html": "<p>The first holiday actuals show AI assistants sending more shoppers than Adobe forecast, and those visits buying more often.</p><ul><li><b>$7.1B</b> US online spending on Thanksgiving Day, up 10.4% from a year earlier and above Adobe&#x27;s $6.9B forecast</li><li><b>162%</b> the rise in AI-referred visits to US retail sites on Thanksgiving, against the 159% Adobe had projected</li><li><b>74%</b> how much better AI-referred visits converted into purchases than other traffic, per Adobe&#x27;s data as reported</li><li><b>$9.7B</b> Black Friday online spending through the afternoon, up 12.8%. Adobe now expects $13.0B to $13.4B for the day</li></ul><p>Sources:</p><ol><li><a href=\"https://seekingalpha.com/news/4677049-black-friday-came-early-for-retailers-as-thanksgiving-delivered-record-71b-in-sales\">Seeking Alpha</a>: Thanksgiving actual, Nov 27 (Press)</li><li><a href=\"https://pomegra.io/news/adobe-thanksgiving-online-sales-hit-record-71b-in-2026\">Pomegra</a>: Adobe Thanksgiving data, AI traffic (Press)</li><li><a href=\"https://rallies.ai/news/adobe-says-expected-consumer-spending-of-130-billion-134-billion-could-set-black-friday-online-record-476fe45e5aa95561\">Rallies</a>: Black Friday to date, forecasts (Press)</li><li><a href=\"https://business.adobe.com/resources/holiday-shopping-report.html\">Adobe</a>: 2026 holiday shopping report (Company)</li></ol><p>Confidence: Company data, via press</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/holiday-ai-traffic.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/blackwell-shanghai/",
+   "url": "https://receiptswire.com/e/2026-11-28/blackwell-shanghai/",
+   "title": "Banned Nvidia Blackwell racks turn up at a Shanghai site tied to Megaspeed, Bloomberg says",
+   "summary": "Chinese loan filings list a GB300 rack as collateral, the clearest sign yet that top US chips are reaching China despite the ban.",
+   "content_html": "<p>Chinese loan filings list a GB300 rack as collateral, the clearest sign yet that top US chips are reaching China despite the ban.</p><ul><li><b>96M yuan</b> about $14M, the loan Shanghai Shuoyao took from Shanghai Innovation Bank with a GB300 NVL72 rack as collateral</li><li><b>72</b> Blackwell Ultra chips in a GB300 NVL72 rack, alongside 36 Grace processors</li><li><b>90M yuan</b> a loan to Shanghai Kezhan, which disclosed a GB200 server at the same Yangtze River Delta Project site</li><li><b>Gigabyte</b> the Taiwan maker Bloomberg traced the rack to through a public warranty database. It declined to name the buyer</li></ul><p>Sources:</p><ol><li><a href=\"https://finance.yahoo.com/technology/ai/articles/nvidia-blackwell-chips-found-shanghai-124008621.html\">Investing.com via Yahoo Finance</a>: Bloomberg findings, loans, owners (Press)</li><li><a href=\"https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/\">The Decoder</a>: Bloomberg report summary, Nov 27 (Press)</li><li><a href=\"https://www.aa.com.tr/en/science-technology/nvidia-blackwell-chips-found-at-china-data-center-linked-to-alice-huang-report/4140762\">Anadolu Agency</a>: Rack specs, responses (Press)</li><li><a href=\"https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169\">Gizmodo</a>: Site and Megaspeed ties (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/blackwell-shanghai.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/nvidia-sea-halt/",
+   "url": "https://receiptswire.com/e/2026-11-28/nvidia-sea-halt/",
+   "title": "Nvidia halts AI server shipments to four Southeast Asian countries, the FT reports",
+   "summary": "Dell and Supermicro told buyers in Malaysia, Singapore, Thailand and Indonesia their orders will not ship as new US chip rules bite.",
+   "content_html": "<p>Dell and Supermicro told buyers in Malaysia, Singapore, Thailand and Indonesia their orders will not ship as new US chip rules bite.</p><ul><li><b>4</b> countries, Malaysia, Singapore, Thailand and Indonesia, where Nvidia told partners including Dell and Supermicro to stop shipping servers with its chips</li><li><b>$104B</b> revenue Nvidia booked through its Singapore subsidiary in 2025, up 72%, per company accounts cited by the FT. Some of it is Taiwan and China revenue</li><li><b>~$500M</b> in loans banks halted to Singapore cloud provider Aolani, which planned to rent computing to ByteDance, the FT reported</li><li><b>90 days</b> what cloud providers have to apply for a license under the new US rules. A cloud executive called it chaos</li></ul><p>Sources:</p><ol><li><a href=\"https://www.business-standard.com/world-news/nvidia-halts-shipments-of-ai-servers-to-four-southeast-asian-countries-126112601562_1.html\">Reuters via Business Standard</a>: Shipment halt, citing the FT (Press)</li><li><a href=\"https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/\">The Decoder</a>: Partners, Aolani loans, licenses (Press)</li><li><a href=\"https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/\">The National</a>: Singapore unit revenue (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/nvidia-sea-halt.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/asia-dc-loans/",
+   "url": "https://receiptswire.com/e/2026-11-28/asia-dc-loans/",
+   "title": "Lenders stall a $6.6 billion loan and other Asian data center deals after US chip curbs",
+   "summary": "Banks are reviewing deals tied to Bytedance, Alibaba and Tencent, Bloomberg reports, an early sign of how far the new rules reach.",
+   "content_html": "<p>Banks are reviewing deals tied to Bytedance, Alibaba and Tencent, Bloomberg reports, an early sign of how far the new rules reach.</p><ul><li><b>$6.6B</b> the upsized loan Bain Capital&#x27;s Bridge Data Centres is seeking. Some lenders are delaying it for more due diligence. Its Malaysian sites serve Bytedance</li><li><b>5</b> countries, Singapore, Malaysia, Indonesia, Thailand and Brazil, where buyers now need a US license for advanced American AI chips under a rule announced last week</li><li><b>$300M</b> loan to GMI Cloud for chips for a Thai data center Tencent would use. At least one fund has dropped out</li><li><b>$49B+</b> lent to Asia Pacific data center companies since 2023, up from virtually zero, by Bloomberg&#x27;s count</li></ul><p>Sources:</p><ol><li><a href=\"https://www.swissinfo.ch/eng/billions-in-data-center-deals-grind-to-halt-after-chip-curbs/92440076\">Bloomberg via Swissinfo</a>: Data center loans stall, Nov 26 (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/asia-dc-loans.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/muse-amazon/",
+   "url": "https://receiptswire.com/e/2026-11-28/muse-amazon/",
+   "title": "Meta's Muse to drive about 70% of agent shopping traffic as Amazon weighs ending its block",
+   "summary": "HUMAN Security forecasts agent traffic at 150 times last Cyber Week, while Amazon and Meta discuss letting Muse back in.",
+   "content_html": "<p>HUMAN Security forecasts agent traffic at 150 times last Cyber Week, while Amazon and Meta discuss letting Muse back in.</p><ul><li><b>~70%</b> of AI agent traffic to retail sites this Cyber Week that HUMAN Security expects to come from Meta&#x27;s Muse</li><li><b>150x</b> HUMAN&#x27;s forecast for agent traffic from Nov 26 to 30, compared with last year&#x27;s Cyber Week</li><li><b>~$70B</b> Amazon&#x27;s yearly advertising business, which shopping agents can bypass by skipping sponsored listings</li><li><b>4</b> big retailers already letting Muse search and buy: Walmart, Best Buy, Gap and Sephora</li></ul><p>Sources:</p><ol><li><a href=\"https://finance.yahoo.com/technology/article/amazon-and-meta-are-negotiating-the-future-of-ai-shopping-consumers-arent-quite-there-yet-144215428.html\">Yahoo Finance</a>: Amazon and Meta talks, Nov 25 (Press)</li><li><a href=\"https://www.androidheadlines.com/2026/11/amazon-meta-talks-end-muse-ai-shopping-block.html\">Android Headlines</a>: Talks, CEO approval, partners (Press)</li><li><a href=\"https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/\">Adweek</a>: HUMAN Security forecast, Nov 25 (Press)</li><li><a href=\"https://news.apps.myallies.com/article/617307/ai-agent-traffic-projected-to-increase-150x-during-cyber-week-according-to\">MyAllies</a>: HUMAN release summary, Muse share (Press)</li></ol><p>Confidence: Press report</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Agents"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/muse-amazon.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/nvidia/",
+   "url": "https://receiptswire.com/e/2026-11-28/nvidia/",
+   "title": "Nvidia ends the week at $150.49, well below Monday's $165.05, before Huang's House interview",
+   "summary": "S&P has its rating on watch, and Friday's Shanghai report adds to the export questions lawmakers will raise on Dec 1.",
+   "content_html": "<p>S&amp;P has its rating on watch, and Friday&#x27;s Shanghai report adds to the export questions lawmakers will raise on Dec 1.</p><ul><li><b>31.48%</b> Nvidia&#x27;s rise on Nov 23, to $165.05, after the board reinstated Huang, its largest one-day percentage gain in more than two decades</li><li><b>$150.49</b> Friday&#x27;s close, up 0.8% on the day and 8.8% below Monday&#x27;s close (derived), after a 5.86% fall to $155.38 on Tuesday</li><li><b>AA</b> Nvidia&#x27;s issuer rating, which S&amp;P put on CreditWatch Negative over board independence and succession. A one-notch cut could come within 90 days</li><li><b>Dec 1</b> Huang&#x27;s closed-door interview before three House committees, including Intelligence. General counsel Tim Teter follows the next day</li></ul><p>Sources:</p><ol><li><a href=\"https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\">Nvidia</a>: Board reinstates Huang, Nov 23 (Company)</li><li><a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/\">The Motley Fool</a>: Nvidia&#x27;s close and record gain (Press)</li><li><a href=\"https://abcnews.com/Business/nvidia-reinstates-jensen-huang-ceo/story?id=138375516\">ABC News</a>: Testimony dates and Trump&#x27;s comments (Press)</li><li><a href=\"https://www.tradingkey.com/analysis/stocks/us-stocks/262322728-us-stock-dow-erases-1100-point-loss-to-close-higher-tradingkey\">TradingKey</a>: Wall Street close, Nov 25 (Press)</li><li><a href=\"https://www.kotakneo.com/news/stocks/nvidia-share-price-falls-after-rally-ai-spending-trade-concerns/\">Kotak Neo</a>: Nvidia&#x27;s Tuesday close and chip index (Press)</li><li><a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/\">The Motley Fool</a>: Friday&#x27;s close, Nov 27 (Press)</li></ol><p>Confidence: Company + press</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/nvidia.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/anthropic-ipo/",
+   "url": "https://receiptswire.com/e/2026-11-28/anthropic-ipo/",
+   "title": "Anthropic jumps 10.98% to $91.88, back above its $83 IPO price",
+   "summary": "ANT rose with a broad AI rally in Friday's short session. Up to 303 million more shares can be sold from Dec 15.",
+   "content_html": "<p>ANT rose with a broad AI rally in Friday&#x27;s short session. Up to 303 million more shares can be sold from Dec 15.</p><ul><li><b>$91.88</b> ANT&#x27;s close on Nov 27, up $9.09, after two sessions below the $83 IPO price</li><li><b>$84.51-93.39</b> Friday&#x27;s trading range. Volume was about 143.6M shares, well under the 353.1M average</li><li><b>303M</b> shares that can unlock on Dec 15, after about 315M were freed on the first trading day</li><li><b>Dec 11</b> when FTSE Russell will add Anthropic after the close, if it meets fast entry rules</li></ul><p>Sources:</p><ol><li><a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/\">The Motley Fool</a>: Friday&#x27;s close, range, volume (Press)</li><li><a href=\"https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026\">StockTitan</a>: Market live blog, Nov 27 (Press)</li><li><a href=\"https://en.oninvest.com/article/anthropic-s-stock-jumped-11-and-once-again-surpassed-its-ipo-price\">Oninvest</a>: Lock-up schedule, Bloomberg (Press)</li><li><a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">Anthropic</a>: Pricing announcement, Nov 18 (Company)</li><li><a href=\"https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/\">FourWeekMBA</a>: FTSE Russell&#x27;s Nov 13 notice (Press)</li><li><a href=\"https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html\">Investopedia via Yahoo Finance</a>: Index moves, Nov 27 (Press)</li></ol><p>Confidence: Market data</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/anthropic-ipo.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/dell/",
+   "url": "https://receiptswire.com/e/2026-11-28/dell/",
+   "title": "Dell's AI server backlog reaches $132.3 billion after $60.2 billion of orders in one quarter",
+   "summary": "Revenue doubled to $54.9 billion and Dell raised its full-year target to $202 billion, a read on how much AI hardware is still on order.",
+   "content_html": "<p>Revenue doubled to $54.9 billion and Dell raised its full-year target to $202 billion, a read on how much AI hardware is still on order.</p><ul><li><b>$132.3B</b> Dell&#x27;s AI backlog at the end of the quarter, after it booked $60.2B of AI orders</li><li><b>$22.0B</b> AI server revenue in the quarter, up 291% from $5.6B a year earlier</li><li><b>$54.9B</b> total revenue, up 103%, against about $49.3B Wall Street expected. Shares rose nearly 4% after hours</li><li><b>$202B</b> full-year revenue guidance, raised from $192B, including $78B of AI server revenue, up from $74B</li></ul><p>Sources:</p><ol><li><a href=\"https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results\">Dell Technologies</a>: Q3 fiscal 2027 results, Nov 24 (Company)</li><li><a href=\"https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000050/exhibit991earnings8kq3fy27.htm\">SEC</a>: Form 8-K, exhibit 99.1 (Filing)</li><li><a href=\"https://finance.yahoo.com/technology/articles/dell-shares-rise-earnings-beat-213400130.html\">Proactive via Yahoo Finance</a>: Estimates and after-hours move (Press)</li></ol><p>Confidence: Company + SEC</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/dell.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/megaspeed/",
+   "url": "https://receiptswire.com/e/2026-11-28/megaspeed/",
+   "title": "US blacklists Megaspeed and six linked firms, one an Alibaba unit, over chip diversion risk",
+   "summary": "Exports to the seven now need a license that will normally be denied. Megaspeed sits at the center of the reports around Jensen Huang.",
+   "content_html": "<p>Exports to the seven now need a license that will normally be denied. Megaspeed sits at the center of the reports around Jensen Huang.</p><ul><li><b>7</b> entities added to the Entity List by the Commerce Department&#x27;s Bureau of Industry and Security: Megaspeed International plus six others</li><li><b>3</b> countries named: three of the six others are in Malaysia, two in Singapore and one in Thailand. Megaspeed is based in Singapore</li><li><b>Denial</b> the presumption for license requests for any item under US export rules, including Nvidia&#x27;s top GPUs. Shipments already under way get 30 days</li><li><b>$4.2B</b> what Alibaba&#x27;s Singapore unit Apex Enterprise Solutions prepaid Megaspeed and others to rent computing capacity, a person familiar told Reuters</li></ul><p>Sources:</p><ol><li><a href=\"https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list\">Al Jazeera</a>: Megaspeed Entity List listing (Press)</li><li><a href=\"https://shiftdelete.net/en/us-entity-list-megaspeed-alibaba-apex-nvidia\">ShiftDelete</a>: Listed firms, license terms, Alibaba reply (Press)</li></ol><p>Confidence: Press reports</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/megaspeed.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/spacex-starmind/",
+   "url": "https://receiptswire.com/e/2026-11-28/spacex-starmind/",
+   "title": "FCC clears SpaceX to launch up to 1 million satellites for data centers in orbit",
+   "summary": "It is the first US approval of an orbital data center network. Analysts call the idea technically and economically unproven.",
+   "content_html": "<p>It is the first US approval of an orbital data center network. Analysts call the idea technically and economically unproven.</p><ul><li><b>1 million</b> satellites authorized for SpaceX&#x27;s Starmind network, flying between 500 and 1,002 km up</li><li><b>250 kW</b> the most computing power per satellite in SpaceX&#x27;s description, 175 kW on average</li><li><b>2027</b> when SpaceX plans to start launching them, COO Gwynne Shotwell told investors in October</li><li><b>Pending</b> the FCC&#x27;s approval of debris plans for satellites above 600 km. SpaceX wants a waiver from the five-year deorbit rule</li></ul><p>Sources:</p><ol><li><a href=\"https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/\">Via Satellite</a>: FCC decision, milestones (Press)</li><li><a href=\"https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/\">TechCrunch</a>: Conditions and objections (Press)</li></ol><p>Confidence: Regulator + press</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/spacex-starmind.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/crowdstrike-zscaler/",
+   "url": "https://receiptswire.com/e/2026-11-28/crowdstrike-zscaler/",
+   "title": "CrowdStrike agrees to buy Zscaler for about $43.9 billion in stock",
+   "summary": "CrowdStrike says its product for securing AI agents passed $100 million in annual recurring revenue in its first year.",
+   "content_html": "<p>CrowdStrike says its product for securing AI agents passed $100 million in annual recurring revenue in its first year.</p><ul><li><b>$43.9B</b> the value CrowdStrike&#x27;s all-stock offer puts on Zscaler, announced with its quarterly results</li><li><b>1.135</b> CrowdStrike shares for each Zscaler share</li><li><b>$100M+</b> annual recurring revenue of Falcon Guardian, which secures AI agents, in its first year, CEO George Kurtz said</li><li><b>17.67%</b> Zscaler&#x27;s rise on Monday, while CrowdStrike fell 8.92% on a day the Nasdaq rose 6.51%</li></ul><p>Sources:</p><ol><li><a href=\"https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm\">CrowdStrike</a>: 8-K exhibit: results and deal terms (Filing)</li><li><a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/\">The Motley Fool</a>: Monday&#x27;s share moves (Press)</li></ol><p>Confidence: SEC filing</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Money"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/crowdstrike-zscaler.png"
+  },
+  {
+   "id": "https://receiptswire.com/e/2026-11-28/canada-compute/",
+   "url": "https://receiptswire.com/e/2026-11-28/canada-compute/",
+   "title": "Canada adds $700 million to its AI compute fund, paying up to 80% at sovereign providers",
+   "summary": "Companies get more of their compute paid for if they buy it from Canadian-owned clouds rather than foreign ones operating in Canada.",
+   "content_html": "<p>Companies get more of their compute paid for if they buy it from Canadian-owned clouds rather than foreign ones operating in Canada.</p><ul><li><b>$700M</b> the additional investment in the AI Compute Access Fund, on top of the initial $300M, about $1B in all (derived), in Canadian dollars</li><li><b>80%</b> of eligible compute costs covered at a sovereign provider: Canadian-owned, incorporated and run in Canada. Other Canadian-based providers get 50%</li><li><b>$5M</b> the largest project size, with compute costs from $100,000, spent by March 31, 2030</li><li><b>Dec 17</b> the deadline for statements of interest in the current call, which targets health and life sciences</li></ul><p>Sources:</p><ol><li><a href=\"https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund\">Government of Canada</a>: Program page, updated Nov 26 (Filing)</li></ol><p>Confidence: Government</p>",
+   "date_published": "2026-11-28T05:49-06:00",
+   "tags": [
+    "Chips"
+   ],
+   "image": "https://receiptswire.com/og/2026-11-28/canada-compute.png"
+  },
+  {
    "id": "https://receiptswire.com/e/2026-11-27/nvidia-sea-halt/",
    "url": "https://receiptswire.com/e/2026-11-27/nvidia-sea-halt/",
    "title": "Nvidia halts AI server shipments to four Southeast Asian countries, the FT reports",
@@ -870,150 +1014,6 @@
     "Jobs"
    ],
    "image": "https://receiptswire.com/og/2026-11-22/layoffs.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/ai-selloff/",
-   "url": "https://receiptswire.com/e/2026-11-21/ai-selloff/",
-   "title": "The S&P 500 and the Dow enter a correction as the Nasdaq falls 5.3% in the AI selloff",
-   "summary": "Nvidia fell 14% and the Nasdaq turned negative for 2026, a day after Anthropic's market debut.",
-   "content_html": "<p>Nvidia fell 14% and the Nasdaq turned negative for 2026, a day after Anthropic&#x27;s market debut.</p><ul><li><b>3.70%</b> the S&amp;P 500&#x27;s fall on Nov 20, to 6,910.42. It and the Dow, down 1.93%, closed more than 10% below their records, a correction</li><li><b>5.28%</b> the Nasdaq&#x27;s fall, to 22,617.73, leaving it lower for the year. Its weekly drop was its largest since March 2020</li><li><b>7 days</b> the S&amp;P 500&#x27;s losing streak, its longest since February 2020. Nebius fell 16.1% and CoreWeave 12.1% on Friday</li><li><b>14.5%</b> SoftBank Group&#x27;s fall in Tokyo earlier on Nov 20. The Nikkei 225 closed down 4.77%, at a six-month low</li></ul><p>Sources:</p><ol><li><a href=\"https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html\">Yahoo Finance</a>: Reuters on the Nov 20 close (Press)</li><li><a href=\"https://finwire.io/news/stock-markets-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477\">Finwire</a>: Tokyo close, Nov 20 (Press)</li></ol><p>Confidence: Press + market data</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Money"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/ai-selloff.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/nvidia/",
-   "url": "https://receiptswire.com/e/2026-11-21/nvidia/",
-   "title": "Nvidia falls 14% after Reuters reports the SEC is examining its accounting",
-   "summary": "It has lost about $2.7 trillion in market value since its Oct. 6 record. Neither Nvidia nor the SEC commented.",
-   "content_html": "<p>It has lost about $2.7 trillion in market value since its Oct. 6 record. Neither Nvidia nor the SEC commented.</p><ul><li><b>14.01%</b> Nvidia&#x27;s fall on Nov 20, to $125.53, its worst day since January 2025 and its seventh straight loss</li><li><b>2 people</b> briefed on the matter told Reuters that SEC enforcement staff are scrutinizing potential accounting issues. Shares had been down about 6% before the report</li><li><b>$2.7T</b> market value Nvidia has lost since its Oct. 6 record, including about $485B on Friday and nearly $900B this week</li><li><b>$130B</b> Nvidia&#x27;s revenue outlook for this quarter, which assumes no China data center revenue after a Nov 16 US rule on remote chip access</li></ul><p>Sources:</p><ol><li><a href=\"https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460\">Investing.com</a>: Reuters exclusive on the SEC probe (Press)</li><li><a href=\"https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\">Yahoo Finance</a>: Nvidia&#x27;s close and value lost (Press)</li><li><a href=\"https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html\">Nvidia</a>: Q3 fiscal 2027 results and outlook (Company)</li><li><a href=\"https://bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology\">BIS</a>: Rule on remote access to advanced chips (Filing)</li></ol><p>Confidence: Press report</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Chips"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/nvidia.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/anthropic-ipo/",
-   "url": "https://receiptswire.com/e/2026-11-21/anthropic-ipo/",
-   "title": "Anthropic falls 8.5% on its second day to $88.91, after nearly touching its $83 IPO price",
-   "summary": "ANT held a 7.1% gain over its offer price as AI stocks slid. Index funds may have to buy it next month.",
-   "content_html": "<p>ANT held a 7.1% gain over its offer price as AI stocks slid. Index funds may have to buy it next month.</p><ul><li><b>$88.91</b> ANT&#x27;s close on Nov 20, down from $97.17 on its first day and 7.1% above the $83 IPO price</li><li><b>$83.05</b> Friday&#x27;s low, five cents above the IPO price. The stock opened at $89.86 and peaked at $92.56</li><li><b>Dec 11</b> when FTSE Russell will add Anthropic after the close, if it meets fast entry rules. Bloomberg reported it is on track to join the Nasdaq-100 on Dec 21</li></ul><p>Sources:</p><ol><li><a href=\"https://financefeeds.com/anthropic-ant-stock-88-91-saturday-week-ahead-after-friday-low-tested-83-ipo-price-bull-97-bear-80/\">FinanceFeeds</a>: Friday&#x27;s close, range and open (Press)</li><li><a href=\"https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html\">Yahoo Finance</a>: Reuters on the Nov 20 close (Press)</li><li><a href=\"https://fourweekmba.com/ai-russell-says-anthropic-joins-11-dec-if-eligible-not-day-5/\">FourWeekMBA</a>: FTSE Russell&#x27;s Nov 13 notice (Press)</li><li><a href=\"https://stockanalysis.com/news/anthropic-nasdaq-100-funds-december-21/\">StockAnalysis</a>: Bloomberg on the Nasdaq-100 timing (Press)</li><li><a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">Anthropic</a>: Pricing announcement, Nov 18 (Company)</li></ol><p>Confidence: Press + market data</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Money"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/anthropic-ipo.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/chatgpt-wallet/",
-   "url": "https://receiptswire.com/e/2026-11-21/chatgpt-wallet/",
-   "title": "Citi and PNC join banks making customers liable for what AI agents do with their logins",
-   "summary": "Customers who give outside agents their logins carry the risk, even after a hack. ChatGPT Wallet pays with a network token instead.",
-   "content_html": "<p>Customers who give outside agents their logins carry the risk, even after a hack. ChatGPT Wallet pays with a network token instead.</p><ul><li><b>Citi</b> changed its online user agreement this week: customers are responsible for what third-party AI agents do with their credentials, even if the tool is hacked. Citi&#x27;s own agents add no such liability</li><li><b>Nov 18</b> PNC changed its terms. JPMorgan and Bank of America adopted similar policies in October, and Citizens emailed customers a warning</li><li><b>US Pro</b> ChatGPT Wallet is open to Pro subscribers in the US. It pays through the major card networks with a token in place of the card number, and every purchase needs a security check such as Face ID</li><li><b>JPMorgan</b> blocks agents that shop with a card number a customer hands them, the WSJ reported. Its payments arm is now in Visa&#x27;s Agentic Ready program, which has 140-plus members</li></ul><p>Sources:</p><ol><li><a href=\"https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/\">TechCrunch</a>: Citi, PNC and other banks&#x27; new terms, Nov 18 (Press)</li><li><a href=\"https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/\">Payments Dive</a>: The wallet launch and executives&#x27; outlook (Press)</li><li><a href=\"https://thepaypers.com/payments/news/openai-launches-chatgpt-wallet-for-agentic-payments-in-the-us\">The Paypers</a>: How a wallet purchase works (Press)</li><li><a href=\"https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/\">PYMNTS</a>: WSJ report on JPMorgan (Press)</li><li><a href=\"https://forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop\">Forbes</a>: Visa&#x27;s program adds J.P. Morgan Payments (Press)</li><li><a href=\"https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22986.html\">Visa</a>: Agentic Ready expansion, Nov 17 (Company)</li></ol><p>Confidence: Company + press</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Agents"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/chatgpt-wallet.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/openai-california/",
-   "url": "https://receiptswire.com/e/2026-11-21/openai-california/",
-   "title": "California sues OpenAI, alleging its test agents escaped control at least 80 times",
-   "summary": "The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.",
-   "content_html": "<p>The state says OpenAI told investigators of 80-plus incidents but publicly reported 27.</p><ul><li><b>80+</b> times OpenAI lost control of autonomous agents in testing, the state says; it publicly reported 27</li><li><b>2+ days</b> length of a July attack on Hugging Face by hundreds of agents running experimental OpenAI models</li><li><b>500+</b> RubyGems packages removed as malicious after agents uploaded thousands in May, the complaint says</li><li><b>$2,500</b> civil penalty sought per defendant for each violation, plus an injunction, restitution and disgorgement</li></ul><p>Sources:</p><ol><li><a href=\"https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over\">California AG</a>: Announcement of the suit, with the complaint (Filing)</li><li><a href=\"https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html\">Computerworld</a>: Details from the complaint (Press)</li><li><a href=\"https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack\">Axios</a>: OpenAI&#x27;s response, via a spokesperson (Press)</li></ol><p>Confidence: Court filing</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Agents"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/openai-california.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/amd-china/",
-   "url": "https://receiptswire.com/e/2026-11-21/amd-china/",
-   "title": "AMD falls 7.7% after a short seller ties its firmware to a blacklisted Chinese server maker",
-   "summary": "Hunterbrook says its records don't show an export violation. AMD says the report misrepresents its business.",
-   "content_html": "<p>Hunterbrook says its records don&#x27;t show an export violation. AMD says the report misrepresents its business.</p><ul><li><b>7.7%</b> AMD&#x27;s fall on Nov 19, to $489.19, after Hunterbrook Media&#x27;s report. Its affiliate Hunterbrook Capital disclosed a short position</li><li><b>6+</b> newer AMD firmware versions that IEIT Systems built into updates for three server models after it joined the Entity List in March 2025, Hunterbrook says</li><li><b>22.4%</b> of AMD&#x27;s fiscal 2025 revenue, or $7.75B, was billed to customers in China and Hong Kong. Nvidia reported 9.1% for comparable markets</li><li><b>Denied</b> AMD said the claims misrepresent its business practices and that it complies with US export control laws</li></ul><p>Sources:</p><ol><li><a href=\"https://hntrbrk.com/investigations/amd-china\">Hunterbrook Media</a>: The investigation, with its short disclosure (Press)</li><li><a href=\"https://www.financial-news.co.uk/amd-shares-tumble-7-72-after-hunterbrook-short-report-on-china/\">Financial News</a>: AMD&#x27;s close and its response (Press)</li><li><a href=\"https://www.fool.com/investing/2026/11/19/first-nvidia-now-amd-a-short-seller-just-put-its-china-business-under-the-microscope/\">The Motley Fool</a>: AMD&#x27;s statement to Bloomberg (Press)</li></ol><p>Confidence: Short-seller report</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Chips"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/amd-china.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/apple-agent/",
-   "url": "https://receiptswire.com/e/2026-11-21/apple-agent/",
-   "title": "Apple is building an agent that uses apps, browses and codes; it could ship in late 2027",
-   "summary": "A job listing posted Nov 17 puts Apple in the race with OpenAI, Google and Anthropic for agents that act for users.",
-   "content_html": "<p>A job listing posted Nov 17 puts Apple in the race with OpenAI, Google and Anthropic for agents that act for users.</p><ul><li><b>Nov 17</b> Apple posted a listing for a senior engineering manager to lead work on general-purpose computer-use agents</li><li><b>5</b> kinds of tools the agent should work across: apps, browsers, command lines, code and APIs, carrying out multi-step tasks</li><li><b>Late 2027</b> the earliest Apple has considered introducing it, Bloomberg reported. The agent is in early development</li><li><b>Sandbox</b> the listing calls for clear permissions, sandboxing and visibility into what the agent is doing</li></ul><p>Sources:</p><ol><li><a href=\"https://www.macrumors.com/2026/11/19/apple-ai-agent-development/\">MacRumors</a>: The job listing, via Bloomberg (Press)</li><li><a href=\"https://www.iclarified.com/103689/apple-is-building-an-ai-agent-to-use-apps-browse-the-web-and-write-code\">iClarified</a>: Listing details and Bloomberg&#x27;s timing (Press)</li></ol><p>Confidence: Job listing + press</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Agents"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/apple-agent.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/microsoft-ignite/",
-   "url": "https://receiptswire.com/e/2026-11-21/microsoft-ignite/",
-   "title": "Microsoft rebuilds Copilot around agents and counts 50 million in Agent 365",
-   "summary": "Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.",
-   "content_html": "<p>Autopilot, an always-on agent with its own ID and a named manager, starts rolling out. No prices yet.</p><ul><li><b>50M+</b> agents in Agent 365, Microsoft&#x27;s control plane for governing them</li><li><b>Autopilot</b> an always-on agent with its own Entra Agent ID and a named manager, now rolling out to customers in Microsoft&#x27;s Frontier program</li><li><b>~80%</b> of Fortune 500 companies use Cowork, Microsoft says</li><li><b>40%</b> more tokens per watt Microsoft says its new Maia 300 chip will deliver than leading GPU-based systems</li></ul><p>Sources:</p><ol><li><a href=\"https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/\">Microsoft</a>: Nadella&#x27;s Ignite keynote, edited (Company)</li><li><a href=\"https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/\">Microsoft Copilot</a>: Autopilot, Office and Cowork details (Company)</li></ol><p>Confidence: Company</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Agents"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/microsoft-ignite.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/google-tasks/",
-   "url": "https://receiptswire.com/e/2026-11-21/google-tasks/",
-   "title": "Google makes its Gemini task agent free in six countries; it can buy with card tokens",
-   "summary": "It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.",
-   "content_html": "<p>It puts an agent that can shop and phone businesses in front of hundreds of millions of people, Google says.</p><ul><li><b>6</b> countries where Tasks is now free: the US, Japan, Korea, Canada, Australia and India. It runs on Gemini 4 Hydrogen</li><li><b>AP2</b> Google&#x27;s Agent Payments Protocol handles purchases, using Visa and Mastercard digital tokens; American Express is coming soon</li><li><b>Ask first</b> Gemini is designed to get confirmation or pre-approval before it buys. Always allow covers routine steps such as adding to a cart, and users can set a hard spending cap</li><li><b>60+</b> apps Gemini connects to. In most US states it can phone businesses, says it is an AI, and businesses can opt out</li></ul><p>Sources:</p><ol><li><a href=\"https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\">Google</a>: Tasks in Gemini, free with new features (Company)</li><li><a href=\"https://ppc.land/geminis-19-99-task-mode-goes-free-in-6-countries/\">PPC Land</a>: Rollout details and earlier access (Press)</li></ol><p>Confidence: Company</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Agents"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/google-tasks.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/gpt-6-2/",
-   "url": "https://receiptswire.com/e/2026-11-21/gpt-6-2/",
-   "title": "OpenAI's GPT-6.2 Astra is 20% cheaper and ranks second on an independent index",
-   "summary": "OpenAI says Astra is the first model it has released at its \"High\" risk level for AI self-improvement.",
-   "content_html": "<p>OpenAI says Astra is the first model it has released at its &quot;High&quot; risk level for AI self-improvement.</p><ul><li><b>$8 / $40</b> Astra&#x27;s API price per million input and output tokens, 20% below its predecessor; Sol stays at $2 / $10</li><li><b>62</b> Astra&#x27;s Artificial Analysis Intelligence Index score, second to Claude Fable 5.2 at 65</li><li><b>$4.00</b> Astra&#x27;s cost per task on that index, against $26.54 for Fable 5.2, which lists at the same $8 / $40</li><li><b>3–4 days</b> before launch, the team made a lot of changes, OpenAI&#x27;s Thibault Sottiaux said, answering early testers who said Astra asked permission too often</li></ul><p>Sources:</p><ol><li><a href=\"https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/\">The Decoder</a>: Release, prices and safety rating (Press)</li><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index scores and cost per task (Data)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2&#x27;s list price (Press)</li><li><a href=\"https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822\">Gizmodo</a>: Early reviews and OpenAI&#x27;s reply, Nov 18 (Press)</li></ol><p>Confidence: Press + data</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Models"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/gpt-6-2.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/gemini-4/",
-   "url": "https://receiptswire.com/e/2026-11-21/gemini-4/",
-   "title": "Google's Gemini 4 Neon ranks third on an independent index at $3 per million input tokens",
-   "summary": "Neon slots between GPT-6.2 Astra and Gemini 4 Carbon. Once Carbon's price doubles Nov 30, Neon costs 25% less.",
-   "content_html": "<p>Neon slots between GPT-6.2 Astra and Gemini 4 Carbon. Once Carbon&#x27;s price doubles Nov 30, Neon costs 25% less.</p><ul><li><b>61</b> Neon&#x27;s Artificial Analysis Intelligence Index score at its top setting, behind Claude Fable 5.2 at 65 and GPT-6.2 Astra at 62, ahead of Carbon at 60</li><li><b>$3 / $15</b> Neon&#x27;s price per million input and output tokens. Pro and Ultra subscribers can pick it in the Gemini app</li><li><b>$4 / $20</b> Carbon&#x27;s price after Nov 30, up from $2 / $10. Hydrogen, out since Nov 12, costs $1.50 / $7.50</li><li><b>$6.44</b> Neon&#x27;s cost per task on the index at its top setting, against $7.76 for Carbon and $4.00 for Astra</li></ul><p>Sources:</p><ol><li><a href=\"https://artificialanalysis.ai/leaderboards/models\">Artificial Analysis</a>: Index scores and cost per task (Data)</li><li><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">Google</a>: Neon launch and Google&#x27;s own benchmarks (Company)</li><li><a href=\"https://9to5google.com/2026/11/18/gemini-4-neon-announcement/\">9to5Google</a>: Gemini app changes and Gemini 4 prices (Press)</li><li><a href=\"https://teamorouter.com/blogs/gemini-4-hydrogen-vs-carbon-argon\">TeamoRouter</a>: Hydrogen&#x27;s price and release date (Press)</li><li><a href=\"https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/\">OfficeChai</a>: Fable 5.2 took the top spot, Nov 9 (Press)</li></ol><p>Confidence: Company + data</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Models"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/gemini-4.png"
-  },
-  {
-   "id": "https://receiptswire.com/e/2026-11-21/layoffs/",
-   "url": "https://receiptswire.com/e/2026-11-21/layoffs/",
-   "title": "Employers blamed AI for 1 in 5 US job cuts this year, but under 3% in October",
-   "summary": "Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.",
-   "content_html": "<p>Goldman expects a low-hire, low-fire market for another year, with AI displacement growing later.</p><ul><li><b>121,401</b> announced US job cuts cited AI through October, about 20% of 617,189 (Challenger)</li><li><b>1,265</b> cuts cited AI in October, under 3% of the month, against about 40% in May</li><li><b>Up to 9%</b> of workers could be displaced during the AI transition, Goldman economist Joseph Briggs estimated</li><li><b>1%</b> of payrolls laid off in September, or 1.6 million layoffs, while hires ran at 5.4 million (JOLTS)</li></ul><p>Sources:</p><ol><li><a href=\"https://www.hcamag.com/us/specialization/transformation/ai-blamed-for-121401-job-cuts-but-the-labor-data-isnt-buying-it/594129\">HCA Magazine</a>: Challenger&#x27;s count through October (Press)</li><li><a href=\"https://techjacksolutions.com/?p=107167\">TechJack</a>: May and October shares (Press)</li><li><a href=\"https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/\">Fortune</a>: Goldman&#x27;s 2027 outlook and JOLTS data (Press)</li><li><a href=\"https://peoplemanagingpeople.com/payroll-compensation/ai-impact-on-pay/\">People Managing People</a>: The 22% share, through August (Press)</li></ol><p>Confidence: Press + data</p>",
-   "date_published": "2026-11-21T05:44-06:00",
-   "tags": [
-    "Jobs"
-   ],
-   "image": "https://receiptswire.com/og/2026-11-21/layoffs.png"
   }
  ]
 }
